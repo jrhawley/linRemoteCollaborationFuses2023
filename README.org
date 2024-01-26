@@ -1,0 +1,5 @@
+#+TITLE: Replication of "Remote collaboration fuses fewer breakthrough ideas"
+#+AUTHOR: James Hawley <work@jrhawley.ca>
+
+This repository explores and reproduces certain parts of the paper [[https://doi.org/10.1038/s41586-023-06767-1][Lin /et al./, Nature, 2023]].
+
