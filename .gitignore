@@ -1,1 +1,9 @@
 .direnv
+data/Paperid_Remoteness_Authors_Teamroles.csv
+data/Paperid_TimeZonedifference.txt
+data/Paperid_Year_Discipline_Teamsize_Distance_Dscore.txt
+data/Patentid_Timezonedifference.txt
+data/Patentid_Year_Field_Teamsize_Distance_Dscore.txt
+data/ScienceDisruptionCityEdges.txt
+data/TechnologyDisruptionCityEdges.txt
+data/TechnologyDisruptionCityNodes.csv

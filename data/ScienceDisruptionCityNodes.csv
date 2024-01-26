@@ -1,0 +1,2942 @@
+City,Latitude,Longitude,Color
+New York|New York|United States,40.79,-73.95,blue
+Seoul|@|South Korea,37.62,127.1,red
+London|England|United Kingdom,51.52,-0.13,red
+Haidian District|Beijing|China,39.99,116.36,red
+Moscow|Moscow|Russia,55.83,37.54,red
+Newark|Delaware|United States,39.68,-75.75,blue
+Munich|Bavaria|Germany,48.14,11.55,blue
+Washington|District of Columbia|United States,38.91,-77.04,red
+Cambridge|Massachusetts|United States,42.38,-71.12,red
+Chicago|Illinois|United States,41.88,-87.67,blue
+Tehran|@|Iran,35.66,51.47,red
+Los Angeles|California|United States,34.08,-118.25,red
+Philadelphia|Pennsylvania|United States,39.95,-75.16,blue
+Paris|Ile-de-France|France,48.85,2.36,blue
+Melbourne|Victoria|Australia,-38.37,145.02,blue
+Sydney|New South Wales|Australia,-33.87,151.22,blue
+Montreal|Quebec|Canada,45.5,-73.58,blue
+Boston|Massachusetts|United States,42.35,-71.08,red
+Toronto|Ontario|Canada,43.67,-79.38,blue
+Baltimore|Maryland|United States,39.3,-76.62,blue
+Boulogne-Billancourt|Ile-de-France|France,48.83,2.23,blue
+Bethesda|Maryland|United States,39.01,-77.1,blue
+Bunkyo|@|Japan,35.72,139.74,red
+Houston|Texas|United States,29.78,-95.63,blue
+Taipei|Taipei|Taiwan,25.02,121.55,red
+Ann Arbor|Michigan|United States,42.24,-83.74,blue
+Kyoto|@|Japan,35.03,135.76,red
+São Paulo|São Paulo|Brazil,-23.55,-46.63,red
+Seattle|Washington|United States,47.6,-122.33,blue
+Pittsburgh|Pennsylvania|United States,40.45,-80.0,blue
+Palo Alto|California|United States,37.41,-122.14,red
+Atlanta|Georgia|United States,33.76,-84.39,red
+Madison|Wisconsin|United States,43.08,-89.38,blue
+San Diego|California|United States,32.7,-117.25,blue
+Yanta|Shaanxi|China,34.23,108.96,red
+Stockholm|@|Sweden,59.33,18.06,blue
+New Delhi|Delhi|India,28.63,77.22,red
+Minneapolis|Minnesota|United States,44.98,-93.27,red
+Xuanwu District|Jiangsu|China,32.06,118.83,blue
+Berlin|Berlin|Germany,52.46,13.3,blue
+Cambridge|England|United Kingdom,52.21,0.11,blue
+Brisbane City|Queensland|Australia,-27.46,153.03,blue
+Kowloon|Hong Kong|China,22.32,114.18,red
+Copenhagen|@|Denmark,55.68,12.57,blue
+Mexico City|Mexico City|Mexico,19.51,-99.13,red
+Oxford|England|United Kingdom,51.76,-1.25,blue
+Amsterdam|North Holland|Netherlands,52.36,4.95,blue
+Ithaca|New York|United States,42.45,-76.47,blue
+Wuchang District|Hubei|China,30.59,114.31,red
+Xuhui District|@|China,31.19,121.43,red
+Rochester|Minnesota|United States,44.02,-92.47,blue
+Harbin|Heilongjiang|China,45.76,126.64,red
+Cleveland|Ohio|United States,41.48,-81.61,blue
+Kaifu|Hunan|China,28.23,113.01,red
+Yangpu District|@|China,31.31,121.55,blue
+Clayton|Missouri|United States,38.64,-90.34,blue
+Champaign|Illinois|United States,40.11,-88.23,red
+Columbus|Ohio|United States,39.95,-82.98,red
+Gainesville|Florida|United States,29.64,-82.35,red
+Milan|Lombardy|Italy,45.51,9.27,blue
+San Francisco|California|United States,37.8,-122.4,blue
+Berkeley|California|United States,37.87,-122.27,red
+Durham|North Carolina|United States,35.92,-78.87,blue
+Xihu District|Zhejiang|China,30.26,120.12,blue
+Sendai|@|Japan,38.3,140.87,red
+Ibaraki|@|Japan,34.82,135.53,red
+Tianjin|Tianjin|China,39.07,117.19,red
+New Haven|Connecticut|United States,41.31,-72.94,blue
+Electoral Area A|British Columbia|Canada,49.26,-123.24,blue
+Alcobendas|Community of Madrid|Spain,40.54,-3.65,blue
+Zurich|Zurich|Switzerland,47.41,8.54,blue
+Madrid|Community of Madrid|Spain,40.42,-3.71,red
+Brussels|@|Belgium,50.85,4.36,blue
+Davis|California|United States,38.55,-121.75,blue
+Singapore|@|Singapore,1.38,103.86,red
+Nagoya|@|Japan,35.21,137.0,red
+Vienna|Vienna|Austria,48.19,16.37,blue
+Edmonton|Alberta|Canada,53.54,-113.5,blue
+Rome|Lazio|Italy,41.93,12.61,red
+Canberra|@|Australia,-35.28,149.13,red
+State College|Pennsylvania|United States,40.79,-77.87,red
+Fukuoka|@|Japan,33.63,130.42,red
+Austin|Texas|United States,30.28,-97.74,red
+Ankara|@|Turkey,39.91,32.74,red
+Warsaw|Masovian Voivodeship|Poland,52.24,21.01,red
+Campinas|São Paulo|Brazil,-22.82,-47.07,red
+Mechelen|Antwerp|Belgium,51.03,4.49,blue
+(Old) Ottawa|Ontario|Canada,45.41,-75.74,blue
+Lafayette|Indiana|United States,40.4,-86.86,red
+Manchester|England|United Kingdom,53.47,-2.23,red
+Adelaide|South Australia|Australia,-35.02,138.57,blue
+Hyderabad|Telangana|India,17.4,78.44,red
+Guangzhou|Guangdong Province|China,23.15,113.34,blue
+East Lake High-tech Zone|Hubei|China,30.51,114.41,red
+Town of Hillsborough|North Carolina|United States,35.98,-79.15,blue
+Silver Spring|Maryland|United States,39.0,-77.03,red
+Glasgow|Scotland|United Kingdom,55.86,-4.24,red
+College Station|Texas|United States,30.62,-96.33,red
+Sapporo|@|Japan,43.13,141.25,blue
+Yokohama|@|Japan,35.57,139.55,red
+Mumbai|Maharashtra|India,19.21,72.83,red
+Chengdu City|Sichuan|China,30.82,104.2,blue
+Prague|Prague|Czechia,50.07,14.46,red
+Minato|@|Japan,35.65,139.75,red
+Malmo|@|Sweden,55.6,13.0,blue
+Bengaluru|Karnataka|India,12.96,77.51,red
+Dublin|@|Ireland,53.34,-6.27,red
+Edinburgh|Scotland|United Kingdom,55.95,-3.18,red
+Uppsala|@|Sweden,59.85,17.63,blue
+Perth|Western Australia|Australia,-31.98,115.82,blue
+Buenos Aires|Autonomous City of Buenos Aires|Argentina,-34.63,-58.46,blue
+Helsinki|@|Finland,60.17,24.96,blue
+Rochester|New York|United States,43.1,-77.61,blue
+Daejeon|@|South Korea,36.36,127.38,red
+Barcelona|Catalonia|Spain,41.39,2.17,blue
+Tsukuba|@|Japan,36.11,140.11,red
+Iowa City|Iowa|United States,41.66,-91.54,blue
+Lansing|Michigan|United States,42.73,-84.54,red
+Cincinnati|Ohio|United States,39.11,-84.51,red
+Istanbul|@|Turkey,41.01,28.96,red
+Versailles|Ile-de-France|France,48.8,2.14,blue
+Nottingham|England|United Kingdom,52.95,-1.15,red
+Birmingham|England|United Kingdom,52.5,-1.81,red
+New Brunswick|New Jersey|United States,40.5,-74.45,red
+Nashville|Tennessee|United States,36.17,-86.81,blue
+Chennai|Tamil Nadu|India,13.09,80.28,red
+Lausanne|Vaud|Switzerland,46.51,6.63,blue
+Heidelberg|Baden-Württemberg|Germany,49.42,8.74,blue
+Changchun City|Jilin|China,43.83,125.31,red
+Tucson|Arizona|United States,32.23,-110.96,red
+Utrecht|Utrecht|Netherlands,52.09,5.1,blue
+Jerusalem|Jerusalem District|Israel,31.8,35.19,red
+Rio de Janeiro|Rio de Janeiro|Brazil,-22.91,-43.16,red
+Ghent|East Flanders|Belgium,51.04,3.72,blue
+Cape Town|Western Cape|South Africa,-33.94,18.46,red
+Athens|Attica|Greece,37.98,23.74,red
+Jurong East|@|Singapore,1.33,103.75,red
+Gothenburg|@|Sweden,57.7,11.92,blue
+Salt Lake City|Utah|United States,40.77,-111.84,blue
+Detroit|Michigan|United States,42.36,-83.06,red
+Tel Aviv-Yafo|Tel Aviv District|Israel,32.1,34.82,blue
+Oslo|@|Norway,59.95,10.73,blue
+Charlottesville|Virginia|United States,38.03,-78.48,blue
+Haifa|Haifa District|Israel,32.76,35.02,red
+Hsinchu|Taiwan Province|Taiwan,24.8,120.98,red
+Chiyoda|@|Japan,35.69,139.74,red
+Kendall|Florida|United States,25.69,-80.34,blue
+Trenton|New Jersey|United States,40.22,-74.77,red
+Hong Kong Island|Hong Kong|China,22.25,114.17,blue
+Gulou District|Jiangsu|China,32.09,118.75,red
+Birmingham|Alabama|United States,33.55,-86.84,blue
+Cardiff|Wales|United Kingdom,51.51,-3.19,red
+Sheffield|England|United Kingdom,53.38,-1.5,red
+London|Ontario|Canada,43.01,-81.26,blue
+Budapest|@|Hungary,47.49,19.08,red
+Licheng District|Shandong|China,36.67,117.05,red
+The Hague|South Holland|Netherlands,52.07,4.31,blue
+Bristol|England|United Kingdom,51.46,-2.59,red
+Leeds|England|United Kingdom,53.8,-1.55,red
+Calgary|Alberta|Canada,50.99,-114.1,blue
+Raleigh|North Carolina|United States,35.82,-78.7,red
+Erlangen|Bavaria|Germany,49.6,11.0,blue
+Lexington|Kentucky|United States,38.02,-84.5,blue
+Irvine|California|United States,33.65,-117.81,blue
+Ames|Iowa|United States,42.01,-93.63,red
+Padua|Veneto|Italy,45.42,11.87,blue
+Pasadena|California|United States,34.15,-118.08,blue
+Hamilton|Ontario|Canada,43.26,-79.92,blue
+Valencia|Valencian Community|Spain,39.47,-0.38,blue
+Liverpool|England|United Kingdom,53.47,-2.93,red
+Roanoke|Virginia|United States,37.26,-79.94,red
+Aachen|North Rhine-Westphalia|Germany,50.78,6.08,red
+Dundee|Scotland|United Kingdom,56.46,-2.97,red
+Tainan|@|Taiwan,23.11,120.3,red
+Milwaukee|Wisconsin|United States,43.04,-87.9,red
+Athens|Georgia|United States,33.94,-83.37,red
+Boulder|Colorado|United States,39.94,-105.25,blue
+Bridgeport|Connecticut|United States,41.19,-73.17,red
+Ganjingzi|Liaoning|China,38.87,121.53,blue
+Baohe District|Anhui|China,31.82,117.28,blue
+Southampton|England|United Kingdom,50.93,-1.4,red
+Bologna|Emilia-Romagna|Italy,44.49,11.34,blue
+Baton Rouge|Louisiana|United States,30.4,-91.13,red
+Turin|Piemont|Italy,45.06,7.66,red
+Chaoyang District|Beijing|China,39.97,116.42,red
+Wilmot|Ontario|Canada,43.47,-80.54,red
+Leipzig|Saxony|Germany,51.34,12.35,blue
+Göttingen|Lower Saxony|Germany,51.54,9.93,blue
+Albuquerque|New Mexico|United States,35.08,-106.59,red
+Shenyang City|Liaoning|China,41.89,123.41,red
+Aarhus|@|Denmark,56.14,10.19,blue
+Rotterdam|South Holland|Netherlands,51.91,4.5,blue
+Columbia|Missouri|United States,38.94,-92.33,red
+Auckland|Auckland|New Zealand,-36.85,174.76,blue
+Kingston|Ontario|Canada,44.24,-76.5,blue
+Groningen|Groningen|Netherlands,53.24,6.53,blue
+Nijmegen|Gelderland|Netherlands,51.82,5.87,blue
+Hamburg|@|Germany,53.57,10.0,red
+Pullman|Washington|United States,46.73,-117.18,blue
+Winnipeg|Manitoba|Canada,49.89,-97.14,red
+Lisbon|@|Portugal,38.76,-9.19,blue
+Krakow|Lesser Poland Voivodeship|Poland,50.07,19.91,red
+City of London|England|United Kingdom,51.52,-0.08,red
+Basel|Basel-City|Switzerland,47.55,7.58,red
+Quebec|Quebec|Canada,46.81,-71.21,blue
+Delft|South Holland|Netherlands,52.01,4.36,red
+Dallas|Texas|United States,32.78,-96.8,blue
+Newcastle upon Tyne|England|United Kingdom,54.97,-1.62,red
+Lawrence|Kansas|United States,38.94,-95.23,blue
+Bonn|North Rhine-Westphalia|Germany,50.7,7.14,red
+Taoyuan City|@|Taiwan,24.95,121.23,red
+Bloomington|Indiana|United States,39.17,-86.52,blue
+Richmond|Virginia|United States,37.54,-77.43,blue
+San Antonio|Texas|United States,29.47,-98.71,red
+Wiesbaden|Hesse|Germany,50.08,8.22,blue
+Porto Alegre|Rio Grande do Sul|Brazil,-30.08,-51.22,red
+Newton|Massachusetts|United States,42.29,-71.19,blue
+Hiroshima|@|Japan,34.38,132.46,red
+Freiburg im Breisgau|Baden-Württemberg|Germany,48.0,7.85,blue
+Cologne|North Rhine-Westphalia|Germany,50.94,6.96,red
+Providence|Rhode Island|United States,41.83,-71.43,blue
+Northampton|Massachusetts|United States,42.34,-72.63,red
+Kolkata|West Bengal|India,22.54,88.35,red
+Zhengzhou|Henan|China,34.83,113.55,red
+Pittsfield|Massachusetts|United States,42.46,-73.31,blue
+Busan|@|South Korea,35.07,129.09,red
+Guelph|Ontario|Canada,43.53,-80.23,blue
+Tempe|Arizona|United States,33.41,-111.89,blue
+New Orleans|Louisiana|United States,30.02,-89.92,red
+Amherst|New York|United States,42.96,-78.72,red
+Shapingba|Chongqing|China,29.54,106.45,red
+Portland|Oregon|United States,45.5,-122.68,blue
+Reutlingen|Baden-Württemberg|Germany,48.48,9.19,blue
+Santiago|Santiago Metropolitan Region|Chile,-33.45,-70.66,red
+"Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória|@|Portugal",41.15,-8.62,blue
+Aberdeen City|Scotland|United Kingdom,57.13,-2.16,red
+Norwich|Connecticut|United States,41.54,-72.09,blue
+South Bend|Indiana|United States,41.68,-86.25,blue
+Trondheim|@|Norway,63.42,10.41,red
+Halifax|Nova Scotia|Canada,44.67,-63.65,blue
+Rehovot|Center District|Israel,31.91,34.81,blue
+Westminster|England|United Kingdom,51.52,-0.15,red
+Stuttgart|Baden-Württemberg|Germany,48.82,9.09,red
+Bochum|North Rhine-Westphalia|Germany,51.48,7.23,blue
+Okayama|@|Japan,34.67,133.92,red
+Isfahan|Isfahan Province|Iran,32.62,51.66,red
+Kobe|@|Japan,34.73,135.23,red
+Fort Collins|Colorado|United States,40.6,-105.07,red
+Knoxville|Tennessee|United States,35.96,-83.97,red
+Shinjuku|@|Japan,35.69,139.69,red
+Leicester|England|United Kingdom,52.63,-1.14,red
+Fairfax|Virginia|United States,38.85,-77.3,red
+Florence|Tuscany|Italy,43.78,11.26,blue
+Kharagpur|West Bengal|India,22.32,87.31,red
+Izmir|@|Turkey,38.43,27.14,red
+Taichung|Taichung|Taiwan,24.22,120.69,red
+Chiba|@|Japan,35.63,140.11,red
+Santa Barbara|California|United States,34.43,-119.71,blue
+Pretoria|Gauteng|South Africa,-25.75,28.2,red
+Graz|Styria|Austria,47.07,15.45,red
+Kaohsiung|@|Taiwan,22.73,120.31,red
+Beer Sheva|South District|Israel,31.27,34.78,red
+Gwangju|@|South Korea,35.19,126.85,red
+Hanover|Lower Saxony|Germany,52.35,9.79,red
+Xicheng District|Beijing|China,39.91,116.36,blue
+Frankfurt|Hesse|Germany,50.11,8.67,blue
+Arcueil|Ile-de-France|France,48.81,2.33,blue
+Johannesburg|Gauteng|South Africa,-26.21,28.04,red
+Stamford|Connecticut|United States,41.05,-73.54,red
+Varanasi|Uttar Pradesh|India,25.26,83.0,red
+Pisa|Tuscany|Italy,43.72,10.4,red
+Saskatoon|Saskatchewan|Canada,52.11,-106.7,blue
+Shiraz|Fars Province|Iran,29.63,52.52,red
+Karlsruhe|Baden-Württemberg|Germany,49.01,8.4,red
+Corvallis|Oregon|United States,44.56,-123.28,red
+Bangkok|Bangkok|Thailand,13.85,100.56,red
+Oakbrook Terrace|Illinois|United States,41.85,-87.96,red
+Memphis|Tennessee|United States,35.15,-89.99,blue
+Lucknow|Uttar Pradesh|India,26.8,80.94,red
+Tampa|Florida|United States,27.95,-82.47,red
+Umeå|@|Sweden,63.82,20.3,blue
+Dunedin|Otago|New Zealand,-45.87,170.51,blue
+Charleston|South Carolina|United States,32.8,-79.96,blue
+Cerdanyola del Vallès|Catalonia|Spain,41.49,2.11,blue
+Hefei City|Anhui|China,31.85,117.25,red
+Medford|Massachusetts|United States,42.41,-71.12,blue
+Tallahassee|Florida|United States,30.45,-84.34,blue
+Osaka|@|Japan,34.69,135.52,red
+Changping District|Beijing|China,40.19,116.42,red
+Thessaloniki|Macedonia and Thrace|Greece,40.63,22.96,red
+Kuala Lumpur|@|Malaysia,3.16,101.71,red
+Wroclaw|Lower Silesian Voivodeship|Poland,51.09,17.02,red
+Turku|@|Finland,60.45,22.29,blue
+Wuhan|Hubei|China,30.65,114.58,blue
+Bern|Bern|Switzerland,46.95,7.43,blue
+Winston-Salem|North Carolina|United States,36.09,-80.24,blue
+凌云路街道|@|China,31.14,121.42,blue
+Sofia|@|Bulgaria,42.65,23.35,red
+Lanzhou|Gansu|China,36.05,103.86,red
+Dresden|Saxony|Germany,51.03,13.73,red
+Worcester|Massachusetts|United States,42.28,-71.76,blue
+Xiamen City|Fujian|China,24.44,118.09,blue
+Omaha|Nebraska|United States,41.24,-96.02,red
+Kyiv|@|Ukraine,50.35,30.48,red
+Lincoln|Nebraska|United States,40.82,-96.7,red
+Oak Ridge|Tennessee|United States,36.01,-84.26,red
+Dusseldorf|North Rhine-Westphalia|Germany,51.23,6.77,blue
+Granada|Andalusia|Spain,37.19,-3.62,blue
+Newark|New Jersey|United States,40.74,-74.19,red
+Columbia|South Carolina|United States,34.0,-81.03,red
+Manhattan|Kansas|United States,39.19,-96.58,red
+Belgrade|Central Serbia|Serbia,44.82,20.46,red
+Louisville|Kentucky|United States,38.25,-85.77,red
+Coventry|England|United Kingdom,52.39,-1.49,red
+Belo Horizonte|Minas Gerais|Brazil,-19.94,-43.93,red
+Petah Tikva|Center District|Israel,32.08,34.88,blue
+Riverside|California|United States,33.98,-117.33,blue
+Santa Fe|New Mexico|United States,35.68,-105.93,red
+Ulsan|@|South Korea,35.57,129.31,blue
+'s-Hertogenbosch|North Brabant|Netherlands,51.71,5.34,red
+Denver|Colorado|United States,39.66,-105.03,blue
+Lebanon|New Hampshire|United States,43.68,-72.26,blue
+Kanazawa|@|Japan,36.52,136.7,red
+Durban|KwaZulu-Natal|South Africa,-29.85,31.01,red
+Akron|Ohio|United States,41.07,-81.48,red
+Geneva|Geneva|Switzerland,46.19,6.15,blue
+Belfast|Northern Ireland|United Kingdom,54.59,-5.96,red
+Syracuse|New York|United States,43.03,-76.14,red
+Chandigarh|Chandigarh|India,30.77,76.78,red
+Morgantown|West Virginia|United States,39.62,-79.96,red
+Honolulu|Hawaii|United States,21.32,-157.86,red
+Kanpur|Uttar Pradesh|India,26.45,80.27,red
+Bergen|@|Norway,60.34,5.36,blue
+Dayton|Ohio|United States,39.76,-84.19,red
+Saint Petersburg|Saint Petersburg|Russia,59.92,30.32,red
+Liège|Liège|Belgium,50.64,5.57,red
+Santiago de Compostela|Galicia|Spain,42.88,-8.56,blue
+Chenghua District|Sichuan|China,30.74,104.14,red
+Ljubljana|@|Slovenia,46.07,14.51,red
+Galveston|Texas|United States,29.31,-94.79,blue
+Bilbao|Autonomous Community of the Basque Country|Spain,43.27,-2.94,blue
+Gießen|Hesse|Germany,50.59,8.68,blue
+City of Albany|New York|United States,42.65,-73.75,red
+Daegu|@|South Korea,35.85,128.59,red
+Newcastle|New South Wales|Australia,-32.89,151.7,red
+Toulouse|Occitania|France,43.6,1.46,red
+Seville|Andalusia|Spain,37.38,-5.99,blue
+Toledo|Ohio|United States,41.67,-83.54,red
+Ede|Gelderland|Netherlands,52.03,5.63,blue
+Rajpur Sonarpur|West Bengal|India,22.52,88.42,red
+Dongcheng District|Beijing|China,39.91,116.41,red
+Manville|New Jersey|United States,40.54,-74.58,red
+Niigata|@|Japan,37.88,138.96,blue
+Hart|England|United Kingdom,51.3,-0.82,red
+Tabriz|East Azerbaijan Province|Iran,38.07,46.29,red
+Giza|Giza|Egypt,30.04,31.22,red
+Baldwin Park|California|United States,34.09,-117.95,red
+Jingkou District|Jiangsu|China,32.19,119.52,red
+Cairo|Cairo|Egypt,30.08,31.29,red
+North Hertfordshire|England|United Kingdom,51.95,-0.28,red
+Durham|England|United Kingdom,54.8,-1.61,red
+Baoshan District|@|China,31.41,121.49,red
+Suzhou City|Jiangsu|China,31.59,120.78,blue
+Kunming|Yunnan|China,25.06,102.7,red
+Little Rock|Arkansas|United States,34.75,-92.32,blue
+Lyon|Auvergne-Rhône-Alpes|France,45.75,4.85,blue
+Bordeaux|New Aquitaine|France,44.83,-0.61,red
+Indianapolis|Indiana|United States,39.83,-86.18,red
+Wellington|Wellington|New Zealand,-41.29,174.76,blue
+Naples|Campania|Italy,40.85,14.25,blue
+Auburn|Alabama|United States,32.61,-85.43,red
+Gdansk|Pomeranian Voivodeship|Poland,54.34,18.66,red
+Kumamoto|@|Japan,32.81,130.73,red
+Perugia|Umbria|Italy,43.12,12.39,blue
+Saint Louis|Missouri|United States,38.63,-90.2,red
+Swansea|Wales|United Kingdom,51.62,-3.98,red
+Espoo|@|Finland,60.19,24.81,red
+Guwahati|Assam|India,26.15,91.66,blue
+George Town|Penang|Malaysia,5.42,100.31,red
+Riyadh|Riyadh Region|Saudi Arabia,24.69,46.71,red
+Linköping|@|Sweden,58.4,15.56,red
+Puducherry|Puducherry|India,11.94,79.84,red
+Jena|Thuringia|Germany,50.91,11.57,blue
+Darmstadt|Hesse|Germany,49.87,8.65,red
+Kiel|Schleswig-Holstein|Germany,54.34,10.12,blue
+Reigate and Banstead|England|United Kingdom,51.34,-0.19,red
+Mashhad|Razavi Khorasan|Iran,36.31,59.53,red
+Pidu District|Sichuan|China,30.77,103.98,blue
+Brighton|England|United Kingdom,50.83,-0.13,red
+Burlington|Vermont|United States,44.45,-73.22,blue
+Oulu|@|Finland,65.01,25.51,red
+Norman|Oklahoma|United States,35.23,-97.44,red
+Borough of Charnwood|England|United Kingdom,52.77,-1.22,red
+Tokushima|@|Japan,34.04,134.53,red
+Pohang-si|@|South Korea,36.01,129.33,red
+Palermo|Sicily|Italy,38.12,13.37,blue
+Eugene|Oregon|United States,44.05,-123.08,red
+Exeter|England|United Kingdom,50.71,-3.52,red
+Innsbruck|Tyrol|Austria,47.26,11.38,blue
+Maastricht|Limburg|Netherlands,50.84,5.72,blue
+City of Troy|New York|United States,42.73,-73.69,red
+Incheon|@|South Korea,37.54,126.72,red
+Enschede|Overijssel|Netherlands,52.24,6.85,red
+Subang Jaya|Selangor|Malaysia,3.08,101.59,red
+Antwerp|Antwerp|Belgium,51.22,4.41,blue
+Laoshan District|Shandong|China,36.12,120.48,red
+Iksan-si|@|South Korea,35.97,126.96,red
+Gifu|@|Japan,35.43,136.72,red
+Nagasaki|@|Japan,32.75,129.94,red
+Cangshan|Fujian|China,26.09,119.23,blue
+Bath|England|United Kingdom,51.39,-2.36,red
+Anderson|South Carolina|United States,34.51,-82.65,red
+Stillwater|Oklahoma|United States,36.13,-97.07,red
+Triest|Friuli-Venezia Giulia|Italy,45.65,13.85,blue
+Burnaby|British Columbia|Canada,49.28,-122.92,blue
+Islamabad|Islamabad Capital Territory|Pakistan,33.71,73.07,red
+Qinhuai District|Jiangsu|China,32.04,118.81,red
+Florianópolis|Santa Catarina|Brazil,-27.6,-48.52,red
+Guildford|England|United Kingdom,51.24,-0.61,red
+Zaragoza|Aragon|Spain,41.64,-0.9,blue
+"Municipal Unit of Agrinio|Peloponnese, Western Greece and the Ionian|Greece",38.64,21.4,red
+Mangalore|Karnataka|India,12.87,74.86,red
+Vellore|Tamil Nadu|India,12.88,79.12,red
+Marseille|Provence-Alpes-Côte d'Azur|France,43.34,5.44,blue
+Saarbrücken|Saarland|Germany,49.26,7.04,red
+Zielona Góra|Lubusz Voivodeship|Poland,51.94,15.51,red
+Montpellier|Occitania|France,43.63,3.86,blue
+Orlando|Florida|United States,28.45,-81.4,red
+York|England|United Kingdom,53.96,-1.09,red
+Bogota|@|Colombia,4.71,-74.03,red
+Binhu District|Jiangsu|China,31.48,120.28,blue
+Roorkee|Uttarakhand|India,29.87,77.89,red
+Tuscaloosa|Alabama|United States,33.21,-87.56,red
+Aurora|Colorado|United States,39.74,-104.84,blue
+Beibei|Chongqing|China,29.81,106.41,blue
+Oviedo / Uviéu|Asturias|Spain,43.36,-5.85,blue
+Hertsmere|England|United Kingdom,51.65,-0.32,red
+Thiruvananthapuram|Kerala|India,8.52,76.93,red
+Maebashi|@|Japan,36.43,139.04,red
+Provo|Utah|United States,40.21,-111.65,red
+Leiria|@|Portugal,39.74,-8.81,blue
+Christchurch|Canterbury|New Zealand,-43.52,172.58,red
+Waltham|Massachusetts|United States,42.4,-71.26,red
+Curitiba|Paraná|Brazil,-25.45,-49.36,red
+Jeddah|Makkah Region|Saudi Arabia,21.49,39.25,red
+San Ramon|California|United States,37.76,-121.96,red
+Mysuru|Karnataka|India,12.31,76.64,red
+Augusta|Georgia|United States,33.47,-81.99,blue
+Matsumoto|@|Japan,36.18,137.94,red
+Wollongong City Council|New South Wales|Australia,-34.41,150.88,red
+Yeni Mahalle|@|Turkey,40.81,29.36,red
+Villeurbanne|Auvergne-Rhône-Alpes|France,45.78,4.87,red
+Saga|@|Japan,33.25,130.29,red
+Sherbrooke|Quebec|Canada,45.45,-71.87,blue
+Pavia|Lombardy|Italy,45.19,9.16,red
+Fayetteville|Arkansas|United States,36.07,-94.17,red
+Łódź|Łódź Voivodeship|Poland,51.8,19.44,red
+Pune|Maharashtra|India,18.54,73.8,red
+Lower Hutt|Wellington|New Zealand,-41.22,174.88,red
+Oakland|California|United States,37.81,-122.27,blue
+Norwich|England|United Kingdom,52.62,1.24,blue
+Aligarh|Uttar Pradesh|India,27.91,78.08,red
+Cork|@|Ireland,51.89,-8.51,blue
+Geelong|Victoria|Australia,-38.15,144.37,red
+Catania|Sicily|Italy,37.52,15.06,red
+Zagreb|@|Croatia,45.79,15.97,red
+Shinan|Shandong|China,36.06,120.33,blue
+Murcia|Region of Murcia|Spain,38.02,-1.17,blue
+Marburg|Hesse|Germany,50.81,8.81,blue
+Ardenais|Centre-Loire Valley|France,46.64,2.34,red
+Lubbock|Texas|United States,33.59,-101.89,red
+Genoa|Liguria|Italy,44.42,8.93,red
+Brno|Southeast|Czechia,49.2,16.55,red
+Bari|Apulia|Italy,41.12,16.87,red
+Ulm|Baden-Württemberg|Germany,48.42,9.95,blue
+Nanchang|Jiangxi|China,28.67,115.81,red
+El Paso|Texas|United States,31.77,-106.5,red
+Nonthaburi City Municipality|Nonthaburi Province|Thailand,13.88,100.54,red
+Yuzhong District|Chongqing|China,29.56,106.55,red
+Shinagawa|@|Japan,35.62,139.73,red
+Shahekou|Liaoning|China,38.9,121.59,red
+Coimbatore|Tamil Nadu|India,11.03,77.02,red
+Tambaram|Tamil Nadu|India,12.9,80.12,red
+Koto|@|Japan,35.68,139.81,red
+Yamaguchi|@|Japan,34.19,131.5,red
+Logan|Utah|United States,41.74,-111.81,red
+Reno|Nevada|United States,39.57,-119.8,blue
+Sceaux|Ile-de-France|France,48.77,2.29,red
+Hobart|Tasmania|Australia,-42.88,147.33,blue
+Kajang Municipal Council|Selangor|Malaysia,2.99,101.79,red
+Shizuoka|@|Japan,34.98,138.44,red
+Recife|Pernambuco|Brazil,-8.05,-34.95,red
+Brunswick|Lower Saxony|Germany,52.27,10.53,red
+Würzburg|Bavaria|Germany,49.79,9.94,blue
+Pamplona|Navarre|Spain,42.8,-1.64,blue
+Wilmington|Delaware|United States,39.74,-75.55,red
+Karachi|Sindh|Pakistan,24.88,67.05,red
+St. John's|Newfoundland and Labrador|Canada,47.58,-52.74,blue
+Tauranga|Bay of Plenty|New Zealand,-37.73,176.15,blue
+Bremen|Free Hanseatic City of Bremen|Germany,53.11,8.85,blue
+Townsville|Queensland|Australia,-19.33,146.76,blue
+Rennes|Brittany|France,48.11,-1.71,blue
+Lublin|Lublin Voivodeship|Poland,51.24,22.54,red
+Oklahoma City|Oklahoma|United States,35.41,-97.39,blue
+Münster|North Rhine-Westphalia|Germany,51.98,7.6,blue
+Iskandar Puteri|Johor|Malaysia,1.47,103.59,red
+Saanich|British Columbia|Canada,48.47,-123.31,blue
+Kagoshima|@|Japan,31.49,130.5,red
+Putuo District|@|China,31.23,121.4,blue
+Beirut|Beirut Governorate|Lebanon,33.89,35.5,red
+Qiantang District|Zhejiang|China,30.32,120.39,red
+Tampere|@|Finland,61.5,23.76,red
+Cordova|Andalusia|Spain,37.88,-4.79,red
+Matsuyama|@|Japan,33.86,132.77,red
+Alpine|New Jersey|United States,41.0,-73.91,red
+Galway City|@|Ireland,53.28,-9.01,red
+Jiancaoping|Shanxi|China,38.01,112.44,red
+Weicheng|Shaanxi|China,34.33,108.71,blue
+Richland|Washington|United States,46.33,-119.26,red
+Santa Maria|Rio Grande do Sul|Brazil,-29.68,-53.81,red
+Ife|Osun|Nigeria,7.52,4.52,red
+Nanning|Guangxi|China,22.84,108.3,red
+Chiayi|Taiwan Province|Taiwan,23.48,120.44,red
+Philadelphia|Mississippi|United States,32.77,-89.12,red
+Dhahran|Eastern Province|Saudi Arabia,26.31,50.14,red
+Tsu|@|Japan,34.76,136.49,red
+Richmondshire|England|United Kingdom,54.47,-1.62,red
+Jackson|Mississippi|United States,32.33,-90.16,blue
+Alexandria|Alexandria|Egypt,31.21,29.91,red
+Arlington|Virginia|United States,38.87,-77.06,red
+Kansas City|Missouri|United States,39.08,-94.58,red
+Aalborg|North Denmark Region|Denmark,57.04,9.91,red
+Siena|Tuscany|Italy,43.32,11.33,blue
+Cagliari - Casteddu|Sardinia|Italy,39.22,9.12,blue
+San Juan|Puerto Rico|United States,18.45,-66.07,blue
+Higashiosaka|@|Japan,34.65,135.59,red
+Patiala|Punjab|India,30.36,76.45,red
+Hull|England|United Kingdom,53.75,-0.33,red
+Lancaster|England|United Kingdom,54.05,-2.79,red
+Anning|Gansu|China,36.1,103.73,red
+Norfolk|Virginia|United States,36.86,-76.3,red
+New Britain|Connecticut|United States,41.69,-72.76,blue
+Bratislava|Region of Bratislava|Slovakia,48.15,17.12,red
+Shangtang|Zhejiang|China,30.3,120.15,red
+Lakewood|Colorado|United States,39.74,-105.07,red
+Dortmund|North Rhine-Westphalia|Germany,51.49,7.4,red
+Newport|Rhode Island|United States,41.5,-71.31,red
+Málaga|Andalusia|Spain,36.72,-4.42,red
+Vilnius|Vilnius County|Lithuania,54.73,25.26,red
+Messina|Sicily|Italy,38.23,15.55,red
+Cape Girardeau|Missouri|United States,37.32,-89.53,red
+Juiz de Fora|Minas Gerais|Brazil,-21.77,-43.37,red
+Alicante|Valencian Community|Spain,38.38,-0.51,red
+Fuchu|@|Japan,35.67,139.52,red
+Hachioji|@|Japan,35.62,139.38,red
+Gyeongsan-si|@|South Korea,35.88,128.82,red
+Cordoba|Córdoba|Argentina,-31.44,-64.19,blue
+La Plata|Buenos Aires|Argentina,-34.91,-57.95,red
+Bethlehem|Pennsylvania|United States,40.63,-75.38,red
+Tartu|@|Estonia,58.37,26.72,blue
+Wenzhou|Zhejiang|China,27.93,120.71,red
+Fargo|North Dakota|United States,46.89,-96.8,red
+Ostrava|Moravia-Silesia|Czechia,49.83,18.16,red
+Windsor|Ontario|Canada,42.32,-83.03,red
+Salamanca|Castile and León|Spain,40.96,-5.67,red
+Vigo|Galicia|Spain,42.17,-8.69,blue
+Parma|Emilia-Romagna|Italy,44.8,10.33,blue
+Ernakulam|Kerala|India,9.99,76.28,red
+Suwon-si|@|South Korea,37.33,127.04,red
+Salford|England|United Kingdom,53.52,-2.31,red
+Shijiazhuang City|Hebei|China,38.05,114.54,red
+Palmas|Tocantins|Brazil,-10.17,-48.33,red
+Tilburg|North Brabant|Netherlands,51.56,5.05,red
+Laramie|Wyoming|United States,41.31,-105.58,blue
+Braga|@|Portugal,41.56,-8.4,red
+Tottori|@|Japan,35.51,134.24,red
+Grenoble|Auvergne-Rhône-Alpes|France,45.19,5.72,red
+Denton|Texas|United States,33.23,-97.13,red
+South Hams|England|United Kingdom,50.46,-3.95,red
+San Bernardino|California|United States,34.13,-117.32,red
+Faisalabad|Punjab|Pakistan,31.43,73.06,red
+Yamagata|@|Japan,38.3,140.35,red
+Regensburg|Bavaria|Germany,49.0,12.1,blue
+Kafr El Sheikh|@|Egypt,31.1,30.95,red
+Baota Subdistrict|Hunan|China,27.85,112.93,blue
+Santa Cruz|California|United States,36.97,-122.03,blue
+Bellevue|Washington|United States,47.64,-122.2,red
+Guangling District|Jiangsu|China,32.4,119.43,red
+Strasbourg|Grand Est|France,48.59,7.78,blue
+Chiang Mai|Chiang Mai Province|Thailand,18.8,98.95,red
+Parkersburg|West Virginia|United States,39.3,-81.53,red
+Charlotte|North Carolina|United States,35.19,-80.83,red
+Asyut|Asyut|Egypt,27.19,31.17,red
+Bielefeld|North Rhine-Westphalia|Germany,52.04,8.5,blue
+Wanbailin|Shanxi|China,37.86,112.52,red
+Brasília|Federal District|Brazil,-15.82,-47.95,red
+Riga|Vidzeme|Latvia,56.95,24.12,red
+Bradford|England|United Kingdom,53.81,-1.79,red
+Traverse City|Michigan|United States,44.76,-85.64,red
+Jacksonville|North Carolina|United States,34.77,-77.38,red
+Santa Monica|California|United States,34.01,-118.49,red
+Rolla|Missouri|United States,37.96,-91.77,red
+Cáceres|Extremadura|Spain,39.48,-6.34,blue
+Changan|Shaanxi|China,34.16,108.9,blue
+Madurai|Tamil Nadu|India,9.94,78.14,red
+Dhaka|Dhaka Division|Bangladesh,23.78,90.37,red
+Nanshan District|Guangdong Province|China,22.54,113.93,blue
+São Carlos|São Paulo|Brazil,-21.98,-47.88,red
+Valladolid|Castile and León|Spain,41.63,-4.72,blue
+Essen|North Rhine-Westphalia|Germany,51.45,7.01,blue
+Ottawa|Ontario|Canada,45.38,-75.62,red
+Bucharest|@|Romania,44.44,26.1,red
+Odense|@|Denmark,55.37,10.43,blue
+"Corfu|Peloponnese, Western Greece and the Ionian|Greece",39.62,19.92,blue
+Sakai|@|Japan,34.52,135.58,red
+Ciudad Real|Castile-La Mancha|Spain,38.99,-3.93,blue
+Karnal|Haryana|India,29.71,76.95,red
+South Cambridgeshire|England|United Kingdom,52.24,0.13,blue
+Magdeburg|Saxony-Anhalt|Germany,52.14,11.64,blue
+Fujioka|@|Japan,36.28,139.08,red
+Prayagraj|Uttar Pradesh|India,25.49,81.87,red
+Burbank|California|United States,34.16,-118.33,blue
+Harrisburg|Pennsylvania|United States,40.26,-76.88,red
+Londonderry/Derry|Northern Ireland|United Kingdom,55.0,-7.33,red
+Ota|@|Japan,36.29,139.4,red
+Meguro|@|Japan,35.64,139.7,red
+Plano|Texas|United States,33.05,-96.85,blue
+Morioka|@|Japan,39.72,141.14,red
+Xinzheng|Henan|China,34.4,113.76,red
+Seongnam-si|@|South Korea,37.39,127.12,blue
+Saint-Genis-Pouilly|Auvergne-Rhône-Alpes|France,46.23,6.05,red
+San Cristóbal de La Laguna|@|Spain,28.46,-16.29,red
+Szeged|@|Hungary,46.25,20.15,blue
+Canterbury|England|United Kingdom,51.28,1.09,red
+Bozeman|Montana|United States,45.67,-111.05,blue
+Flint|Michigan|United States,43.02,-83.7,red
+Tupelo|Mississippi|United States,34.26,-88.71,red
+Karşıyaka Mahallesi|@|Turkey,38.76,41.49,red
+Verona|Veneto|Italy,45.44,11.0,blue
+Panyu District|Guangdong Province|China,23.04,113.4,red
+Arlington|Texas|United States,32.75,-97.07,red
+Jyväskylä|@|Finland,62.25,25.74,blue
+Tromsø|@|Norway,69.59,19.22,blue
+Ferrara|Emilia-Romagna|Italy,44.83,11.63,blue
+Amman|Amman|Jordan,31.96,35.9,red
+Trichy Corporation Limits|Tamil Nadu|India,10.74,78.64,red
+Fredericton|New Brunswick|Canada,45.94,-66.65,red
+Moriguchi|@|Japan,34.73,135.56,red
+Mountain View|California|United States,37.42,-122.07,red
+Jiujiang|Anhui|China,31.35,118.43,red
+Sousse|Sousse|Tunisia,35.84,10.61,blue
+Lixia District|Shandong|China,36.65,117.12,red
+Sulaibikhat|Al Asimah|Kuwait,29.32,47.83,red
+Akita|@|Japan,39.72,140.16,red
+Delhi|Delhi|India,28.65,77.24,red
+Alcalá de Henares|Community of Madrid|Spain,40.49,-3.44,red
+Tomsk|Tomsk Oblast|Russia,56.47,84.95,red
+Ludhiana|Punjab|India,30.86,75.86,red
+Hamamatsu|@|Japan,34.71,137.74,red
+Nishinomiya|@|Japan,34.72,135.38,red
+Borough of Newcastle-under-Lyme|England|United Kingdom,53.0,-2.27,red
+Baoding City|Hebei|China,39.05,116.3,red
+Benevento|Campania|Italy,41.13,14.78,blue
+Bangor|Maine|United States,44.83,-68.74,red
+Abu Dhabi|Abu Dhabi Emirate|United Arab Emirates,24.44,54.41,red
+Szczecin|West Pomeranian Voivodeship|Poland,53.42,14.54,red
+Kaunas|Kaunas County|Lithuania,54.92,23.92,red
+Manesar|Haryana|India,28.33,76.94,red
+Santander|Cantabria|Spain,43.47,-3.8,blue
+Shizhong District|Shandong|China,36.61,116.97,red
+Irbid|Irbid|Jordan,32.55,35.85,red
+New Taipei|New Taipei|Taiwan,25.02,121.47,red
+Fort Myers|Florida|United States,26.55,-81.89,red
+Toyama|@|Japan,36.6,137.27,red
+Poitiers|New Aquitaine|France,46.59,0.34,blue
+Ningbo|Zhejiang|China,29.82,121.57,red
+Portsmouth|New Hampshire|United States,43.07,-70.8,blue
+Kerman|Kerman Province|Iran,30.28,57.03,red
+Xiaodian|Shanxi|China,37.8,112.59,blue
+Białowieża|Podlaskie Voivodeship|Poland,52.7,23.85,red
+Caserta|Campania|Italy,41.07,14.33,red
+Amritsar|Punjab|India,31.63,74.87,red
+Limerick|@|Ireland,52.67,-8.65,red
+Elgin|Illinois|United States,42.07,-88.33,red
+Marquette|Michigan|United States,46.56,-87.41,red
+New Bedford|Massachusetts|United States,41.64,-70.92,blue
+Nancy|Grand Est|France,48.7,6.18,blue
+Jinju-si|@|South Korea,35.15,128.1,red
+Dharwad|Karnataka|India,15.44,74.99,red
+Rasht|Gilan Province|Iran,37.19,49.64,blue
+Fortaleza|Ceará|Brazil,-3.74,-38.54,red
+Trento|Trentino-Alto Adige/Südtirol|Italy,46.07,11.15,blue
+Qixing|Guangxi|China,25.28,110.3,red
+Kayseri|@|Turkey,38.74,35.47,blue
+Makhanda|Eastern Cape|South Africa,-33.3,26.52,red
+Shimotsuke|@|Japan,36.4,139.86,blue
+Minsk|@|Belarus,53.92,27.59,red
+Bhubaneswar Municipal Corporation|Odisha|India,20.27,85.84,red
+Takatsuki|@|Japan,34.85,135.63,red
+João Pessoa|Paraíba|Brazil,-7.14,-34.85,red
+Nantes|Pays de la Loire|France,47.28,-1.52,red
+Khlong Ha Subdistrict|Pathum Thani Province|Thailand,14.12,100.71,red
+Tver|Tver Oblast|Russia,56.89,35.88,red
+Kitakyushu|@|Japan,33.84,130.88,red
+Debrecen|@|Hungary,47.55,21.62,blue
+Hirosaki|@|Japan,40.59,140.47,red
+Sakado|@|Japan,35.95,139.41,red
+Amasya|@|Turkey,40.65,35.81,red
+South San Francisco|California|United States,37.66,-122.4,blue
+Ahwaz|Khuzestan Province|Iran,31.32,48.68,red
+Bilaspur|Chhattisgarh|India,22.13,82.14,red
+Taishan District|Shandong|China,36.19,117.12,blue
+Friedrichshafen|Baden-Württemberg|Germany,47.67,9.43,blue
+Awka|Anambra|Nigeria,6.24,7.12,red
+Buffalo|New York|United States,42.9,-78.86,blue
+Accra|Greater Accra Region|Ghana,5.6,-0.24,red
+Guanghan City|Sichuan|China,30.98,104.25,red
+Rostock|Mecklenburg-Vorpommern|Germany,54.18,12.08,blue
+Ahmedabad|Gujarat|India,23.04,72.57,red
+Brescia|Lombardy|Italy,45.54,10.22,blue
+Pomona|California|United States,34.06,-117.75,red
+Eskisehir|@|Turkey,39.75,30.49,red
+Grand Forks|North Dakota|United States,47.91,-97.07,red
+Kita|@|Japan,35.76,139.72,red
+Welwyn Hatfield|England|United Kingdom,51.8,-0.19,red
+Jhunjhunu|Rajasthan|India,28.12,75.38,red
+Gimhae-si|@|South Korea,35.26,128.86,blue
+Wirral|England|United Kingdom,53.39,-3.02,blue
+Nagpur|Maharashtra|India,21.18,79.05,red
+Kalyani|West Bengal|India,22.99,88.45,red
+Hat Yai|Songkhla Province|Thailand,7.02,100.47,red
+Kingston|@|Jamaica,17.97,-76.79,red
+Catanzaro|Calabria|Italy,38.87,16.57,red
+Kashihara|@|Japan,34.5,135.79,blue
+Mobile|Alabama|United States,30.64,-88.07,red
+Tlokwe Local Municipality|North West|South Africa,-26.71,27.1,red
+Amarillo|Texas|United States,35.19,-101.92,red
+Kaiserslautern|Rhineland-Palatinate|Germany,49.43,7.75,red
+Stirling|Scotland|United Kingdom,56.15,-3.92,red
+Borough of Spelthorne|England|United Kingdom,51.43,-0.46,red
+Dijon|Bourgogne-Franche-Comté|France,47.31,5.07,blue
+Babergh|England|United Kingdom,51.97,1.15,red
+Bhavnagar|Gujarat|India,21.76,72.14,red
+Newport News|Virginia|United States,37.06,-76.49,blue
+Nice|Provence-Alpes-Côte d'Azur|France,43.71,7.26,red
+Toyohashi|@|Japan,34.7,137.41,red
+Yongin-si|@|South Korea,37.23,127.17,red
+Waco|Texas|United States,31.53,-97.19,red
+Trabzon|Trabzon|Turkey,40.99,39.77,red
+Laurel|Maryland|United States,39.1,-76.85,red
+Novi Sad City|Vojvodina|Serbia,45.25,19.84,red
+Cheongju-si|@|South Korea,36.62,127.48,red
+Khon Kaen|Khon Kaen Province|Thailand,16.47,102.82,red
+Chuo|@|Japan,35.68,139.77,red
+Visakhapatnam|Andhra Pradesh|India,17.7,83.3,red
+Le Havre|Normandy|France,49.5,0.13,blue
+Asan-si|@|South Korea,36.77,126.93,red
+Kozhikode|Kerala|India,11.26,75.78,red
+Missoula|Montana|United States,46.86,-113.99,blue
+Konya|@|Turkey,37.88,32.47,red
+Yekaterinburg|Sverdlovsk Oblast|Russia,56.83,60.6,red
+Kincardine|Ontario|Canada,44.33,-81.59,red
+Concepcion|Biobío Region|Chile,-36.83,-73.04,red
+Fairbanks|Alaska|United States,64.84,-147.71,blue
+South Oxfordshire|England|United Kingdom,51.72,-1.13,red
+Luleå|@|Sweden,65.58,22.15,red
+Medellín|Antioquia|Colombia,6.25,-75.58,red
+Jaipur|Rajasthan|India,26.91,75.82,red
+Chongchuan District|Jiangsu|China,31.97,120.91,blue
+Modena|Emilia-Romagna|Italy,44.65,10.93,blue
+Doha|Doha|Qatar,25.28,51.57,red
+Karlova Ves|Region of Bratislava|Slovakia,48.15,17.07,red
+Newburgh|New York|United States,41.51,-74.01,red
+Fort Worth|Texas|United States,32.75,-97.37,blue
+Armidale|New South Wales|Australia,-30.49,151.64,red
+Yokosuka|@|Japan,35.26,139.72,blue
+Ginowan|@|Japan,26.26,127.75,blue
+Caen|Normandy|France,49.19,-0.36,blue
+Adıyaman|@|Turkey,37.74,38.23,red
+Al-Zaqaziq|Eastern|Egypt,30.59,31.48,red
+Dehradun|Uttarakhand|India,30.27,78.08,red
+Burdur Merkez|@|Turkey,37.72,30.28,blue
+Kusatsu|@|Japan,34.97,135.95,blue
+Bloomington|Illinois|United States,40.49,-88.99,blue
+Potsdam|Brandenburg|Germany,52.38,13.06,blue
+Heraklion Municipal Unit|Region of Crete|Greece,35.31,25.08,blue
+Cádiz|Andalusia|Spain,36.53,-6.29,red
+Niterói|Rio de Janeiro|Brazil,-22.9,-43.12,red
+Jin'an|Fujian|China,26.08,119.37,red
+Lahore|Punjab|Pakistan,31.48,74.3,red
+Vadodara|Gujarat|India,22.3,73.19,red
+Shah Alam|Selangor|Malaysia,3.07,101.52,red
+Beichen District|Tianjin|China,39.24,117.06,red
+Saint Paul|Minnesota|United States,44.96,-93.1,red
+Boca Raton|Florida|United States,26.36,-80.1,red
+Vancouver|Washington|United States,45.6,-122.49,red
+Panaji|Goa|India,15.46,73.8,red
+Bareilly|Uttar Pradesh|India,28.39,79.43,red
+San Jose|California|United States,37.42,-121.93,red
+Salvador|Bahia|Brazil,-13.01,-38.51,red
+South Norfolk|England|United Kingdom,52.62,1.22,blue
+Las Vegas|Nevada|United States,36.17,-115.15,red
+Bloemfontein|Free State|South Africa,-29.12,26.21,red
+Pocatello|Idaho|United States,42.87,-112.43,red
+Matsue|@|Japan,35.49,133.07,blue
+Nairobi|Nairobi County|Kenya,-1.3,36.8,red
+Natal|Rio Grande do Norte|Brazil,-5.84,-35.2,red
+Chuncheon-si|@|South Korea,37.86,127.75,red
+Raiwind|Punjab|Pakistan,31.29,74.17,red
+Dearborn|Michigan|United States,42.3,-83.22,red
+Kashan|Isfahan Province|Iran,34.01,51.4,red
+Le Chesnay-Rocquencourt|Ile-de-France|France,48.84,2.1,red
+Muscat|Muscat|Oman,23.62,58.59,red
+Linz|Upper Austria|Austria,48.34,14.32,red
+Chofu|@|Japan,35.66,139.54,red
+Udine|Friuli-Venezia Giulia|Italy,46.08,13.21,blue
+Tunis|Tunis|Tunisia,36.8,10.16,red
+Ikorodu|Lagos|Nigeria,6.64,3.53,red
+Berlin|Vermont|United States,44.22,-72.56,red
+Toruń|Kuyavian-Pomeranian Voivodeship|Poland,53.02,18.57,blue
+Ancona|Marche|Italy,43.62,13.51,blue
+Saguenay|Quebec|Canada,48.42,-71.05,red
+Kuopio|@|Finland,62.91,27.62,blue
+Caracas|Miranda State|Venezuela,10.5,-66.78,red
+L'Aquila|Abruzzo|Italy,42.36,13.38,red
+Dongli|Tianjin|China,39.1,117.4,red
+Greensboro|North Carolina|United States,36.07,-79.79,red
+Xanthi|Macedonia and Thrace|Greece,41.14,24.89,red
+Hattiesburg|Mississippi|United States,31.33,-89.33,red
+Maribor|@|Slovenia,46.56,15.64,red
+Nagaoka|@|Japan,37.47,138.83,red
+Tallinn|@|Estonia,59.46,24.84,red
+Lille|Hauts-de-France|France,50.62,3.08,red
+León|Castile and León|Spain,42.61,-5.56,blue
+Murten|Fribourg|Switzerland,46.92,7.11,blue
+Waukegan|Illinois|United States,42.37,-87.82,blue
+Bahía Blanca|Buenos Aires|Argentina,-38.7,-62.27,red
+Rostov-on-Don|Rostov Oblast|Russia,47.22,39.73,red
+Long Beach|California|United States,33.76,-118.2,red
+Portsmouth|England|United Kingdom,50.8,-1.09,red
+Maringá|Paraná|Brazil,-23.41,-51.94,red
+Anand|Gujarat|India,22.55,72.97,red
+Balcalı Mahallesi|@|Turkey,37.06,35.36,red
+Panihati|West Bengal|India,22.7,88.38,blue
+Asahikawa|@|Japan,43.73,142.39,blue
+Manama|Capital Governorate|Bahrain,26.22,50.58,red
+Gaziantep|@|Turkey,37.04,37.31,red
+Clermont-Ferrand|Auvergne-Rhône-Alpes|France,45.78,3.09,red
+Bhopal|Madhya Pradesh|India,23.21,77.45,red
+Breda|North Brabant|Netherlands,51.59,4.8,blue
+Hamedan|Hamadan Province|Iran,34.79,48.48,blue
+Indore|Madhya Pradesh|India,22.69,75.88,red
+Alexandria|Virginia|United States,38.81,-77.04,red
+Chemnitz|Saxony|Germany,50.81,12.93,red
+Springfield|Illinois|United States,39.74,-89.62,red
+Saitama|@|Japan,35.94,139.6,red
+Borough of Runnymede|England|United Kingdom,51.35,-0.49,blue
+Tirupati|Andhra Pradesh|India,13.64,79.41,red
+Üniversite Mahallesi|@|Turkey,38.68,39.2,red
+Ipoh|Perak|Malaysia,4.59,101.13,red
+Huangdao District|Shandong|China,36.0,120.12,red
+Reykjavik|@|Iceland,64.13,-21.82,blue
+Kofu|@|Japan,35.66,138.6,blue
+Tanta|Western|Egypt,30.79,31.0,red
+St. Catharines|Ontario|Canada,43.12,-79.25,blue
+Hitachi|@|Japan,36.51,140.62,red
+Leganés|Community of Madrid|Spain,40.34,-3.77,red
+Hampton|Virginia|United States,37.06,-76.42,red
+Fengze District|Fujian|China,24.87,118.67,red
+Kolhapur|Maharashtra|India,16.68,74.26,red
+Nicosia Municipality|@|Cyprus,35.18,33.38,blue
+Almeria|Andalusia|Spain,36.83,-2.4,red
+Toshima|@|Japan,35.73,139.7,red
+Taohua|Jiangxi|China,28.68,115.86,blue
+Larissa|Thessaly and Central Greece|Greece,39.63,22.38,blue
+دهستان روضه چای|West Azerbaijan Province|Iran,37.66,44.99,red
+Tokorozawa|@|Japan,35.8,139.46,red
+Brookings|South Dakota|United States,44.32,-96.78,blue
+Lüshunkou|Liaoning|China,38.81,121.31,red
+Xi'an|Shaanxi|China,34.38,108.98,red
+Takamatsu|@|Japan,34.26,134.02,blue
+Kalamazoo|Michigan|United States,42.28,-85.61,red
+Jindong District|Zhejiang|China,29.14,119.64,blue
+Salisbury|Maryland|United States,38.36,-75.6,red
+Oita|@|Japan,33.18,131.54,red
+Kurashiki|@|Japan,34.63,133.81,red
+Canton|Ohio|United States,40.83,-81.38,red
+Redding|California|United States,40.61,-122.33,red
+Rishon LeZion|Center District|Israel,31.99,34.82,red
+Jersey City|New Jersey|United States,40.71,-74.03,red
+Düzce|@|Turkey,40.9,31.15,red
+Kazan|Tatarstan|Russia,55.78,49.12,red
+Athens|Alabama|United States,34.81,-86.97,red
+Odense|Region of Southern Denmark|Denmark,55.39,10.44,blue
+Qinhuangdao City|Hebei|China,39.91,119.55,red
+Xiangzhou District|Guangdong Province|China,22.35,113.54,red
+Semnan|Semnan Province|Iran,35.6,53.44,red
+Nonoichi|@|Japan,36.53,136.63,red
+Wangen-Brüttisellen|Zurich|Switzerland,47.42,8.63,red
+Jaén|Andalusia|Spain,37.79,-3.77,blue
+Srinagar|Jammu and Kashmir|India,34.09,74.82,red
+Elmira|New York|United States,42.1,-76.82,red
+Noida|Uttar Pradesh|India,28.61,77.36,red
+Sassari|Sardinia|Italy,40.72,8.56,blue
+Cidade de Maputo|@|Mozambique,-25.97,32.59,red
+Babolsar|Mazandaran Province|Iran,36.7,52.65,red
+Novosibirsk|Novosibirsk Oblast|Russia,54.99,82.9,red
+Ikoma|@|Japan,34.73,135.73,blue
+Kermanshah|Kermanshah Province|Iran,34.29,47.03,blue
+Irving|Texas|United States,32.81,-96.93,red
+Santa Clara|California|United States,37.38,-121.98,red
+Warangal|Telangana|India,17.98,79.6,red
+Pécs|@|Hungary,46.07,18.24,blue
+Tianshan District|Xinjiang|China,43.77,87.62,red
+Haikou City|Hainan Province|China,19.98,110.33,red
+Dhanbad|Jharkhand|India,23.81,86.44,red
+Lowell|Massachusetts|United States,42.64,-71.32,red
+San Nicolás de los Garza|Nuevo León|Mexico,25.72,-100.31,red
+Wakayama|@|Japan,34.19,135.18,blue
+Johnson City|Tennessee|United States,36.3,-82.37,red
+Bardhaman|West Bengal|India,23.24,87.85,red
+Chattanooga|Tennessee|United States,35.03,-85.28,blue
+Upper Burrell Township|Pennsylvania|United States,40.55,-79.7,red
+Muğla|@|Turkey,37.17,28.37,red
+Fukui|@|Japan,36.06,136.23,blue
+Besançon|Bourgogne-Franche-Comté|France,47.24,6.02,red
+Wolverhampton|England|United Kingdom,52.59,-2.13,red
+Castelló de la Plana|Valencian Community|Spain,39.99,-0.07,blue
+Suita|@|Japan,34.77,135.51,red
+Zhanghua City|Taiwan Province|Taiwan,24.08,120.56,red
+Isparta|@|Turkey,37.83,30.53,red
+Kaliningrad|Kaliningrad|Russia,54.72,20.5,blue
+Ashford|England|United Kingdom,51.14,0.91,red
+Meizhou|Guangdong Province|China,24.33,116.13,red
+Greater Sudbury|Ontario|Canada,46.71,-81.01,red
+Phoenix|Arizona|United States,33.46,-111.95,blue
+Peterborough|Ontario|Canada,44.3,-78.32,blue
+Wismar|Mecklenburg-Vorpommern|Germany,53.89,11.45,blue
+Paderborn|North Rhine-Westphalia|Germany,51.71,8.77,red
+Huntsville|Alabama|United States,34.78,-86.57,red
+Largo|Florida|United States,27.89,-82.76,red
+Regina|Saskatchewan|Canada,50.45,-104.61,red
+Fukushima|@|Japan,37.69,140.47,blue
+Luoyang|Henan|China,34.63,112.44,red
+Charleroi|Hainaut|Belgium,50.45,4.45,red
+Al Ain|Abu Dhabi Emirate|United Arab Emirates,24.23,55.75,red
+Lethbridge|Alberta|Canada,49.66,-112.81,blue
+Belém|Pará|Brazil,-1.43,-48.49,red
+Londrina|Paraná|Brazil,-23.34,-51.18,red
+Le Grand-Saconnex|Geneva|Switzerland,46.23,6.13,red
+Gwalior|Madhya Pradesh|India,26.25,78.17,red
+Sacramento|California|United States,38.65,-121.52,red
+Kochi|@|Japan,33.56,133.51,red
+Unguwar Fatika|Kaduna State|Nigeria,11.07,7.7,red
+Anaheim|California|United States,33.85,-117.85,red
+Bydgoszcz|Kuyavian-Pomeranian Voivodeship|Poland,53.13,18.02,red
+São José dos Campos|São Paulo|Brazil,-23.22,-45.86,red
+Radnor Township|Pennsylvania|United States,40.05,-75.37,red
+Goiânia|Goiás|Brazil,-16.68,-49.24,red
+虹梅路街道|@|China,31.18,121.4,red
+Hanoi|@|Vietnam,21.0,105.81,red
+康健新村街道|@|China,31.16,121.42,red
+Stavanger|@|Norway,58.89,5.72,red
+Guiyang|Guizhou|China,26.38,106.64,red
+Pelotas|Rio Grande do Sul|Brazil,-31.78,-52.32,red
+Quito|Pichincha|Ecuador,-0.21,-78.49,red
+Maceió|Alagoas|Brazil,-9.52,-35.78,red
+Caracas|Capital District|Venezuela,10.51,-66.92,red
+Shanghai|@|China,31.23,121.47,red
+Orléans|Centre-Loire Valley|France,47.84,1.93,red
+Peoria|Illinois|United States,40.71,-89.61,red
+Lappeenranta|@|Finland,61.06,28.19,red
+St. Florian am Inn|Upper Austria|Austria,48.43,13.47,blue
+Yerevan|@|Armenia,40.17,44.51,red
+Yuquan|Inner Mongolia|China,40.81,111.69,red
+Zanjan|Zanjan Province|Iran,36.7,48.51,blue
+Nomi|@|Japan,36.44,136.59,red
+Shimla|Himachal Pradesh|India,31.11,77.14,red
+Arbon|Thurgau|Switzerland,47.52,9.44,red
+Toyoake|@|Japan,35.06,136.98,blue
+Vitória|Espírito Santo|Brazil,-20.31,-40.32,red
+Jennings|Missouri|United States,38.71,-90.26,blue
+Mokpo-si|@|South Korea,34.83,126.42,red
+New Forest|England|United Kingdom,50.82,-1.57,red
+Jiamusi|Heilongjiang|China,46.79,130.36,blue
+Perímetro Urbano Santiago de Cali|Valle del Cauca|Colombia,3.34,-76.53,red
+Flagstaff|Arizona|United States,35.23,-111.67,blue
+Haldwani|Uttarakhand|India,29.21,79.53,red
+Shillong|Meghalaya|India,25.61,91.9,red
+Kassel|Hesse|Germany,51.32,9.51,red
+Foggia|Apulia|Italy,41.45,15.57,red
+Wichita|Kansas|United States,37.68,-97.37,red
+Kawasaki|@|Japan,35.53,139.69,red
+Dongchangfu District|Shandong|China,36.43,116.01,red
+Pukou District|Jiangsu|China,32.21,118.72,blue
+Shreveport|Louisiana|United States,32.54,-93.83,blue
+Qingshan District|Hubei|China,30.63,114.37,red
+Huntington|West Virginia|United States,38.41,-82.43,red
+Vermillion|South Dakota|United States,42.79,-96.93,blue
+Thanjavur|Tamil Nadu|India,10.77,79.13,red
+Beau Bassin-Rose Hill|Plaines Wilhems|Mauritius,-20.24,57.48,red
+Thunder Bay|Ontario|Canada,48.42,-89.27,red
+Quezon City|@|Philippines,14.66,121.06,red
+Tours|Centre-Loire Valley|France,47.36,0.7,blue
+Changzhi High-Tech Development Area|Shanxi|China,36.21,113.11,red
+Cotswold District|England|United Kingdom,51.71,-1.99,blue
+Puebla|Puebla|Mexico,19.05,-98.22,red
+Jaipur Municipal Corporation|Rajasthan|India,26.82,75.82,red
+Tulsa|Oklahoma|United States,36.15,-96.0,red
+Reims|Grand Est|France,49.25,4.04,red
+Hammond|Indiana|United States,41.67,-87.5,red
+Pardubice|Northeast|Czechia,50.05,15.77,red
+Uberlândia|Minas Gerais|Brazil,-18.92,-48.26,red
+City of Niš|Central Serbia|Serbia,43.32,21.89,red
+Port Elizabeth|Eastern Cape|South Africa,-34.01,25.67,red
+Monroe|Louisiana|United States,32.53,-92.07,red
+Bathurst|New South Wales|Australia,-33.43,149.56,red
+Baghdad|Baghdad Governorate|Iraq,33.34,44.39,red
+Rawalpindi|Punjab|Pakistan,33.59,73.06,red
+Monterey|California|United States,36.6,-121.9,red
+Three Rivers|England|United Kingdom,51.62,-0.44,red
+Batman Merkez|@|Turkey,37.79,41.06,red
+Voronezh|Voronezh Oblast|Russia,51.66,39.21,red
+Edogawa|@|Japan,35.69,139.91,red
+León|Guanajuato|Mexico,21.15,-101.7,red
+Valdivia|Los Ríos Region|Chile,-39.81,-73.25,blue
+Benin City|Edo|Nigeria,6.33,5.6,red
+Kirklees|England|United Kingdom,53.64,-1.78,red
+Zhangdian District|Shandong|China,36.82,118.03,red
+Silchar|Assam|India,24.83,92.8,red
+Terre Haute|Indiana|United States,39.47,-87.38,red
+Panvel|Maharashtra|India,19.06,73.06,red
+Mytilene|Aegean|Greece,39.1,26.55,red
+شهر یزد|Yazd Province|Iran,31.84,54.34,blue
+Malacca City|Malacca|Malaysia,2.22,102.26,red
+Mito|@|Japan,36.38,140.44,red
+Grand Rapids|Michigan|United States,42.93,-85.59,red
+Preston|England|United Kingdom,53.86,-2.64,blue
+Aurangabad|Maharashtra|India,19.88,75.36,red
+Colorado Springs|Colorado|United States,39.0,-104.8,red
+Charlottetown|Prince Edward Island|Canada,46.26,-63.14,blue
+Waterloo|Ontario|Canada,43.46,-80.53,blue
+Miyazaki|@|Japan,31.93,131.42,blue
+Caguas|Puerto Rico|United States,18.22,-66.03,red
+Semarang|Central Java|Indonesia,-6.99,110.42,red
+Hartford|Connecticut|United States,41.77,-72.67,red
+Móstoles|Community of Madrid|Spain,40.34,-3.88,red
+Varese|Lombardy|Italy,45.81,8.84,blue
+Bang Chalong Subdistrict|Samut Prakan Province|Thailand,13.61,100.76,red
+Soka|@|Japan,35.84,139.79,red
+Kuwait City|Al Asimah|Kuwait,29.33,47.99,red
+Annapolis|Maryland|United States,38.89,-76.54,blue
+Kampala|Central Region|Uganda,0.32,32.59,red
+Selayang Municipal Council|Selangor|Malaysia,3.24,101.64,red
+Girona|Catalonia|Spain,41.97,2.84,blue
+Vale of White Horse|England|United Kingdom,51.74,-1.29,red
+Toowoomba|Queensland|Australia,-27.6,151.93,red
+Trois-Rivières|Quebec|Canada,46.36,-72.57,red
+Ashoknagar Kalyangarh|West Bengal|India,22.84,88.61,red
+Muncie|Indiana|United States,40.2,-85.41,red
+Changwon-si|@|South Korea,35.13,128.66,red
+Sivas Belediyesi|@|Turkey,39.71,37.03,red
+Rajshahi|Rajshahi Division|Bangladesh,24.37,88.59,red
+Vancouver|British Columbia|Canada,49.26,-123.12,red
+Örebro|@|Sweden,59.25,15.25,blue
+شهر بابل|Mazandaran Province|Iran,36.53,52.68,red
+Lafayette|Louisiana|United States,30.22,-92.05,red
+Nagakute|@|Japan,35.15,137.09,red
+Jammu|Jammu and Kashmir|India,32.66,74.81,red
+Karaağaç Mahallesi|@|Turkey,41.65,26.52,blue
+Oshawa|Ontario|Canada,43.87,-78.89,red
+Saratov|Saratov Oblast|Russia,51.53,45.98,red
+Kuantan|Pahang|Malaysia,3.8,103.32,red
+Nanjing City|Jiangsu|China,32.11,118.94,red
+San Pablo|Laguna|Philippines,14.08,121.31,red
+Oldenburg|Lower Saxony|Germany,53.15,8.2,blue
+Warren|Michigan|United States,42.51,-83.03,red
+Arak|Markazi Province|Iran,34.08,49.68,red
+Palampur|Himachal Pradesh|India,32.11,76.54,blue
+Middletown|Connecticut|United States,41.56,-72.66,blue
+Lower Merion Township|Pennsylvania|United States,40.01,-75.22,red
+Jodhpur|Rajasthan|India,26.26,73.0,red
+Bagnolet|Ile-de-France|France,48.87,2.42,red
+Cheonan-si|@|South Korea,36.84,127.18,red
+Greifswald|Mecklenburg-Vorpommern|Germany,54.09,13.41,blue
+Zahedan|Sistan and Baluchestan Province|Iran,29.46,60.85,blue
+Ranchi|Jharkhand|India,23.36,85.32,red
+Moncton|New Brunswick|Canada,46.13,-64.86,red
+Rockhampton|Queensland|Australia,-23.32,150.52,red
+Lismore|New South Wales|Australia,-28.81,153.29,blue
+Sunnyvale|California|United States,37.38,-121.99,red
+Faro|@|Portugal,37.02,-7.93,blue
+Melbourne|Florida|United States,28.07,-80.62,red
+Monterrey|Nuevo León|Mexico,25.65,-100.29,red
+Chania|Region of Crete|Greece,35.5,24.05,red
+Luxembourg|@|Luxembourg,49.6,6.13,blue
+Qufu City|Shandong|China,35.6,116.97,blue
+Dindigul|Tamil Nadu|India,10.36,77.97,red
+Mestre|Veneto|Italy,45.43,12.31,red
+Tyler|Texas|United States,32.32,-95.25,blue
+San Luis Potosí|San Luis Potosi|Mexico,22.15,-101.03,blue
+Jizan|Jazan Province|Saudi Arabia,16.93,42.59,red
+Durgapur|West Bengal|India,23.54,87.34,red
+Shahrud|Semnan Province|Iran,36.39,54.94,blue
+Kangar|Perlis|Malaysia,6.45,100.24,red
+Lleida|Catalonia|Spain,41.63,0.61,blue
+Jingzhou|Hubei|China,30.33,112.24,red
+San José|@|Costa Rica,9.93,-84.08,red
+Angers|Pays de la Loire|France,47.46,-0.55,blue
+Yonkers|New York|United States,40.94,-73.84,red
+Bolpur|West Bengal|India,23.68,87.67,red
+Dwarka|Delhi|India,28.6,77.02,red
+Hambleton|England|United Kingdom,54.46,-1.18,red
+Howrah|West Bengal|India,22.59,88.33,blue
+Shigu District|Hunan|China,26.9,112.6,red
+Bandung|West Java|Indonesia,-6.86,107.59,red
+Jacksonville|Florida|United States,30.24,-81.55,red
+Bitlis|@|Turkey,38.44,42.14,red
+Boise|Idaho|United States,43.62,-116.2,blue
+Foster Township|Pennsylvania|United States,40.73,-76.34,red
+Piraeus|Attica|Greece,37.94,23.64,red
+Setagaya|@|Japan,35.64,139.6,red
+Lecce|Apulia|Italy,40.36,18.16,red
+Wilmington|North Carolina|United States,34.23,-77.94,blue
+Dammam|Eastern Province|Saudi Arabia,26.39,50.19,red
+Bengbu|Anhui|China,32.91,117.42,red
+Nashua|New Hampshire|United States,42.74,-71.46,red
+Limoges|New Aquitaine|France,45.83,1.26,red
+Rzeszów|Subcarpathian Voivodeship|Poland,50.03,21.99,red
+Valletta|South Eastern Region|Malta,35.9,14.51,red
+Miramar|Florida|United States,26.08,-80.24,red
+Harare|Harare|Zimbabwe,-17.79,31.05,red
+Guadalajara|Jalisco|Mexico,20.68,-103.36,red
+Mersin|@|Turkey,36.8,34.63,blue
+Barbaros Mahallesi|@|Turkey,40.11,26.41,blue
+Naruto|@|Japan,34.2,134.61,red
+Nuremberg|Bavaria|Germany,49.45,11.08,red
+Ogbomosho|Oyo State|Nigeria,8.13,4.27,red
+Utsunomiya|@|Japan,36.55,139.91,red
+Ürümqi|Xinjiang|China,43.84,87.58,red
+Fullerton|California|United States,33.88,-117.89,red
+Xiling District|Hubei|China,30.72,111.32,red
+Famagusta|@|Cyprus,35.15,33.91,red
+Mid Sussex District|England|United Kingdom,51.14,0.0,red
+Huelva|Andalusia|Spain,37.27,-6.92,blue
+Porto|@|Portugal,41.18,-8.61,red
+Laishan District|Shandong|China,37.49,121.44,red
+Siliguri|West Bengal|India,26.72,88.42,red
+Ebetsu|@|Japan,43.08,141.54,red
+Piacenza|Emilia-Romagna|Italy,45.04,9.78,red
+Erbil|Erbil Governorate|Iraq,36.19,43.99,blue
+Cuttack|Odisha|India,20.46,85.9,red
+Logroño|Rioja|Spain,42.47,-2.43,blue
+Košice - mestská časť Sever|Region of Košice|Slovakia,48.73,21.24,red
+Siegen|North Rhine-Westphalia|Germany,50.91,8.03,red
+Tacoma|Washington|United States,47.25,-122.52,red
+Kolonnawa|Western Province|Sri Lanka,6.92,79.87,red
+Sharjah|Sharjah Emirate|United Arab Emirates,25.31,55.49,red
+Rosario|Santa Fe|Argentina,-32.94,-60.67,red
+Ivanovo|Ivanovo Oblast|Russia,57.0,40.94,red
+City of Osh|@|Kyrgyzstan,40.53,72.8,red
+Las Palmas de Gran Canaria|@|Spain,28.08,-15.42,blue
+Erie|Pennsylvania|United States,42.13,-80.09,blue
+Ardabil|Ardabil Province|Iran,38.21,48.3,blue
+Nara|@|Japan,34.72,135.78,red
+Qingshanhu District|Jiangxi|China,28.74,115.85,red
+Gandhinagar|Gujarat|India,23.19,72.63,red
+Palma|Balearic Islands|Spain,39.52,2.74,blue
+Avilly-Saint-Léonard|Hauts-de-France|France,49.18,2.51,red
+Split|@|Croatia,43.51,16.44,red
+Bouaké|Vallée du Bandama|Côte d'Ivoire,7.69,-5.07,red
+Badulla|Uva Province|Sri Lanka,6.99,81.05,red
+Zhifu District|Shandong|China,37.54,121.39,red
+Peshawar|Khyber Pakhtunkhwa|Pakistan,34.02,71.57,red
+Anantapur|Andhra Pradesh|India,14.65,77.61,red
+Tonglu County|Zhejiang|China,29.76,119.64,red
+Cluj-Napoca|@|Romania,46.77,23.58,red
+Ijebu Ode|Ogun|Nigeria,6.82,3.92,red
+Sixth of October City|Giza|Egypt,29.97,30.94,red
+Changsha|Hunan|China,28.26,113.08,red
+Port-Harcourt|Rivers|Nigeria,4.79,6.98,red
+Erfurt|Thuringia|Germany,50.95,11.09,red
+Shibuya|@|Japan,35.68,139.68,red
+Amiens|Hauts-de-France|France,49.88,2.26,blue
+Qingdao City|Shandong|China,36.32,120.39,red
+Jalandhar|Punjab|India,31.33,75.58,red
+Shihezi City|Xinjiang|China,44.31,86.05,red
+Stockton|California|United States,37.98,-121.31,red
+Pudong|@|China,31.33,121.6,red
+Opava|Moravia-Silesia|Czechia,49.94,17.9,red
+Nkonkobe Local Municipality|Eastern Cape|South Africa,-32.79,26.85,red
+Germantown|Maryland|United States,39.19,-77.37,blue
+Shibin Al-Kom|Al Minufiya|Egypt,30.57,31.01,red
+Murfreesboro|Tennessee|United States,35.85,-86.37,red
+Ferrisburgh|Vermont|United States,44.2,-73.36,blue
+Changning District|@|China,31.2,121.4,red
+Burgos|Castile and León|Spain,42.34,-3.73,red
+Estación Central|Santiago Metropolitan Region|Chile,-33.45,-70.68,red
+Rohtak|Haryana|India,28.88,76.61,red
+Khartoum|Khartoum State|Sudan,15.53,32.57,red
+St Albans|England|United Kingdom,51.75,-0.33,red
+Osnabrück|Lower Saxony|Germany,52.27,8.04,blue
+Obihiro|@|Japan,42.88,143.17,blue
+Dartmouth|Nova Scotia|Canada,44.66,-63.54,red
+Thrissur|Kerala|India,10.55,76.26,red
+Agra|Uttar Pradesh|India,27.19,78.01,red
+Bremerhaven|Free Hanseatic City of Bremen|Germany,53.53,8.58,blue
+Yogyakarta|Special Region of Yogyakarta|Indonesia,-7.8,110.37,red
+Naperville|Illinois|United States,41.8,-88.2,red
+Bowie|Maryland|United States,38.94,-76.73,red
+Qili New Area|Sichuan|China,31.56,106.0,red
+Jabalpur|Madhya Pradesh|India,23.18,79.93,red
+Jakarta Special Capital Region|@|Indonesia,-6.25,106.87,red
+Phường Đông Xuyên|An Giang Province|Vietnam,10.37,105.43,red
+Epsom and Ewell|England|United Kingdom,51.34,-0.24,red
+Hisar|Haryana|India,29.14,75.7,red
+Musashino|@|Japan,35.71,139.57,red
+Ji'an City|Jiangxi|China,27.11,115.02,red
+Portland|Maine|United States,43.67,-70.25,blue
+Addis Ababa|Addis Ababa|Ethiopia,8.99,38.77,red
+Vidalia|Georgia|United States,32.2,-82.37,red
+Plzeň|Southwest|Czechia,49.72,13.35,red
+Aydin|@|Turkey,37.85,27.85,red
+Nisshin|@|Japan,35.16,137.04,red
+دهستان دستجرد|Qazvin Province|Iran,36.53,50.0,blue
+Shahr-e Kord|Chaharmahal and Bakhtiyari Province|Iran,32.33,50.86,blue
+"Bahir Dar City, Amhara, Ethiopia|Amhara Region|Ethiopia",11.6,37.4,red
+Härnösands domkyrkodistrikt|@|Sweden,62.63,17.95,red
+Tongshan District|Jiangsu|China,34.2,117.18,blue
+Xihu|Jiangxi|China,28.65,115.83,red
+Columbia|Maryland|United States,39.19,-76.81,red
+Trier|Rhineland-Palatinate|Germany,49.74,6.64,red
+Mymensingh|Mymensingh Division|Bangladesh,24.72,90.43,red
+Rajkot|Gujarat|India,22.24,70.9,red
+Yunlong District|Jiangsu|China,34.27,117.26,red
+Gongju-si|@|South Korea,36.47,127.14,red
+Bento Gonçalves|Rio Grande do Sul|Brazil,-29.17,-51.51,red
+South Tangerang|Banten|Indonesia,-6.33,106.77,red
+Merced|California|United States,37.34,-120.47,blue
+Macon|Georgia|United States,32.87,-83.71,red
+Bulawayo|Bulawayo Province|Zimbabwe,-20.13,28.57,red
+Lucerne|Lucerne|Switzerland,47.05,8.31,blue
+Manila|@|Philippines,14.62,120.98,red
+Jorhat|Assam|India,26.76,94.2,red
+Jinyuan|Shanxi|China,37.84,112.53,red
+Pimpri-Chinchwad|Maharashtra|India,18.59,73.82,blue
+Kharkiv|Kharkiv Oblast|Ukraine,50.0,36.23,red
+Rushmoor|England|United Kingdom,51.28,-0.77,red
+Hino|@|Japan,35.67,139.39,red
+Carlsbad|California|United States,33.13,-117.32,red
+Fangshan|Beijing|China,39.72,116.17,red
+Springfield|Ohio|United States,39.93,-83.81,red
+Gaborone|South-East District|Botswana,-24.68,25.88,red
+Havana|@|Cuba,23.07,-82.38,red
+Al Ismailiya|Al Ismailiya|Egypt,30.62,32.27,red
+Bethlehem Township|Pennsylvania|United States,40.67,-75.32,red
+Costa Mesa|California|United States,33.7,-117.92,red
+Kathmandu|@|Nepal,27.69,85.32,red
+Olomouc|Central Moravia|Czechia,49.6,17.26,blue
+Kodaira|@|Japan,35.71,139.49,red
+دهستان فرح آبادجنوبی|Mazandaran Province|Iran,36.73,53.09,red
+Biddeford|Maine|United States,43.46,-70.39,red
+Eastbourne|England|United Kingdom,50.77,0.28,red
+Cuiabá|Mato Grosso|Brazil,-15.61,-56.06,red
+Seropédica|Rio de Janeiro|Brazil,-22.76,-43.69,red
+Gorgan|Golestan Province|Iran,36.84,54.44,red
+Sunshine Coast|Queensland|Australia,-26.72,153.06,blue
+Gurugram|Haryana|India,28.48,77.07,red
+Kumasi|Ashanti Region|Ghana,6.7,-1.63,red
+Oakdale|Minnesota|United States,45.0,-92.95,red
+Mendoza|Mendoza|Argentina,-32.89,-68.84,red
+Chester|England|United Kingdom,53.2,-2.9,red
+Xincheng|Inner Mongolia|China,40.85,111.68,red
+Miami|Florida|United States,25.79,-80.21,red
+Owo|Ondo|Nigeria,7.19,5.59,red
+Dar es Salaam|@|Tanzania,-6.85,39.25,red
+Conroe|Texas|United States,30.31,-95.47,blue
+Salem|Tamil Nadu|India,11.66,78.18,red
+Ueda|@|Japan,36.4,138.25,red
+Arrah|Bihar|India,25.56,84.66,blue
+Hirakata|@|Japan,34.82,135.66,red
+Muroran|@|Japan,42.38,141.03,red
+Brest|Brittany|France,48.4,-4.5,red
+Edwardsville|Illinois|United States,38.79,-90.0,red
+Harrisonburg|Virginia|United States,38.44,-78.87,red
+Springfield|Missouri|United States,37.22,-93.28,red
+Saihan|Inner Mongolia|China,40.8,111.7,red
+枫林路街道|@|China,31.19,121.45,red
+Tangshan|Hebei|China,39.64,118.18,red
+Saint-Étienne|Auvergne-Rhône-Alpes|France,45.43,4.39,red
+Surabaya|East Java|Indonesia,-7.31,112.73,red
+Tarragona|Catalonia|Spain,41.12,1.26,blue
+Thu Duc City|@|Vietnam,10.87,106.79,red
+Municipio Maracaibo|Zulia State|Venezuela,10.69,-71.63,red
+Machida|@|Japan,35.57,139.47,red
+Utica|New York|United States,43.08,-75.22,red
+Cacak City|Central Serbia|Serbia,43.9,20.34,red
+Zhongshan|Guangdong Province|China,22.48,113.41,red
+St. Thomas Mount Cantonment|Tamil Nadu|India,12.99,80.18,red
+Idaho Falls|Idaho|United States,43.49,-111.99,red
+Morganton|North Carolina|United States,35.72,-81.69,red
+Greeley|Colorado|United States,40.41,-104.76,red
+Faridabad|Haryana|India,28.4,77.25,red
+Bellingham|Washington|United States,48.8,-122.49,blue
+Yaounde|Centre|Cameroon,3.86,11.5,red
+Afyonkarahisar|@|Turkey,38.81,30.54,red
+Framingham|Massachusetts|United States,42.31,-71.39,blue
+Covilhã|@|Portugal,40.28,-7.51,blue
+High-tech Zone|Chongqing|China,29.61,106.3,red
+Vantaa|@|Finland,60.29,25.05,blue
+Midnapore|West Bengal|India,22.42,87.33,red
+Perpignan|Occitania|France,42.68,2.9,red
+Towson|Maryland|United States,39.39,-76.62,red
+La Garenne-Colombes|Ile-de-France|France,48.91,2.26,red
+Agartala|Tripura|India,23.84,91.29,red
+Mishima|@|Japan,35.12,138.94,blue
+Karaköy Mahallesi|@|Turkey,40.71,31.51,red
+East Suffolk|England|United Kingdom,52.06,1.28,red
+Cookeville|Tennessee|United States,36.18,-85.51,red
+شهر بیرجند|South Khorasan Province|Iran,32.88,59.22,blue
+Banha|Al Qalyubiya|Egypt,30.47,31.18,red
+Downtown Kansas City|Missouri|United States,39.1,-94.58,red
+Baku|Baku|Azerbaijan,40.39,49.85,red
+Wilkes-Barre|Pennsylvania|United States,41.24,-75.89,red
+Cartagena|Bolívar|Colombia,10.37,-75.47,red
+Williamsport|Pennsylvania|United States,41.23,-77.02,red
+Karlstad|@|Sweden,59.38,13.51,blue
+Yanji|Jilin|China,42.91,129.49,red
+Kitami|@|Japan,43.81,143.89,red
+Mayagüez|Puerto Rico|United States,18.21,-67.14,red
+Gangneung-si|@|South Korea,37.77,128.87,blue
+Bowling Green|Kentucky|United States,36.98,-86.48,red
+Tbilisi|@|Georgia,41.71,44.79,red
+Easton|Pennsylvania|United States,40.7,-75.21,red
+Chelyabinsk|Chelyabinsk Oblast|Russia,55.16,61.39,red
+Spokane|Washington|United States,47.67,-117.4,red
+Nakhon Ratchasima|Nakhon Ratchasima Province|Thailand,14.99,102.12,red
+Luohu District|Guangdong Province|China,22.57,114.1,red
+Kahrizak RD|@|Iran,35.54,51.42,red
+City of Rensselaer|New York|United States,42.64,-73.74,blue
+St.Thomas Mount-Pallavaram Cantonment Board|Tamil Nadu|India,13.0,80.2,red
+La Rochelle|New Aquitaine|France,46.15,-1.16,blue
+İncivez Mahallesi|@|Turkey,41.45,31.76,blue
+Sirsa|Haryana|India,29.54,75.03,red
+Lincoln|England|United Kingdom,53.23,-0.52,blue
+Neyagawa|@|Japan,34.76,135.63,red
+Ariel|Judea and Samaria|Palestinian Territory,32.1,35.19,blue
+Morelia|Michoacán|Mexico,19.69,-101.21,red
+Mexicali|Baja California|Mexico,32.66,-115.41,red
+Gorakhpur|Uttar Pradesh|India,26.81,83.4,red
+São Leopoldo|Rio Grande do Sul|Brazil,-29.79,-51.15,red
+Kalaburagi|Karnataka|India,17.31,76.83,red
+Deptford Township|New Jersey|United States,39.78,-75.12,red
+Nonsan-si|@|South Korea,36.18,127.11,blue
+West Suffolk|England|United Kingdom,52.27,0.48,blue
+Iași|@|Romania,47.17,27.58,red
+Albert-Eden|Auckland|New Zealand,-36.88,174.71,blue
+Sri Jayawardenepura Kotte|Western Province|Sri Lanka,6.89,79.88,red
+Akashi|@|Japan,34.66,135.03,red
+Prince George|British Columbia|Canada,53.89,-122.81,blue
+Bloomington|Minnesota|United States,44.86,-93.23,red
+Hatay|@|Turkey,36.34,36.2,red
+Zhanjiang City|Guangdong Province|China,21.27,110.35,blue
+Polokwane Local Municipality|Limpopo|South Africa,-23.89,29.74,red
+Petersburg|Virginia|United States,37.21,-77.45,red
+Roskilde|@|Denmark,55.64,12.09,red
+Itajubá|Minas Gerais|Brazil,-22.41,-45.45,red
+Galesburg|Illinois|United States,40.98,-90.41,red
+Zhoushan|Zhejiang|China,29.99,122.21,blue
+Ufa|Bashkortostan|Russia,54.73,55.94,red
+Jönköping|@|Sweden,57.78,14.16,blue
+Erode|Tamil Nadu|India,11.34,77.72,red
+Nerima|@|Japan,35.74,139.67,blue
+Ribeirão Preto|São Paulo|Brazil,-21.18,-47.81,blue
+Augsburg|Bavaria|Germany,48.37,10.9,blue
+Imphal|Manipur|India,24.8,93.91,red
+Hyderabad|Sindh|Pakistan,25.43,68.38,red
+Daytona Beach|Florida|United States,29.21,-81.0,red
+Kielce|Świętokrzyskie Voivodeship|Poland,50.88,20.64,red
+Asheville|North Carolina|United States,35.62,-82.57,red
+Gemeinde Laxenburg|Lower Austria|Austria,48.07,16.36,red
+Zlín|Central Moravia|Czechia,49.22,17.66,red
+Kuching|Sarawak|Malaysia,1.52,110.35,red
+Bushehr|Bushehr Province|Iran,28.91,50.84,blue
+Temuco|Araucanía Region|Chile,-38.75,-72.62,red
+Lugano|Ticino|Switzerland,46.01,8.96,red
+Dibrugarh|Assam|India,27.49,94.91,red
+Valparaíso|Valparaiso Region|Chile,-33.04,-71.61,red
+Campo Grande|Mato Grosso do Sul|Brazil,-20.5,-54.61,red
+Krasnoyarsk|Krasnoyarsk Krai|Russia,56.0,92.77,red
+Évora|@|Portugal,38.57,-7.9,blue
+دهستان تیمورلو|East Azerbaijan Province|Iran,37.81,45.95,blue
+Guntur|Andhra Pradesh|India,16.3,80.44,red
+Frederick|Maryland|United States,39.42,-77.41,blue
+Jonesboro|Arkansas|United States,35.84,-90.68,red
+Saint-Denis|Ile-de-France|France,48.92,2.35,red
+Dartmouth|Massachusetts|United States,41.63,-71.01,red
+Raipur|Chhattisgarh|India,21.24,81.69,red
+Dos Hermanas|Andalusia|Spain,37.35,-5.94,blue
+Dolgoprudny|Moscow Oblast|Russia,55.93,37.52,blue
+Saint Petersburg|Florida|United States,27.72,-82.69,blue
+Rabat|@|Morocco,34.0,-6.85,red
+Marietta|Georgia|United States,33.93,-84.56,red
+Chersonisos Municipal Unit|Region of Crete|Greece,35.34,25.37,blue
+Cherwell District|England|United Kingdom,52.05,-1.34,red
+Qiqihar|Heilongjiang|China,47.35,123.93,red
+Cupertino|California|United States,37.33,-122.03,red
+Salem|Oregon|United States,44.93,-123.04,red
+Edinburg|Texas|United States,26.3,-98.17,red
+Tsuru|@|Japan,35.54,138.9,red
+Chambéry|Auvergne-Rhône-Alpes|France,45.56,5.91,red
+Carson|California|United States,33.86,-118.26,blue
+Ballarat|Victoria|Australia,-37.58,143.85,red
+Cedar Falls|Iowa|United States,42.51,-92.46,red
+Pensacola|Florida|United States,30.55,-87.22,red
+Lviv|Lviv Oblast|Ukraine,49.83,24.0,red
+Xinyang|Henan|China,32.16,114.12,blue
+Corpus Christi|Texas|United States,27.71,-97.33,red
+Craiova|@|Romania,44.32,23.8,red
+Adachi|@|Japan,35.75,139.81,red
+Veszprém|@|Hungary,47.09,17.91,red
+Stevens Point|Wisconsin|United States,44.53,-89.57,red
+Mathura|Uttar Pradesh|India,27.46,77.7,red
+Lower Oxford Township|Pennsylvania|United States,39.81,-75.93,blue
+Derby|England|United Kingdom,52.91,-1.47,red
+Killeen|Texas|United States,31.12,-97.73,red
+Toluca|State of Mexico|Mexico,19.28,-99.68,red
+Ganggu-myeon|@|South Korea,36.38,129.4,red
+Ujjain|Madhya Pradesh|India,23.15,75.8,red
+Xinzhou|Jiangxi|China,28.42,117.97,red
+Sagamihara|@|Japan,35.53,139.43,blue
+Bincheng District|Shandong|China,37.39,117.99,red
+São Luís|Maranhão|Brazil,-2.58,-44.33,red
+Krasnodar|Krasnodar Krai|Russia,45.05,39.0,red
+Sivakasi|Tamil Nadu|India,9.47,77.75,red
+Växjö|@|Sweden,56.85,14.83,blue
+Irkutsk|Irkutsk Oblast|Russia,52.24,104.27,red
+Multan|Punjab|Pakistan,30.2,71.44,red
+Hikone|@|Japan,35.26,136.22,red
+Darwin|@|Australia,-12.41,130.88,red
+Nicosia|@|Cyprus,35.23,33.32,red
+Woodland Park|New Jersey|United States,40.9,-74.19,red
+"Newport, Wales|Wales|United Kingdom",51.59,-3.01,red
+Talca|Maule Region|Chile,-35.41,-71.63,blue
+Calabar|Cross River State|Nigeria,4.95,8.34,red
+Kota Kinabalu|Sabah|Malaysia,6.04,116.12,red
+Yinchuan City|Ningxia|China,38.54,106.14,red
+Santa Maria|California|United States,34.94,-120.42,red
+Lancaster|Pennsylvania|United States,40.05,-76.3,red
+Qaryat ash Shahid Yunis as Sabawi|Nineveh Governorate|Iraq,36.38,43.14,red
+City of Sarajevo|Federation of Bosnia and Herzegovina|Bosnia and Herzegovina,43.87,18.42,red
+Madison|New Jersey|United States,40.76,-74.43,red
+Osijek|@|Croatia,45.56,18.7,red
+Kuiwen District|Shandong|China,36.71,119.13,red
+Beaumont|Texas|United States,30.04,-94.08,red
+Fukuyama|@|Japan,34.46,133.23,red
+Gold Coast|Queensland|Australia,-28.07,153.38,red
+Springfield|Massachusetts|United States,42.11,-72.56,red
+Mérida|Yucatán|Mexico,21.01,-89.62,red
+Chenggong District|Yunnan|China,24.93,102.81,blue
+Qena|Qena|Egypt,26.18,32.74,red
+Évry-Courcouronnes|Ile-de-France|France,48.62,2.43,red
+Greenville|South Carolina|United States,34.87,-82.36,red
+Narashino|@|Japan,35.69,140.02,red
+Shangcheng District|Zhejiang|China,30.26,120.2,blue
+Aston Township|Pennsylvania|United States,39.88,-75.44,red
+Binjiang District|Zhejiang|China,30.17,120.15,red
+Youngstown|Ohio|United States,41.11,-80.65,red
+arrondissement de Guéliz كليز|@|Morocco,31.67,-8.0,red
+Gödöllő|@|Hungary,47.59,19.36,red
+Carlstadt|New Jersey|United States,40.83,-74.06,red
+Okazaki|@|Japan,34.97,137.14,blue
+Kiyose|@|Japan,35.78,139.51,blue
+Suncheon-si|@|South Korea,34.97,127.48,red
+Lewiston|Maine|United States,44.11,-70.2,blue
+Hongqiao District|Tianjin|China,39.18,117.13,red
+Hillsboro|Oregon|United States,45.54,-122.94,red
+Gumi-si|@|South Korea,36.14,128.39,red
+Zarqa|Zarqa|Jordan,32.06,36.08,red
+دهستان حومه|Semnan Province|Iran,36.17,54.32,red
+Thoothukudi|Tamil Nadu|India,8.78,78.12,red
+Duji District|Anhui|China,33.98,116.81,blue
+Hermosillo|Sonora|Mexico,29.08,-110.96,red
+Patna|Bihar|India,25.6,85.2,red
+Potenza|Basilicata|Italy,40.65,15.81,blue
+North Adams|Massachusetts|United States,42.69,-73.1,blue
+La Crosse|Wisconsin|United States,43.82,-91.23,red
+Aleppo|Aleppo Governorate|Syria,36.21,37.12,red
+Montgomery|Alabama|United States,32.39,-86.34,red
+Taigu|Shanxi|China,37.42,112.58,blue
+Galil Elyon Regional Council|North District|Israel,33.24,35.58,red
+Sunderland|England|United Kingdom,54.91,-1.39,red
+Kami|@|Japan,33.62,133.72,red
+Santo André|São Paulo|Brazil,-23.64,-46.53,red
+Cotonou|Littoral|Benin,6.37,2.39,blue
+Shivamogga|Karnataka|India,13.92,75.57,red
+Liberec|Northeast|Czechia,50.77,15.07,red
+Nizhny Novgorod|Nizhny Novgorod Oblast|Russia,56.33,44.03,red
+Ensenada|Baja California|Mexico,31.87,-116.67,blue
+Winters|Texas|United States,31.97,-99.9,red
+Abeokuta|Ogun|Nigeria,7.16,3.33,red
+Salisbury|England|United Kingdom,51.07,-1.8,red
+Mizuho|@|Japan,35.38,136.69,blue
+Andong-si|@|South Korea,36.54,128.8,blue
+Pontiac|Quebec|Canada,45.46,-75.84,red
+دهستان قصبه شرقی|Razavi Khorasan|Iran,36.3,57.68,blue
+Kuhpayeh RD|Isfahan Province|Iran,34.02,51.41,red
+Chalco de Díaz Covarrubias|State of Mexico|Mexico,19.25,-98.9,red
+Tenri|@|Japan,34.6,135.84,red
+Baotou City|Inner Mongolia|China,40.65,109.89,red
+Cottbus - Chóśebuz|Brandenburg|Germany,51.77,14.33,red
+Kasugai|@|Japan,35.27,137.02,red
+Xalapa|Veracruz|Mexico,19.53,-96.92,red
+Vladivostok|Primorsky Krai|Russia,43.13,131.91,red
+Scranton|Pennsylvania|United States,41.41,-75.66,red
+Vaasa|@|Finland,63.09,21.65,blue
+Omsk|Omsk Oblast|Russia,55.02,73.31,red
+Riffa|Southern Governorate|Bahrain,26.16,50.55,red
+Suhaj|Suhaj|Egypt,26.57,31.71,red
+Mulhouse|Grand Est|France,47.73,7.31,red
+Luzhou|Sichuan|China,28.88,105.44,red
+Anchorage|Alaska|United States,61.23,-149.72,red
+Shaoxing|Zhejiang|China,29.99,120.57,red
+Drammen|@|Norway,59.75,10.2,red
+Perm|Perm Krai|Russia,58.01,56.19,red
+Kiryat Yam|Haifa District|Israel,32.87,35.09,red
+Belgorod|Belgorod Oblast|Russia,50.58,36.6,red
+Fresno|California|United States,36.74,-119.78,red
+Madison|Alabama|United States,34.67,-86.75,red
+Kashiwa|@|Japan,35.9,139.94,red
+Chattogram|Chattogram Division|Bangladesh,22.36,91.8,red
+Brahmapur|Odisha|India,19.31,84.81,red
+Ulyanovsk|Ulyanovsk Oblast|Russia,54.35,48.39,red
+Sachseln|Obwalden|Switzerland,46.8,8.22,red
+Eau Claire|Wisconsin|United States,44.86,-91.47,red
+Chișinau|@|Moldova,47.01,28.85,red
+Morristown|New Jersey|United States,40.79,-74.48,red
+Limassol|South Cyprus|Cyprus,34.68,33.04,blue
+Upper Allen Township|Pennsylvania|United States,40.16,-76.99,red
+Rapid City|South Dakota|United States,44.07,-103.21,red
+Kelsterbach|Hesse|Germany,50.05,8.55,blue
+San Martín de Porres|Lima|Peru,-12.02,-77.06,red
+Yaroslavl|Yaroslavl Oblast|Russia,57.63,39.89,red
+Vercelli|Piemont|Italy,45.33,8.42,red
+Miskolc|@|Hungary,48.08,20.77,red
+Waterford|@|Ireland,52.25,-7.08,red
+Des Moines|Iowa|United States,41.58,-93.66,red
+Sejong|@|South Korea,36.51,127.26,red
+Petaluma|California|United States,38.23,-122.59,blue
+Suva|Central|Fiji,-18.13,178.43,red
+Kfar Sava|Center District|Israel,32.19,34.89,red
+Iwaki|@|Japan,37.02,140.92,blue
+Västerås|@|Sweden,59.62,16.54,red
+Inuyama|@|Japan,35.32,136.95,blue
+New London|Connecticut|United States,41.38,-72.1,blue
+Yurihonjo|@|Japan,39.39,140.07,red
+Makkah Al Mukarramah|Makkah Region|Saudi Arabia,21.33,39.95,red
+Greater Noida|Uttar Pradesh|India,28.47,77.48,red
+Jamshedpur|Jharkhand|India,22.81,86.21,red
+Centennial|Colorado|United States,39.6,-104.9,blue
+Dacorum|England|United Kingdom,51.75,-0.47,red
+Montevideo|Montevideo|Uruguay,-34.89,-56.16,red
+Minhou|Fujian|China,26.07,119.18,red
+Souk Ahras|Souk Ahras|Algeria,36.3,7.92,red
+Bergamo|Lombardy|Italy,45.69,9.67,blue
+Bab Ezzouar|Algiers|Algeria,36.72,3.18,red
+Mairi|Borno|Nigeria,11.8,13.2,red
+Bodø|@|Norway,67.29,14.56,blue
+Dubai|Dubai|United Arab Emirates,25.25,55.31,red
+Durg|Chhattisgarh|India,21.19,81.32,red
+"Oeiras e São Julião da Barra, Paço de Arcos e Caxias|@|Portugal",38.69,-9.32,blue
+Palisades|New York|United States,41.01,-73.93,red
+Karabük Province|@|Turkey,41.2,32.62,red
+Hecheng|Hunan|China,27.58,110.02,red
+Hastings|Nebraska|United States,40.59,-98.37,red
+Raymond|Mississippi|United States,32.26,-90.42,red
+Rimouski|Quebec|Canada,48.45,-68.51,blue
+Salisbury|Pennsylvania|United States,40.57,-75.52,red
+South Lakeland|England|United Kingdom,54.35,-2.94,red
+Kemerovo|Kemerovo Oblast–Kuzbass|Russia,55.35,86.09,red
+Ipswich|Massachusetts|United States,42.68,-70.84,blue
+Tambov|Tambov Oblast|Russia,52.72,41.45,red
+Nablus|@|Palestinian Territory,32.22,35.24,red
+Paducah|Kentucky|United States,37.06,-88.66,red
+Derry Township|Pennsylvania|United States,40.42,-79.24,red
+Imizu|@|Japan,36.73,137.11,blue
+Bejaia|Bejaia|Algeria,36.76,5.04,red
+Podgorica|@|Montenegro,42.44,19.27,red
+City of Schenectady|New York|United States,42.81,-73.95,red
+Moberly|Missouri|United States,39.42,-92.45,red
+East Palo Alto|California|United States,37.38,-122.19,blue
+Ankang City|Shaanxi|China,32.69,109.03,red
+Chieti|Abruzzo|Italy,42.37,14.15,blue
+دهستان سراجوی غربی|East Azerbaijan Province|Iran,37.38,46.28,blue
+Long Branch|New Jersey|United States,40.3,-73.99,red
+Kochi|Kerala|India,9.94,76.26,red
+Tashkent|@|Uzbekistan,41.34,69.33,red
+Chelmsford|England|United Kingdom,51.74,0.41,red
+Piracicaba|São Paulo|Brazil,-22.71,-47.64,blue
+South Whitehall Township|Pennsylvania|United States,40.58,-75.53,red
+Siping City|Jilin|China,43.17,124.35,red
+Oshkosh|Wisconsin|United States,44.03,-88.56,red
+Urmia|West Azerbaijan Province|Iran,37.54,45.08,red
+Dharan Sub-Metropolitan|@|Nepal,26.81,87.27,red
+Cape Coast|Central Region|Ghana,5.1,-1.28,red
+Savannah|Georgia|United States,32.03,-81.09,red
+Lima|Lima|Peru,-12.04,-77.04,red
+St. Peter|Minnesota|United States,44.32,-93.97,red
+Ahmadabad-e Mostowfi RD|@|Iran,35.64,51.18,red
+Orange|California|United States,33.78,-117.87,red
+Xiangcheng|Fujian|China,24.51,117.65,red
+Surrey Heath|England|United Kingdom,51.32,-0.74,red
+Karlskrona|@|Sweden,56.18,15.59,red
+Feira de Santana|Bahia|Brazil,-12.2,-38.97,red
+Haizhou District|Jiangsu|China,34.61,119.22,red
+Maheshtala|West Bengal|India,22.45,88.3,red
+Ramsey|New Jersey|United States,41.07,-74.12,red
+Richmond|California|United States,37.94,-122.36,red
+Ancón|Panamá|Panama,9.01,-79.59,blue
+Topeka|Kansas|United States,39.01,-95.7,red
+Laguna Beach|California|United States,33.56,-117.77,red
+Covington|Louisiana|United States,30.47,-90.11,red
+Brigantine|New Jersey|United States,39.4,-74.39,red
+Wardha|Maharashtra|India,20.74,78.59,red
+Samara|Samara Oblast|Russia,53.22,50.17,red
+Manaus|Amazonas|Brazil,-3.12,-60.02,red
+Haridwar|Uttarakhand|India,30.0,78.19,red
+Bandar Seri Begawan|@|Brunei,4.89,114.93,red
+Taizhou|Zhejiang|China,28.86,121.14,red
+West Goshen Township|Pennsylvania|United States,39.95,-75.6,red
+Rourkela|Odisha|India,22.23,84.81,red
+Elx / Elche|Valencian Community|Spain,38.27,-0.68,red
+McKinney|Texas|United States,33.2,-96.61,red
+Nanded|Maharashtra|India,19.1,77.29,red
+Volgograd|Volgograd Oblast|Russia,48.71,44.53,red
+Toyota|@|Japan,35.13,137.19,red
+Ponta Delgada|@|Portugal,37.75,-25.66,blue
+دهستان زرین|Yazd Province|Iran,32.56,54.3,red
+Goyang-si|@|South Korea,37.6,126.87,red
+Settimo Milanese|Lombardy|Italy,45.47,9.04,red
+La Garde|Provence-Alpes-Côte d'Azur|France,43.14,6.02,red
+Bogota Capital District - Municipality|@|Colombia,4.64,-74.05,red
+Banja Luka|Republika Srpska|Bosnia and Herzegovina,44.78,17.21,red
+West Palm Beach|Florida|United States,26.73,-80.05,red
+Almaty|@|Kazakhstan,43.18,76.97,red
+Criciúma|Santa Catarina|Brazil,-28.7,-49.41,blue
+Fort Wayne|Indiana|United States,41.14,-85.11,red
+Al Majma`ah|Riyadh Region|Saudi Arabia,25.87,45.41,red
+Vijayawada|Andhra Pradesh|India,16.5,80.64,red
+Pachuca|Hidalgo|Mexico,20.13,-98.73,red
+Ribble Valley|England|United Kingdom,53.94,-2.55,red
+Querétaro|Querétaro|Mexico,20.59,-100.41,red
+Campobasso|Molise|Italy,41.56,14.67,red
+Medina|Medina Province|Saudi Arabia,24.48,39.54,red
+Hebron|@|Palestinian Territory,31.55,35.09,blue
+Chungju-si|@|South Korea,36.97,127.87,red
+Richmond|Kentucky|United States,37.74,-84.3,red
+Nur-Sultan|Nur-Sultan|Kazakhstan,51.16,71.46,red
+Chico|California|United States,39.73,-121.85,red
+Antofagasta|Antofagasta Region|Chile,-23.67,-70.41,blue
+Meadville|Pennsylvania|United States,41.65,-80.14,red
+Marina|California|United States,36.66,-121.81,blue
+Roseville|California|United States,38.8,-121.32,red
+Iloilo City|@|Philippines,10.71,122.56,red
+Klagenfurt|Carinthia|Austria,46.62,14.26,red
+Truro|England|United Kingdom,50.27,-5.09,red
+Westwood|New Jersey|United States,40.99,-74.02,red
+Koszalin|West Pomeranian Voivodeship|Poland,54.2,16.2,red
+Qingyang District|Sichuan|China,30.67,104.08,blue
+Knowsley|England|United Kingdom,53.42,-2.79,red
+Urayasu|@|Japan,35.64,139.92,red
+Savar|Dhaka Division|Bangladesh,23.93,90.24,red
+Cascavel|Paraná|Brazil,-24.99,-53.45,red
+São José do Rio Preto|São Paulo|Brazil,-20.82,-49.38,red
+uMhlathuze Local Municipality|KwaZulu-Natal|South Africa,-28.85,31.83,red
+Dschang|West|Cameroon,5.45,10.07,blue
+West Lancashire|England|United Kingdom,53.56,-2.87,red
+Gümüşhane|@|Turkey,40.44,39.51,blue
+Owerri|Imo|Nigeria,5.48,7.03,red
+Canoas|Rio Grande do Sul|Brazil,-29.89,-51.16,red
+Xining|Qinghai|China,36.62,101.78,red
+Bakersfield|California|United States,35.41,-118.97,red
+East Whiteland Township|Pennsylvania|United States,40.06,-75.54,blue
+Winchester|England|United Kingdom,51.06,-1.29,red
+Saint-Denis|Réunion|France,-20.9,55.48,red
+Rize|@|Turkey,41.04,40.49,blue
+Nacogdoches|Texas|United States,31.62,-94.65,red
+Inglewood|California|United States,33.95,-118.35,red
+Allschwil|Basel-Landschaft|Switzerland,47.56,7.55,blue
+Teramo|Abruzzo|Italy,42.66,13.69,blue
+Batna|Batna|Algeria,35.54,6.15,red
+Meerut|Uttar Pradesh|India,29.0,77.7,red
+Kunitachi|@|Japan,35.69,139.45,red
+Hotel Dieu|Beirut Governorate|Lebanon,33.88,35.52,red
+Dhulikhel|@|Nepal,27.62,85.55,red
+Jimma|@|Ethiopia,7.68,36.83,red
+Fayetteville|North Carolina|United States,35.07,-78.93,red
+Amravati|Maharashtra|India,20.96,77.76,red
+Uyo|Akwa Ibom|Nigeria,5.04,7.98,red
+Avadi|Tamil Nadu|India,13.14,80.05,red
+Tekirdağ|@|Turkey,40.99,27.58,red
+Port Said|Port Said|Egypt,31.24,32.32,red
+Mardan|Khyber Pakhtunkhwa|Pakistan,34.15,72.05,blue
+Staunton|Virginia|United States,38.15,-79.07,red
+Atsugi|@|Japan,35.49,139.34,red
+Halmstad|@|Sweden,56.66,12.88,red
+Sepang|Selangor|Malaysia,2.98,101.73,red
+Qom|Qom Province|Iran,34.65,50.89,blue
+Fukaya|@|Japan,36.2,139.24,red
+Carlisle|England|United Kingdom,54.89,-2.91,red
+Amagasaki|@|Japan,34.75,135.41,red
+Clive|Iowa|United States,41.6,-93.74,blue
+Gimpo-si|@|South Korea,37.7,126.55,red
+Thulamela Local Municipality|Limpopo|South Africa,-22.98,30.44,red
+Khulna|Khulna Division|Bangladesh,22.8,89.53,red
+Lusaka|Lusaka Province|Zambia,-15.39,28.33,red
+Lin'an District|Zhejiang|China,30.25,119.73,red
+Bhagalpur|Bihar|India,25.24,86.99,red
+Gloucester|England|United Kingdom,51.88,-2.25,red
+Izhevsk|Udmurtia|Russia,56.87,53.18,red
+Abington Township|Pennsylvania|United States,40.09,-75.1,blue
+Rencheng District|Shandong|China,35.4,116.6,red
+La Molina|Lima|Peru,-12.08,-76.95,red
+Auburn|Illinois|United States,39.59,-89.75,red
+Ajmer|Rajasthan|India,26.45,74.64,red
+Bolton|England|United Kingdom,53.57,-2.42,red
+Guadalupe|Nuevo León|Mexico,25.67,-100.24,red
+Bolzano - Bozen|Trentino-Alto Adige/Südtirol|Italy,46.49,11.35,red
+Vila Real|@|Portugal,41.3,-7.74,blue
+l'Hospitalet de Llobregat|Catalonia|Spain,41.34,2.1,blue
+Gaza|@|Palestinian Territory,31.52,34.44,red
+Lorain|Ohio|United States,41.44,-82.24,blue
+Al Rayyan|Al Rayyan|Qatar,25.32,51.44,blue
+Emfuleni Local Municipality|Gauteng|South Africa,-26.71,27.86,red
+Ōtara-Papatoetoe|Auckland|New Zealand,-36.96,174.84,red
+Launceston|Tasmania|Australia,-41.4,147.12,blue
+Biskra|Biskra|Algeria,34.85,5.75,red
+Saint Cloud|Minnesota|United States,45.58,-94.17,red
+Pequannock Township|New Jersey|United States,40.96,-74.31,blue
+Kalispell|Montana|United States,48.2,-114.33,red
+Naguanagua|Carabobo State|Venezuela,10.27,-68.0,red
+Canyon|Texas|United States,34.98,-101.91,red
+Gunsan-si|@|South Korea,35.95,126.68,red
+Roswell|Georgia|United States,34.04,-84.31,red
+Spartanburg|South Carolina|United States,35.01,-81.99,red
+Matara|Southern Province|Sri Lanka,5.94,80.58,red
+Taxila|Punjab|Pakistan,33.77,72.83,red
+Hagen|North Rhine-Westphalia|Germany,51.38,7.5,blue
+Sarasota|Florida|United States,27.33,-82.58,blue
+Sumy|Sumy Oblast|Ukraine,50.89,34.84,red
+Hayward|California|United States,37.63,-122.12,blue
+Qazvin|Qazvin Province|Iran,36.28,49.99,red
+Tonbridge and Malling|England|United Kingdom,51.19,0.26,red
+Bahawalpur|Punjab|Pakistan,29.39,71.68,red
+Zunyi|Guizhou|China,27.71,106.95,red
+Mar Mitr|Beirut Governorate|Lebanon,33.89,35.52,red
+Nitra|Region of Nitra|Slovakia,48.31,18.09,red
+Aizuwakamatsu|@|Japan,37.52,139.94,red
+Niagara Falls|New York|United States,43.09,-79.06,red
+Koblenz|Rhineland-Palatinate|Germany,50.34,7.57,blue
+Jos|Plateau|Nigeria,9.95,8.89,red
+Nadiad|Gujarat|India,22.68,72.87,red
+Las Condes|Santiago Metropolitan Region|Chile,-33.42,-70.58,red
+Ohtawara|@|Japan,36.87,140.07,red
+Songkhla|Songkhla Province|Thailand,7.16,100.61,red
+Shijingshan District|Beijing|China,39.91,116.22,red
+Udaipur|Rajasthan|India,24.59,73.73,red
+Donetsk|@|Ukraine,48.0,37.83,red
+Chesterfield|England|United Kingdom,53.24,-1.4,blue
+Whitewater|Wisconsin|United States,42.83,-88.72,red
+Plovdiv|@|Bulgaria,42.14,24.75,red
+Duisburg|North Rhine-Westphalia|Germany,51.43,6.8,red
+Colombes|Ile-de-France|France,48.92,2.25,red
+Mossoró|Rio Grande do Norte|Brazil,-5.2,-37.33,red
+Tamale|Northern Region|Ghana,9.39,-0.82,red
+Manchester|New Hampshire|United States,42.97,-71.41,red
+Vallejo|California|United States,38.09,-122.26,red
+Huntingdonshire|England|United Kingdom,52.35,-0.26,red
+City of Saratoga Springs|New York|United States,43.08,-73.78,blue
+Gazipur|Dhaka Division|Bangladesh,23.95,90.38,red
+Inverness|Scotland|United Kingdom,57.48,-4.23,red
+Armagh|Northern Ireland|United Kingdom,54.35,-6.65,red
+Kenosha|Wisconsin|United States,42.62,-87.82,red
+Hawassa|Sidama|Ethiopia,7.06,38.5,red
+Port of Spain|@|Trinidad and Tobago,10.66,-61.51,red
+Yunyan|Guizhou|China,26.59,106.72,red
+"Worcester, England|England|United Kingdom",52.19,-2.18,red
+Petrozavodsk|Republic of Karelia|Russia,61.79,34.35,red
+Adur|England|United Kingdom,50.84,-0.29,red
+arrondissement d'Agdal أكدال|@|Morocco,34.03,-4.98,red
+Steinbach|Manitoba|Canada,49.53,-96.68,red
+Winterthur|Zurich|Switzerland,47.5,8.7,red
+Hilo|Hawaii|United States,19.7,-155.08,red
+Taguatinga|Federal District|Brazil,-15.87,-48.03,red
+Lewes|England|United Kingdom,50.77,0.1,red
+Dongguan Subdistrict|Shaanxi|China,33.07,107.05,red
+Saddar|Punjab|Pakistan,33.6,73.05,red
+Haverford Township|Pennsylvania|United States,40.01,-75.31,blue
+Dakar|Dakar Region|Senegal,14.69,-17.46,red
+Holyoke|Massachusetts|United States,42.2,-72.61,red
+Bartlesville|Oklahoma|United States,36.75,-95.98,red
+San Sebastián|Autonomous Community of the Basque Country|Spain,43.31,-2.01,red
+Dover|Delaware|United States,39.2,-75.56,red
+Frankfort|Kentucky|United States,38.2,-84.88,red
+Warrenville|Illinois|United States,41.82,-88.17,red
+Ellensburg|Washington|United States,47.0,-120.54,blue
+Hradec Králové|Northeast|Czechia,50.21,15.83,red
+Shiojiri|@|Japan,36.13,137.94,blue
+Itatiba|São Paulo|Brazil,-23.02,-46.74,red
+Hamar|@|Norway,60.8,11.08,red
+Luanda|Luanda Province|Angola,-8.82,13.23,red
+Barnaul|Altai Krai|Russia,53.35,83.78,red
+Joplin|Missouri|United States,37.1,-94.46,red
+Vista|California|United States,33.15,-117.23,red
+Concord|New Hampshire|United States,43.21,-71.53,red
+Petaling Jaya|Selangor|Malaysia,3.2,101.62,red
+Kashiwara|@|Japan,34.55,135.65,blue
+City of Geneva|New York|United States,42.86,-76.99,red
+Sylhet|Sylhet Division|Bangladesh,24.89,91.87,red
+Buea|Southwest|Cameroon,4.15,9.29,red
+Fertek Mahallesi|@|Turkey,37.94,34.62,red
+Dourados|Mato Grosso do Sul|Brazil,-22.22,-54.81,red
+Lae|Morobe|Papua New Guinea,-6.72,147.0,red
+Ubon Ratchathani|Ubon Ratchathani Province|Thailand,15.26,104.85,red
+Colima|Colima|Mexico,19.25,-103.7,red
+Cheboksary|Chuvashia|Russia,56.15,47.22,red
+Lake Charles|Louisiana|United States,30.22,-93.16,red
+Medway|Massachusetts|United States,42.14,-71.48,red
+Montpelier|Vermont|United States,44.26,-72.56,red
+Blantyre|Blantyre|Malawi,-15.8,35.02,red
+Burlington|North Carolina|United States,36.09,-79.44,red
+Seosan-si|@|South Korea,36.69,126.58,red
+Jashore|Khulna Division|Bangladesh,23.23,89.13,red
+Matanzas|Matanzas|Cuba,23.04,-81.51,red
+Jackson|Tennessee|United States,35.65,-88.78,red
+Gatineau|Quebec|Canada,45.43,-75.71,red
+Colombo|Western Province|Sri Lanka,6.93,79.85,red
+Stafford|England|United Kingdom,52.81,-2.12,blue
+Santa Marta|Magdalena|Colombia,11.24,-74.18,red
+Mati|Davao Oriental|Philippines,6.93,126.25,red
+Pyinmana Township|Naypyitaw Union Territory|Myanmar,19.73,96.2,red
+Concord|North Carolina|United States,35.44,-80.6,blue
+Aksaray|@|Turkey,38.33,33.98,blue
+Anniston|Alabama|United States,33.63,-85.79,red
+Rockaway Township|New Jersey|United States,40.96,-74.53,red
+Lo Barnechea|Santiago Metropolitan Region|Chile,-33.37,-70.52,red
+Needham|Massachusetts|United States,42.3,-71.22,red
+Tandridge District|England|United Kingdom,51.27,-0.06,red
+Douai|Hauts-de-France|France,50.38,3.07,red
+Guilin|Guangxi|China,25.22,110.17,red
+Ridgefield|New Jersey|United States,40.82,-74.03,red
+Novo Hamburgo|Rio Grande do Sul|Brazil,-29.67,-51.12,red
+Xicha|Gansu|China,36.56,103.74,blue
+Redwood City|California|United States,37.53,-122.26,red
+Beijing|Beijing|China,39.9,116.41,red
+Meriden|Connecticut|United States,41.54,-72.81,blue
+Hargeisa|@|Somalia,9.56,44.05,red
+North Devon|England|United Kingdom,51.09,-4.05,red
+Ryedale|England|United Kingdom,54.02,-0.97,blue
+Valdosta|Georgia|United States,30.85,-83.29,red
+Fremont|California|United States,37.48,-121.93,red
+Rio Grande|Rio Grande do Sul|Brazil,-32.18,-52.14,red
+Abbotsford|British Columbia|Canada,49.06,-122.34,red
+East Hertfordshire|England|United Kingdom,51.78,-0.07,red
+Naju-si|@|South Korea,35.05,126.72,red
+Duluth|Minnesota|United States,46.82,-92.11,red
+Satte|@|Japan,36.07,139.73,red
+Lynchburg|Virginia|United States,37.35,-79.18,red
+Paterson|New Jersey|United States,40.92,-74.17,red
+Allentown|Pennsylvania|United States,40.6,-75.51,red
+Saransk|Republic of Mordovia|Russia,54.19,45.18,red
+Luján|Buenos Aires|Argentina,-34.58,-59.09,blue
+Sonipat|Haryana|India,29.0,77.02,red
+Penza|Penza Oblast|Russia,53.18,45.0,red
+Shuibosi|Shanxi|China,40.09,113.35,red
+Sagar|Madhya Pradesh|India,23.83,78.77,red
+Nalgonda|Telangana|India,17.04,79.25,red
+Waterville|Maine|United States,44.52,-69.66,blue
+Municipal District of Carrigaline|@|Ireland,51.88,-8.54,red
+Watford|England|United Kingdom,51.66,-0.41,red
+Jhansi|Uttar Pradesh|India,25.45,78.61,red
+Benghazi|@|Libya,32.08,20.1,red
+دهستان باغران|South Khorasan Province|Iran,32.85,59.29,red
+Pueblo Libre|Lima|Peru,-12.07,-77.08,blue
+Villa Mercedes|San Luis|Argentina,-33.68,-65.47,red
+Falun|@|Sweden,60.61,15.65,red
+Camden|New Jersey|United States,39.94,-75.11,red
+Bucaramanga|Santander|Colombia,7.12,-73.11,red
+Ogden|Utah|United States,41.23,-112.01,red
+Cheney|Washington|United States,47.49,-117.58,red
+Changde|Hunan|China,29.05,111.67,red
+Linyi City|Shandong|China,35.11,118.29,red
+Hwaseong-si|@|South Korea,37.23,126.97,red
+Bikaner|Rajasthan|India,28.01,73.34,blue
+Olympia|Washington|United States,47.04,-122.9,red
+Bidar|Karnataka|India,17.9,77.51,blue
+Dar es-Salaam|@|Tanzania,-6.81,39.27,red
+Birzeit|@|Palestinian Territory,31.96,35.18,red
+Noda|@|Japan,35.94,139.87,red
+Fengtai District|Beijing|China,39.84,116.28,red
+Downey|California|United States,33.94,-118.13,red
+Aarhus|Central Denmark Region|Denmark,56.16,10.19,red
+Green Bay|Wisconsin|United States,44.53,-88.11,red
+Reggio di Calabria|Calabria|Italy,38.11,15.64,red
+Eldoret|Uasin Gishu County|Kenya,0.51,35.27,red
+Juneau|Alaska|United States,58.3,-134.42,blue
+Dorayi|Kano State|Nigeria,11.98,8.48,red
+Timmins|Ontario|Canada,48.49,-81.2,blue
+Ramat Negev Regional Council|South District|Israel,31.0,35.0,red
+Brookhaven|Georgia|United States,33.88,-84.33,red
+Anseong-si|@|South Korea,37.01,127.26,red
+Renton|Washington|United States,47.46,-122.22,red
+Tumakuru|Karnataka|India,13.34,77.12,red
+Henderson|Nevada|United States,36.02,-115.09,red
+Kozani|Epirus and Western Macedonia|Greece,40.32,21.79,red
+Bristol Township|Pennsylvania|United States,40.08,-74.9,red
+Thessaloniki Municipal Unit|Macedonia and Thrace|Greece,40.6,22.98,blue
+San Mateo|California|United States,37.54,-122.29,red
+Hengyang|Hunan|China,26.88,112.68,red
+Myrtle Beach|South Carolina|United States,33.68,-78.91,red
+Zhangjiakou City|Hebei|China,40.67,114.91,red
+Pokhara|@|Nepal,28.25,83.99,red
+Koriyama|@|Japan,37.4,140.35,red
+Netanya|Center District|Israel,32.35,34.86,red
+Rafsanjan|Kerman Province|Iran,30.41,55.98,red
+Rock Hill|South Carolina|United States,34.95,-80.95,red
+Nelson|Nelson|New Zealand,-41.27,173.29,blue
+Town and Country|Missouri|United States,38.64,-90.5,red
+Aguascalientes|Aguascalientes|Mexico,21.91,-102.32,blue
+Soja|@|Japan,34.69,133.78,red
+دهستان رودپی شرقی|Mazandaran Province|Iran,36.66,53.07,blue
+Gidan Hamidu|Sokoto|Nigeria,13.13,5.2,red
+Danbury|Connecticut|United States,41.41,-73.44,red
+Nakano|@|Japan,35.71,139.66,red
+Mission Viejo|California|United States,33.55,-117.67,red
+Stara Zagora|@|Bulgaria,42.4,25.57,red
+Chichester|England|United Kingdom,50.84,-0.79,red
+Ingolstadt|Bavaria|Germany,48.78,11.42,red
+Asmara|Maekel Region|Eritrea,15.34,38.93,red
+Jinzhou|Liaoning|China,39.05,121.77,red
+Arica|Arica and Parinacota Region|Chile,-18.47,-70.31,red
+North Tyneside|England|United Kingdom,55.02,-1.47,red
+Kars|@|Turkey,40.58,43.07,red
+Gangtok|Sikkim|India,27.33,88.61,blue
+Edmond|Oklahoma|United States,35.66,-97.47,red
+Bothell|Washington|United States,47.76,-122.21,blue
+Sydney|Nova Scotia|Canada,46.13,-60.19,blue
+Borough of Wyre|England|United Kingdom,53.85,-2.76,red
+Virginia Beach|Virginia|United States,36.87,-76.19,red
+Dnipro|Dnipropetrovsk Oblast|Ukraine,48.46,35.06,red
+Croix|Hauts-de-France|France,50.67,3.17,red
+Sandwell|England|United Kingdom,52.53,-1.99,red
+Aizawl|Mizoram|India,23.74,92.67,blue
+Sanshui|Guangdong Province|China,23.16,112.9,red
+Beaverton|Oregon|United States,45.45,-122.79,red
+Ashkelon|South District|Israel,31.67,34.57,red
+Evansville|Indiana|United States,37.97,-87.53,red
+Hutchinson|Kansas|United States,38.07,-97.92,red
+Zacatecas|Zacatecas|Mexico,22.77,-102.58,red
+Randburg|Gauteng|South Africa,-26.05,28.01,red
+Old Town|Region of Košice|Slovakia,48.72,21.25,blue
+San Donato Milanese|Lombardy|Italy,45.42,9.26,red
+Warrensburg|Missouri|United States,38.76,-93.74,red
+Santa Rosa|California|United States,38.44,-122.7,red
+Port Moresby|National Capital District|Papua New Guinea,-9.41,147.17,red
+Victoria|British Columbia|Canada,48.43,-123.36,red
+Allerdale|England|United Kingdom,54.61,-3.53,red
+Fort Saskatchewan|Alberta|Canada,53.69,-113.21,red
+North Bay|Ontario|Canada,46.34,-79.49,red
+Ramat HaSharon|Tel Aviv District|Israel,32.14,34.85,blue
+Kamloops|British Columbia|Canada,50.67,-120.37,red
+Kearney|Nebraska|United States,40.7,-99.1,red
+Winchester|Virginia|United States,39.18,-78.16,blue
+Martin|Region of Žilina|Slovakia,49.07,18.93,red
+Clinton|Iowa|United States,41.85,-90.2,red
+Nishitokyo|@|Japan,35.74,139.55,red
+Kursk|Kursk Oblast|Russia,51.75,36.19,red
+Culiacán|Sinaloa|Mexico,24.83,-107.38,red
+Wealden District|England|United Kingdom,50.88,0.25,red
+Bryan|Texas|United States,30.66,-96.34,blue
+La Serena|Coquimbo Region|Chile,-29.91,-71.24,blue
+Woonsocket|Rhode Island|United States,42.0,-71.5,red
+Loudi|Hunan|China,27.61,111.71,red
+Dwingeloo|Drenthe|Netherlands,52.81,6.4,red
+Offenbach am Main|Hesse|Germany,50.1,8.75,red
+Sana'a City|Amanat Al Asimah|Yemen,15.37,44.21,red
+Es Senia|Oran|Algeria,35.64,-0.62,red
+Pasadena|Texas|United States,29.65,-95.12,red
+Ciudad Madero|Tamaulipas|Mexico,22.28,-97.86,red
+Muzaffarabad|Azad Kashmir|Pakistan,34.37,73.47,red
+Manokwari|West Papua|Indonesia,-0.84,134.07,red
+Pueblo|Colorado|United States,38.26,-104.64,red
+Algiers|Algiers|Algeria,36.77,3.06,red
+Devonport-Takapuna|Auckland|New Zealand,-36.78,174.76,red
+Frankfurt (Oder)|Brandenburg|Germany,52.34,14.55,blue
+Lalitpur|@|Nepal,27.67,85.32,red
+Sibiu|@|Romania,45.79,24.15,red
+Sepang|Negeri Sembilan|Malaysia,2.84,101.78,red
+The Woodlands|Texas|United States,30.19,-95.49,blue
+Sargodha|Punjab|Pakistan,32.07,72.68,red
+Kelurahan Sumbersari|East Java|Indonesia,-7.96,112.62,red
+Al Hillah|Babil Governorate|Iraq,32.46,44.41,red
+Mendrisio|Ticino|Switzerland,45.87,8.98,red
+Moorhead|Minnesota|United States,46.87,-96.78,blue
+Malda|West Bengal|India,25.0,88.14,blue
+Bannu|Khyber Pakhtunkhwa|Pakistan,32.99,70.6,red
+Otaru|@|Japan,43.19,140.98,red
+Nagercoil|Tamil Nadu|India,8.2,77.43,red
+Siirt|@|Turkey,37.93,41.94,blue
+Walla Walla|Washington|United States,46.06,-118.33,red
+Jacksonville|Alabama|United States,33.82,-85.77,red
+Casa Grande|Arizona|United States,32.89,-111.68,blue
+Eden Prairie|Minnesota|United States,44.86,-93.47,red
+Elmbridge|England|United Kingdom,51.35,-0.47,red
+Viterbo|Lazio|Italy,42.43,12.09,blue
+Yinzhou District|Zhejiang|China,29.8,121.56,red
+Chihuahua|Chihuahua|Mexico,28.66,-106.09,red
+Laredo|Texas|United States,27.51,-99.52,red
+Jamestown|New York|United States,42.11,-79.22,red
+Dali City|Yunnan|China,25.67,100.15,blue
+Guayaquil|Guayas|Ecuador,-2.18,-79.9,red
+Windhoek|Khomas|Namibia,-22.61,17.06,red
+Bagé|Rio Grande do Sul|Brazil,-31.33,-54.09,blue
+Gemeinde Wieselburg-Land|Lower Austria|Austria,48.13,15.12,red
+Hinckley and Bosworth|England|United Kingdom,52.6,-1.47,red
+Doncaster|England|United Kingdom,53.53,-1.13,red
+Orange|New South Wales|Australia,-33.29,149.11,blue
+Walnut Creek|California|United States,37.93,-122.02,red
+Lakeland|Florida|United States,27.99,-81.89,red
+Solapur|Maharashtra|India,17.67,75.91,red
+Lima|Ohio|United States,40.74,-84.03,red
+Tula|Tula Oblast|Russia,54.17,37.59,red
+Port-Valais|Wallis|Switzerland,46.39,6.85,red
+Magnitogorsk|Chelyabinsk Oblast|Russia,53.42,58.98,red
+Tétouan|@|Morocco,35.56,-5.36,red
+Temerloh|Pahang|Malaysia,3.45,102.45,red
+Brownsville|Texas|United States,25.9,-97.49,blue
+Ponce|Puerto Rico|United States,18.0,-66.62,blue
+Saint Joseph|Missouri|United States,39.77,-94.86,red
+Mississauga|Ontario|Canada,43.6,-79.64,red
+San Rafael|California|United States,38.01,-122.53,red
+Augusta|Maine|United States,44.3,-69.77,blue
+Tongliao City|Inner Mongolia|China,43.63,122.25,red
+Markurdi|Benue State|Nigeria,7.72,8.54,red
+Manizales|Caldas|Colombia,5.06,-75.49,red
+Emek Hefer Regional Council|Center District|Israel,32.34,34.91,blue
+Astrakhan|Astrakhan Oblast|Russia,46.38,48.05,red
+Rovaniemi|@|Finland,66.49,25.71,red
+Orenburg|Orenburg Oblast|Russia,51.78,55.11,red
+Clarksville|Tennessee|United States,36.53,-87.35,red
+Mahesana|Gujarat|India,23.61,72.38,red
+Magnolia|Arkansas|United States,33.29,-93.24,red
+Elyria|Ohio|United States,41.41,-82.07,blue
+Moradabad|Uttar Pradesh|India,28.87,78.76,red
+Mthatha|Eastern Cape|South Africa,-31.6,28.75,red
+Arkhangelsk|Arkhangelsk Oblast|Russia,64.53,40.55,red
+Junagadh|Gujarat|India,21.52,70.46,red
+Hadera|Haifa District|Israel,32.45,34.9,blue
+Chitose|@|Japan,42.79,141.7,red
+Reading|Pennsylvania|United States,40.33,-75.93,red
+Posadas|Misiones|Argentina,-27.43,-55.89,red
+Karaman|@|Turkey,37.18,33.26,red
+Tangail|Dhaka Division|Bangladesh,24.24,89.89,red
+Milpitas|California|United States,37.45,-121.92,red
+Bel Air|Maryland|United States,39.56,-76.28,red
+Mataram|West Nusa Tenggara|Indonesia,-8.59,116.09,red
+Candaroğulları Mahallesi|@|Turkey,41.42,33.77,red
+Owensboro|Kentucky|United States,37.78,-87.06,red
+Quetta|Balochistan|Pakistan,30.17,66.99,red
+Maidstone|England|United Kingdom,51.27,0.48,red
+Ahmednagar|Maharashtra|India,19.09,74.75,red
+Nairobi|Kiambu|Kenya,-1.18,36.93,red
+Peñalolén|Santiago Metropolitan Region|Chile,-33.49,-70.52,red
+Somerset West and Taunton|England|United Kingdom,51.01,-3.12,red
+Appleton|Wisconsin|United States,44.26,-88.42,red
+Suceava|@|Romania,47.64,26.24,red
+Murray|Utah|United States,40.66,-111.87,blue
+Basingstoke and Deane|England|United Kingdom,51.26,-1.09,red
+Franklin Lakes|New Jersey|United States,41.02,-74.21,red
+Baoji City|Shaanxi|China,34.35,107.16,red
+Kericho|Kericho County|Kenya,-0.37,35.29,red
+Hildesheim|Lower Saxony|Germany,52.13,9.97,red
+Abilene|Texas|United States,32.47,-99.71,red
+Longyan City|Fujian|China,25.03,117.02,blue
+Pelendri|@|Cyprus,34.92,32.96,red
+Petrolina|Pernambuco|Brazil,-9.39,-40.5,red
+Newry|Northern Ireland|United Kingdom,54.18,-6.35,red
+Concepción|Biobío Region|Chile,-36.83,-73.05,red
+Cedar Rapids|Iowa|United States,41.99,-91.66,red
+Oradea|@|Romania,47.05,21.92,red
+Jamnagar|Gujarat|India,22.48,70.06,red
+Laranjeiro e Feijó|@|Portugal,38.66,-9.15,red
+Akishima|@|Japan,35.7,139.35,red
+Jaffna|Northern Province|Sri Lanka,9.68,80.02,red
+Suzhou Industrial Park|Jiangsu|China,31.27,120.74,red
+Trafford|England|United Kingdom,53.45,-2.37,red
+Arakawa|@|Japan,35.75,139.79,red
+Makassar|South Sulawesi|Indonesia,-5.13,119.49,red
+Loja|Loja|Ecuador,-3.99,-79.2,blue
+Grayson|Kentucky|United States,38.34,-82.95,red
+Thika|Kiambu|Kenya,-1.05,37.08,red
+Florence|Alabama|United States,34.81,-87.68,red
+Arnhem|Gelderland|Netherlands,51.99,5.95,red
+Tiranë|Central Albania|Albania,41.32,19.83,red
+Nagaokakyo|@|Japan,34.92,135.7,red
+Cheltenham Township|Pennsylvania|United States,40.07,-75.13,red
+Holon|Tel Aviv District|Israel,32.01,34.77,red
+天平路街道|@|China,31.21,121.45,red
+Ottumwa|Iowa|United States,41.05,-92.39,red
+Solan|Himachal Pradesh|India,30.91,77.11,red
+La Palma|California|United States,33.85,-118.04,red
+Fujisawa|@|Japan,35.35,139.48,red
+Hosur|Tamil Nadu|India,12.72,77.87,red
+Saltillo|Coahuila|Mexico,25.44,-100.99,red
+Simferopol|Autonomous Republic of Crimea|Ukraine,44.94,34.13,red
+Wonju-si|@|South Korea,37.32,127.98,red
+Ciudad Juárez|Chihuahua|Mexico,31.72,-106.42,red
+Davenport|Iowa|United States,41.53,-90.57,red
+Ube|@|Japan,33.96,131.19,blue
+Sumida|@|Japan,35.7,139.8,red
+Hubli|Karnataka|India,15.36,75.13,red
+San Salvador|Departamento de San Salvador|El Salvador,13.7,-89.21,red
+Colwood|British Columbia|Canada,48.43,-123.47,red
+Daito|@|Japan,34.71,135.64,red
+Zhaoqing City|Guangdong Province|China,23.08,112.5,red
+Chunchura|West Bengal|India,22.9,88.39,red
+Libreville|Estuaire Province|Gabon,0.39,9.46,blue
+Ajman|Ajman Emirate|United Arab Emirates,25.42,55.5,red
+Afula|North District|Israel,32.62,35.32,red
+Banda Aceh|Aceh|Indonesia,5.57,95.37,red
+Kırşehir|@|Turkey,39.14,34.16,red
+Lakeville|Massachusetts|United States,41.89,-70.97,red
+Grand Junction|Colorado|United States,39.08,-108.55,red
+Belagavi|Karnataka|India,15.87,74.51,red
+Cecil Township|Pennsylvania|United States,40.28,-80.17,red
+Surakarta|Central Java|Indonesia,-7.56,110.86,red
+Round Rock|Texas|United States,30.48,-97.67,red
+Nahariah|North District|Israel,33.01,35.12,red
+Lomé|@|Togo,6.17,1.22,red
+Başbağlar Mahallesi|@|Turkey,39.76,39.51,red
+Marlborough|Massachusetts|United States,42.35,-71.55,red
+Jijel|Jijel|Algeria,36.8,5.75,red
+Constanța|@|Romania,44.19,28.65,red
+Daugavpils|Latgale|Latvia,55.87,26.52,red
+Moorhead|Mississippi|United States,33.44,-90.5,red
+Wanghua|Liaoning|China,41.86,123.79,red
+Huizhou|Guangdong Province|China,23.13,114.42,red
+Darbhanga|Bihar|India,26.16,85.9,red
+Zelenograd|Moscow|Russia,55.98,37.21,red
+Victoria|Texas|United States,28.82,-96.98,red
+Santiago de Surco|Lima|Peru,-12.1,-76.96,red
+Tameside|England|United Kingdom,53.49,-2.07,red
+Corvera de Asturias|Asturias|Spain,43.55,-5.86,red
+Elmalıdere Mahallesi|@|Turkey,38.68,29.41,red
+Sandy Springs|Georgia|United States,33.91,-84.35,red
+Wuxing District|Zhejiang|China,30.88,120.12,red
+Grant|Minnesota|United States,45.05,-92.87,red
+Weatherford|Oklahoma|United States,35.53,-98.71,red
+Sopron|@|Hungary,47.68,16.58,red
+Albany|Georgia|United States,31.58,-84.21,red
+Peterborough|England|United Kingdom,52.56,-0.32,red
+Sinop|@|Turkey,42.02,35.15,blue
+Gütersloh|North Rhine-Westphalia|Germany,51.91,8.42,red
+Bayamón|Puerto Rico|United States,18.41,-66.19,red
+Sault Ste. Marie|Ontario|Canada,46.5,-84.3,blue
+Jahrom County|Fars Province|Iran,28.51,53.56,red
+Chula Vista|California|United States,32.63,-117.1,red
+Cumberland|Maryland|United States,39.65,-78.73,red
+Dharamshala|Himachal Pradesh|India,32.22,76.32,blue
+Slemani|Iraqi Kurdistan Region|Iraq,35.58,45.36,red
+Odesa|Odesa Oblast|Ukraine,46.48,30.72,red
+Madanapalle|Andhra Pradesh|India,13.56,78.5,red
+Altoona|Pennsylvania|United States,40.52,-78.4,blue
+Banská Bystrica|Region of Banská Bystrica|Slovakia,48.73,19.15,red
+Padang|West Sumatra|Indonesia,-0.91,100.46,red
+Marília|São Paulo|Brazil,-22.23,-49.94,red
+Brooklyn Park|Minnesota|United States,45.1,-93.4,red
+Pitești|@|Romania,44.87,24.86,red
+Rignano sull'Arno|Tuscany|Italy,43.71,11.45,blue
+Abuja|Federal Capital Territory|Nigeria,9.04,7.5,red
+Colchester|Vermont|United States,44.49,-73.17,red
+Langfang City|Hebei|China,39.95,116.8,red
+Lone Tree|Colorado|United States,39.55,-104.88,red
+Stavropol|Stavropol Krai|Russia,45.04,41.91,red
+Ahmadi|Ahmadi|Kuwait,29.16,48.1,red
+Wichita Falls|Texas|United States,33.87,-98.52,red
+Ishinomaki|@|Japan,38.45,141.29,red
+Upper Providence Township|Pennsylvania|United States,40.14,-75.45,red
+Villahermosa|Tabasco|Mexico,18.01,-92.92,red
+Suzuka|@|Japan,34.86,136.6,red
+Gerakas Municipal Unit|Attica|Greece,38.01,23.86,red
+Tondabayashi|@|Japan,34.48,135.58,blue
+Siheung-si|@|South Korea,37.34,126.73,red
+Çankırı|@|Turkey,40.6,33.61,red
+Najaf|Al-Najaf Governorate|Iraq,32.03,44.33,red
+Lak Hok Subdistrict|Pathum Thani Province|Thailand,13.96,100.59,red
+Chernivtsi|Chernivtsi Oblast|Ukraine,48.29,25.93,red
+Enumclaw|Washington|United States,47.21,-121.99,red
+Ardahan|@|Turkey,41.11,42.7,blue
+Nuneaton and Bedworth|England|United Kingdom,52.55,-1.46,red
+Nevşehir|@|Turkey,38.62,34.72,blue
+Sioux Falls|South Dakota|United States,43.53,-96.74,blue
+Chandrapur|Maharashtra|India,19.97,79.3,blue
+Mitaka|@|Japan,35.69,139.53,red
+Yeongcheon-si|@|South Korea,36.16,128.98,blue
+Trofa|@|Portugal,41.26,-8.57,blue
+Rio Branco|Acre|Brazil,-9.96,-67.86,red
+Al Mafraq|Mafraq|Jordan,32.36,36.22,red
+Ashikaga|@|Japan,36.35,139.4,red
+Plattsburgh|New York|United States,44.69,-73.47,red
+Kanchipuram|Tamil Nadu|India,12.86,79.73,red
+Wilmore|Kentucky|United States,37.86,-84.66,red
+Overland Park|Kansas|United States,38.93,-94.73,red
+Raebareli|Uttar Pradesh|India,26.25,81.24,blue
+Orem|Utah|United States,40.28,-111.71,red
+Suwa|@|Japan,36.03,138.11,red
+Marshall|Minnesota|United States,44.45,-95.76,red
+Noviglio|Lombardy|Italy,45.34,9.1,blue
+Tyumen|Tyumen Oblast|Russia,57.16,65.53,red
+Santa Clarita|California|United States,34.38,-118.52,red
+Nagahama|@|Japan,35.36,136.28,red
+O’Fallon|Missouri|United States,38.82,-90.66,red
+Turlock|California|United States,37.52,-120.86,red
+Minna|Niger State|Nigeria,9.61,6.54,red
+Gordon|Texas|United States,32.52,-98.35,red
+Gemeinde Sankt Peter in der Au|Lower Austria|Austria,48.0,14.5,red
+Kota|Rajasthan|India,25.14,75.8,red
+Karaj County|@|Iran,35.85,50.93,red
+Barrie|Ontario|Canada,44.41,-79.66,blue
+Rahimyar Khan|Punjab|Pakistan,28.42,70.32,red
+Maxatawny Township|Pennsylvania|United States,40.55,-75.72,red
+Faridkot|Punjab|India,30.68,74.74,red
+San Miguel de Tucumán|Tucumán|Argentina,-26.84,-65.23,red
+Mostaganem|Mostaganem|Algeria,35.93,0.08,red
+Dera Ismail Khan|Khyber Pakhtunkhwa|Pakistan,31.82,70.92,red
+Marktgemeinde Rankweil|Vorarlberg|Austria,47.27,9.64,red
+Al Khubar|Eastern Province|Saudi Arabia,26.3,50.2,red
+Tabuk|Tabuk Province|Saudi Arabia,28.38,36.48,red
+Newport|Wales|United Kingdom,51.57,-3.03,red
+Fenouillet|Occitania|France,43.67,1.41,red
+Freetown|Western Area|Sierra Leone,8.49,-13.21,red
+Rawalpindi|Rawalpindi Cantonment|Pakistan,33.59,73.05,red
+Odessa|Texas|United States,31.87,-102.38,red
+Avignon|Provence-Alpes-Côte d'Azur|France,43.95,4.82,red
+Sasebo|@|Japan,33.19,129.67,blue
+Vaughan|Ontario|Canada,43.78,-79.53,red
+Union Township|Pennsylvania|United States,40.43,-76.57,red
+City of Bradford|England|United Kingdom,53.9,-1.96,red
+Clovis|New Mexico|United States,34.4,-103.17,red
+Auburn|Maine|United States,44.13,-70.23,blue
+Springfield Township|Pennsylvania|United States,40.09,-75.23,red
+Sungai Petani|Kedah|Malaysia,5.67,100.52,red
+Winona|Minnesota|United States,44.05,-91.64,red
+Borough of Copeland|England|United Kingdom,54.42,-3.5,red
+دهستان بازرجان|Markazi Province|Iran,34.68,50.05,blue
+Putrajaya|Putrajaya|Malaysia,2.9,101.67,red
+Heerlen|Limburg|Netherlands,50.88,5.96,red
+Guatemala City|Guatemala Department|Guatemala,14.6,-90.48,blue
+Vavuniya|Northern Province|Sri Lanka,8.76,80.5,red
+Keene|New Hampshire|United States,42.93,-72.28,red
+Cary|North Carolina|United States,35.83,-78.76,red
+Mount Airy|Maryland|United States,39.37,-77.16,red
+Pineville|Louisiana|United States,31.33,-92.43,red
+Brentwood|England|United Kingdom,51.6,0.3,red
+Kissimmee|Florida|United States,28.33,-81.54,red
+Maykop|Republic of Adygea|Russia,44.6,40.11,red
+Sedgemoor|England|United Kingdom,51.13,-2.99,red
+Fairfield|California|United States,38.23,-122.13,blue
+Bury|England|United Kingdom,53.6,-2.26,red
+Medford|Oregon|United States,42.32,-122.83,red
+Kettering|Ohio|United States,39.7,-84.19,red
+Fall River|Massachusetts|United States,41.72,-71.12,blue
+Moshi|Kilimanjaro|Tanzania,-3.32,37.33,red
+Horlivka|@|Ukraine,48.3,38.02,red
+Muzaffarpur|Bihar|India,26.11,85.38,red
+Tsuchiura|@|Japan,36.11,140.2,red
+Kohat|Khyber Pakhtunkhwa|Pakistan,33.52,71.45,red
+Bankura|West Bengal|India,23.23,87.04,red
+Gosford|New South Wales|Australia,-33.42,151.34,red
+Kirkuk|Kirkuk Governorate|Iraq,35.47,44.39,red
+Burnley|England|United Kingdom,53.81,-2.23,red
+Segovia|Castile and León|Spain,40.95,-4.12,blue
+Asunción|@|Paraguay,-25.29,-57.64,red
+Samarkand|Samarqand Region|Uzbekistan,39.64,66.96,red
+Munakata|@|Japan,33.81,130.59,blue
+High Point|North Carolina|United States,35.97,-80.0,red
+Martap|Adamawa|Cameroon,6.84,13.12,red
+Quanshan District|Jiangsu|China,34.21,117.22,red
+Prešov|Region of Prešov|Slovakia,49.0,21.24,red
+Palembang|South Sumatra|Indonesia,-2.98,104.76,red
+Pristina|@|Kosovo,42.64,21.11,red
+Cartago|@|Costa Rica,9.85,-83.91,red
+São Bernardo do Campo|São Paulo|Brazil,-23.65,-46.58,blue
+Gyor|@|Hungary,47.69,17.63,red
+Lake Oswego|Oregon|United States,45.4,-122.65,red
+Bridgetown|@|Barbados,13.1,-59.61,red
+Tuzla|Federation of Bosnia and Herzegovina|Bosnia and Herzegovina,44.54,18.67,red
+Tunbridge Wells|England|United Kingdom,51.14,0.26,red
+Lakewood|Washington|United States,47.17,-122.5,red
+Beverly|Massachusetts|United States,42.56,-70.89,red
+Bilecik Merkez|@|Turkey,40.14,29.98,red
+Glendale|Arizona|United States,33.66,-112.19,blue
+Bauchi|Bauchi|Nigeria,10.33,9.85,red
+Ellwangen (Jagst)|Baden-Württemberg|Germany,48.95,10.16,blue
+Hongkou District|@|China,31.28,121.48,red
+Wheeling|West Virginia|United States,40.07,-80.69,red
+合阳城街道|Chongqing|China,30.0,106.24,red
+Cebu City|@|Philippines,10.3,123.9,red
+Richland Township|Pennsylvania|United States,40.26,-78.84,red
+Jozini Local Municipality|KwaZulu-Natal|South Africa,-27.52,32.26,red
+Kansas City|Kansas|United States,39.12,-94.75,red
+Vernier|Geneva|Switzerland,46.22,6.1,red
+Duhok|Iraqi Kurdistan Region|Iraq,36.86,42.99,red
+Umuarama|Paraná|Brazil,-23.76,-53.3,red
+玉龙街道办|Inner Mongolia|China,42.26,118.89,red
+Zadar|@|Croatia,44.11,15.23,blue
+Ouagadougou|@|Burkina Faso,12.38,-1.5,blue
+Vijayapura|Karnataka|India,16.85,75.71,red
+Durango|Colorado|United States,37.27,-107.87,blue
+Municipal Unit of Echedoros|Macedonia and Thrace|Greece,40.66,22.8,blue
+Ferney-Voltaire|Auvergne-Rhône-Alpes|France,46.26,6.11,red
+Pylaia Municipal Unit|Macedonia and Thrace|Greece,40.57,22.99,red
+Kurume|@|Japan,33.32,130.5,red
+Everett|Washington|United States,47.93,-122.27,blue
+Osogbo|Osun|Nigeria,7.78,4.55,red
+York|Pennsylvania|United States,39.95,-76.73,red
+Ouargla|Ouargla|Algeria,31.94,5.3,red
+Kisumu|Kisumu County|Kenya,-0.1,34.76,red
+Perímetro Urbano Ibagué|Tolima|Colombia,4.43,-75.21,red
+Jelgava|Zemgale|Latvia,56.67,23.76,red
+Daly City|California|United States,37.7,-122.47,red
+Enna|Sicily|Italy,37.55,14.29,red
+Butte|Montana|United States,46.0,-112.52,red
+Novokuznetsk|Kemerovo Oblast–Kuzbass|Russia,53.75,87.12,red
+Al Mutla City|Jahra|Kuwait,29.34,47.6,red
+Fukuroi|@|Japan,34.74,137.96,red
+Carolina|Puerto Rico|United States,18.41,-65.98,red
+Huairou|Beijing|China,40.35,116.65,red
+Dubuque|Iowa|United States,42.5,-90.68,red
+Columbus|Georgia|United States,32.5,-84.94,red
+Sincelejo|Sucre|Colombia,9.31,-75.39,red
+Zaporizhzhia|Zaporizhia Oblast|Ukraine,47.82,35.18,red
+Bingöl|@|Turkey,38.89,40.51,red
+Bristol|Virginia|United States,36.6,-82.18,blue
+Salem|Massachusetts|United States,42.52,-70.9,red
+Tahlequah|Oklahoma|United States,35.93,-94.97,red
+Bharatpur Metro|@|Nepal,27.68,84.44,red
+Yizhang|Hunan|China,25.46,113.02,red
+Funchal|@|Portugal,32.63,-16.94,red
+Vero Beach|Florida|United States,27.65,-80.41,blue
+Yuanzhou|Jiangxi|China,27.81,114.42,red
+Maan|Maan|Jordan,30.27,35.68,red
+Mwanza|Mwanza|Tanzania,-2.53,32.91,blue
+Premstätten|Styria|Austria,46.98,15.39,red
+Naples|Florida|United States,26.15,-81.8,blue
+As Sayh|Riyadh Region|Saudi Arabia,24.15,47.27,red
+Mogi das Cruzes|São Paulo|Brazil,-23.52,-46.18,red
+Constantine|Constantine|Algeria,36.35,6.62,red
+Surrey|British Columbia|Canada,49.18,-122.84,red
+Haripur|Khyber Pakhtunkhwa|Pakistan,33.98,72.91,red
+Vitacura|Santiago Metropolitan Region|Chile,-33.41,-70.59,red
+Findlay|Ohio|United States,41.02,-83.65,red
+Punta Arenas|Region of Magallanes and Chilean Antarctica|Chile,-53.14,-70.88,red
+Perímetro Urbano Neiva|Huila|Colombia,2.94,-75.3,red
+Lubei|Hebei|China,39.63,118.18,red
+Origgio|Lombardy|Italy,45.58,9.01,red
+Peabody|Massachusetts|United States,42.53,-70.95,red
+Takasaki|@|Japan,36.32,139.05,red
+Kanoya|@|Japan,31.39,130.79,blue
+Shakhty|Rostov Oblast|Russia,47.71,40.21,red
+Murmansk|Murmansk Oblast|Russia,68.95,33.06,red
+City of Medan|North Sumatra|Indonesia,3.57,98.66,red
+Billings|Montana|United States,45.78,-108.51,red
+Jinfeng District|Ningxia|China,38.49,106.19,red
+Fort Lauderdale|Florida|United States,26.1,-80.12,red
+Newtown Township|Pennsylvania|United States,40.24,-74.97,red
+Tachikawa|@|Japan,35.71,139.41,red
+Boston|England|United Kingdom,52.99,-0.01,red
+Mbarara|Mbarara|Uganda,-0.62,30.66,red
+Gweru|Midlands Province|Zimbabwe,-19.48,29.8,red
+San Miguel|Departamento de San Miguel|El Salvador,13.49,-88.19,red
+Sherman|Texas|United States,33.65,-96.6,red
+St. George|Utah|United States,37.1,-113.58,red
+West Valley City|Utah|United States,40.71,-112.0,red
+Barnstable|Massachusetts|United States,41.69,-70.34,red
+"Arba Minch|Southern Nations, Nationalities, and Peoples|Ethiopia",6.07,37.56,blue
+Alamosa|Colorado|United States,37.47,-105.88,blue
+Chesapeake|Virginia|United States,36.75,-76.25,red
+Turrialba|@|Costa Rica,9.89,-83.66,red
+Davanagere|Karnataka|India,14.45,75.92,red
+Choshi|@|Japan,35.7,140.84,blue
+Brockton|Massachusetts|United States,42.09,-70.99,red
+Norwalk|Connecticut|United States,41.14,-73.43,red
+Methuen|Massachusetts|United States,42.76,-71.15,red
+Tumba|Southern Province|Rwanda,-2.62,29.74,red
+Yakutsk|Sakha Republic|Russia,62.02,129.71,red
+Liuzhou|Guangxi|China,24.33,109.44,red
+Nobeoka|@|Japan,32.57,131.61,red
+Klaipėda|Klaipeda County|Lithuania,55.72,21.12,red
+Bellevue|Nebraska|United States,41.15,-95.92,blue
+Federal Way|Washington|United States,47.3,-122.29,red
+Noumea|@|France,-22.3,166.44,red
+Janesville|Wisconsin|United States,42.68,-89.02,blue
+Lancaster|California|United States,34.68,-118.19,red
+Ta'izz|Ta'izz Governorate|Yemen,13.57,44.02,red
+Varna|@|Bulgaria,43.26,28.03,red
+Faizabad|Uttar Pradesh|India,26.75,82.15,blue
+Gimcheon-si|@|South Korea,36.12,128.18,red
+Jianye District|Jiangsu|China,32.04,118.75,red
+Lower Makefield Township|Pennsylvania|United States,40.23,-74.88,red
+Seaside|California|United States,36.65,-121.8,blue
+Pleven|@|Bulgaria,43.41,24.63,red
+Pasto|Nariño|Colombia,1.23,-77.29,red
+Hachinohe|@|Japan,40.48,141.59,red
+Olathe|Kansas|United States,38.88,-94.82,red
+Morris Township|New Jersey|United States,40.79,-74.53,blue
+Zhen'an|Liaoning|China,40.16,124.43,red
+Sirjan|Kerman Province|Iran,29.44,55.67,red
+Bashar|Bashar|Algeria,31.61,-2.22,red
+Philippi|West Virginia|United States,39.16,-80.05,red
+Jaunpur|Uttar Pradesh|India,25.83,82.68,blue
+Thousand Oaks|California|United States,34.19,-118.93,red
+Warsaw|Indiana|United States,41.27,-85.84,red
+Makati|@|Philippines,14.55,121.02,red
+Beppu|@|Japan,33.31,131.49,red
+Syktyvkar|Komi Republic|Russia,61.66,50.82,red
+Taito|@|Japan,35.72,139.77,red
+Leeuwarden|Frisia|Netherlands,53.2,5.79,red
+Konstancin-Jeziorna|Masovian Voivodeship|Poland,52.11,21.11,red
+Rewa|Madhya Pradesh|India,24.57,81.33,red
+Yingzhou District|Anhui|China,32.89,115.78,blue
+South Jordan|Utah|United States,40.55,-112.0,red
+Addison|Texas|United States,32.95,-96.84,red
+Glendale|California|United States,34.17,-118.19,red
+San Jacinto|California|United States,33.81,-116.97,red
+San Pedro de Macorís|San Pedro de Macorís|Dominican Republic,18.47,-69.3,blue
+Dinajpur|Rangpur Division|Bangladesh,25.7,88.65,red
+دهستان بناجوی غربی|East Azerbaijan Province|Iran,37.37,46.05,blue
+Uzhhorod|Zakarpattia Oblast|Ukraine,48.64,22.29,blue
+Iquique|Tarapacá Region|Chile,-20.24,-70.14,red
+Muñoz|Nueva Ecija|Philippines,15.67,120.89,red
+Aomori|@|Japan,40.78,140.78,red
+Sangli|Maharashtra|India,16.84,74.6,red
+Macapá|Amapá|Brazil,0.03,-51.07,red
+Managua|Managua|Nicaragua,12.11,-86.27,red
+Joetsu|@|Japan,37.11,138.27,blue
+Unity Township|Pennsylvania|United States,40.29,-79.4,red
+Parkville|Missouri|United States,39.19,-94.68,blue
+Hardwick Township|New Jersey|United States,41.04,-74.95,red
+La Paz|La Paz|Bolivia,-16.5,-68.13,blue
+Pushkin|Saint Petersburg|Russia,59.74,30.39,red
+Minot|North Dakota|United States,48.25,-101.3,red
+Bella Vista|Panamá|Panama,8.98,-79.53,blue
+Ramadi|Al-Anbar Governorate|Iraq,33.43,43.3,red
+Laeken - Laken|@|Belgium,50.89,4.36,red
+Melissia Municipal Unit|Attica|Greece,38.05,23.83,blue
+Sioux City|Iowa|United States,42.48,-96.36,red
+Šiauliai|Siauliai County|Lithuania,55.93,23.32,red
+Gongchenqiao|Zhejiang|China,30.32,120.14,red
+Skopje|Skopje Region|North Macedonia,41.99,21.47,red
+Zapopan|Jalisco|Mexico,20.66,-103.42,red
+Montes Claros|Minas Gerais|Brazil,-16.74,-43.87,red
+Alamogordo|New Mexico|United States,32.92,-105.93,blue
+Pasig|@|Philippines,14.59,121.07,red
+Tripoli|Tripoli|Libya,32.87,13.14,red
+Phường Thạc Gián|Da Nang|Vietnam,16.06,108.21,blue
+Oxnard|California|United States,34.16,-119.16,red
+Kollam|Kerala|India,8.89,76.6,red
+Dushanbe|Dushanbe|Tajikistan,38.56,68.8,red
+Abomey-Calavi|Atlantique Department|Benin,6.42,2.33,red
+Cuenca|Azuay|Ecuador,-2.9,-79.01,red
+Kurnool|Andhra Pradesh|India,15.82,78.04,red
+Pforzheim|Baden-Württemberg|Germany,48.88,8.72,red
+Haldia|West Bengal|India,22.05,88.07,red
+Racine|Wisconsin|United States,42.72,-87.79,red
+Rock Island|Illinois|United States,41.5,-90.55,red
+Centerville|Ohio|United States,39.65,-84.11,red
+Kaposvár|@|Hungary,46.38,17.83,red
+Municipal Unit of Psychiko|Attica|Greece,38.01,23.78,red
+Nampa|Idaho|United States,43.56,-116.57,red
+Harrogate|England|United Kingdom,53.98,-1.57,blue
+Ho|Volta Region|Ghana,6.6,0.47,red
+El Monte|California|United States,34.02,-118.03,red
+Sirte|Sirte|Libya,31.21,16.59,red
+Blagoevgrad|@|Bulgaria,42.02,23.09,red
+Mata Redonda|@|Costa Rica,9.93,-84.11,red
+Saint John|New Brunswick|Canada,45.3,-66.08,red
+Charleston|West Virginia|United States,38.35,-81.64,blue
+Jefferson City|Missouri|United States,38.58,-92.18,red
+Neuquén|Neuquén Province|Argentina,-38.94,-68.06,red
+Cairns|Queensland|Australia,-16.91,145.77,red
+Arecibo|Puerto Rico|United States,18.47,-66.74,blue
+Dubrovnik|@|Croatia,42.64,18.1,red
+Mesa|Arizona|United States,33.51,-111.89,blue
+Nanaimo|British Columbia|Canada,49.16,-123.97,red
+Victoria|Buenos Aires|Argentina,-34.45,-58.53,red
+Blainville|Quebec|Canada,45.68,-73.85,blue
+Yola|Adamawa|Nigeria,9.19,12.5,red
+Deventer|Overijssel|Netherlands,52.27,6.15,blue
+Fort Smith|Arkansas|United States,35.38,-94.37,red
+General Santos|South Cotabato|Philippines,6.06,125.1,red
+دهستان آلاداغ|North Khorasan Province|Iran,37.44,57.3,blue
+Isehara|@|Japan,35.41,139.29,blue
+Wenatchee|Washington|United States,47.43,-120.34,red
+Tikrit|Saladin Governorate|Iraq,34.6,43.68,red
+Himeji|@|Japan,34.87,134.69,blue
+Gdynia|Pomeranian Voivodeship|Poland,54.54,18.54,red
+Cocody|Abidjan|Côte d'Ivoire,5.35,-3.99,red
+Gabrovo|@|Bulgaria,42.88,25.32,blue
+Scottsbluff|Nebraska|United States,41.87,-103.64,red
+Kaizuka|@|Japan,34.41,135.39,blue
+Ipswich City|Queensland|Australia,-27.62,152.76,blue
+Phường An Nghiệp|Can Tho City|Vietnam,10.03,105.77,red
+Horta (Matriz)|@|Portugal,38.54,-28.63,blue
+Palangka Raya|Central Kalimantan|Indonesia,-2.21,113.9,red
+Durango|Durango|Mexico,24.03,-104.65,red
+Municipal Unit of Cholargos|Attica|Greece,38.0,23.82,blue
+Jesús María|Lima|Peru,-12.08,-77.05,red
+Artvin|@|Turkey,41.18,41.83,blue
+Trnava|Region of Trnava|Slovakia,48.38,17.59,red
+Parsippany-Troy Hills|New Jersey|United States,40.85,-74.38,blue
+Tando Jam|Sindh|Pakistan,25.43,68.54,red
+Newmarket|Ontario|Canada,44.06,-79.46,red
+Ulaanbaatar|@|Mongolia,47.89,106.91,red
+Madibeng Local Municipality|North West|South Africa,-25.8,27.91,red
+Noakhali|Chattogram Division|Bangladesh,22.79,91.1,red
+Calderdale|England|United Kingdom,53.7,-1.86,red
+Newport Beach|California|United States,33.65,-117.87,blue
+Chanhassen|Minnesota|United States,44.86,-93.54,red
+Dodoma|Dodoma|Tanzania,-6.2,35.73,red
+Ghaziabad|Uttar Pradesh|India,28.67,77.43,red
+Barasat|West Bengal|India,22.74,88.44,red
+Santos|São Paulo|Brazil,-23.95,-46.32,red
+Ponta Grossa|Paraná|Brazil,-25.09,-50.1,red
+Hajdúhadház|@|Hungary,47.64,21.63,red
+Heilbronn|Baden-Württemberg|Germany,49.12,9.21,red
+Sandton|Gauteng|South Africa,-26.04,28.09,red
+Kato|@|Japan,34.91,135.02,red
+Defiance|Ohio|United States,41.3,-84.36,red
+Di An|Binh Duong province|Vietnam,10.88,106.81,red
+Southend-on-Sea|England|United Kingdom,51.55,0.69,red
+Masvingo|Masvingo Province|Zimbabwe,-20.1,30.86,red
+Koshigaya|@|Japan,35.93,139.76,red
+Kitwe|Copperbelt Province|Zambia,-12.81,28.24,red
+New Westminster|British Columbia|Canada,49.22,-122.91,red
+Perth|Scotland|United Kingdom,56.4,-3.43,red
+Logan City|Queensland|Australia,-27.67,153.15,blue
+South Somerset|England|United Kingdom,50.95,-2.63,red
+Weldon Spring|Missouri|United States,38.71,-90.68,blue
+Coalinga|California|United States,36.13,-120.24,red
+Chetumal|Quintana Roo|Mexico,18.52,-88.27,red
+Hialeah|Florida|United States,25.87,-80.31,red
+Damanhur|The Lake|Egypt,31.04,30.46,red
+Yeosu-si|@|South Korea,34.73,127.74,red
+Popayán|Cauca|Colombia,2.44,-76.6,red
+Jiroft|Kerman Province|Iran,28.67,57.74,red
+Kurgan|Kurgan Oblast|Russia,55.44,65.33,red
+Abrera|Catalonia|Spain,41.5,1.9,red
+Vitsebsk|Vitsebsk Region|Belarus,55.18,30.24,red
+Tumwater|Washington|United States,47.02,-122.93,red
+Santa Anita|Lima|Peru,-12.05,-76.97,red
+Charles Town|West Virginia|United States,39.29,-77.86,red
+Borgholzhausen|North Rhine-Westphalia|Germany,52.1,8.27,red
+Whitpain Township|Pennsylvania|United States,40.17,-75.28,red
+Barishal|Barisal Division|Bangladesh,22.69,90.36,red
+Salisbury|North Carolina|United States,35.69,-80.48,red
+Calais|Hauts-de-France|France,50.95,1.88,red
+Chaohu City|Anhui|China,31.62,117.89,red
+Kelowna|British Columbia|Canada,49.86,-119.48,red
+Kashiwazaki|@|Japan,37.34,138.58,red
+Joliet|Illinois|United States,41.5,-88.17,red
+Pitt Meadows|British Columbia|Canada,49.21,-122.67,red
+Johor Bahru|Johor|Malaysia,1.46,103.75,red
+Akola|Maharashtra|India,20.71,77.05,red
+Spearfish|South Dakota|United States,44.5,-103.87,blue
+Harrogate|Tennessee|United States,36.58,-83.66,red
+Radom|Masovian Voivodeship|Poland,51.4,21.17,red
+Ciudad de Ciego de Ávila|Ciego de Avila|Cuba,21.84,-78.76,red
+Cherepovets|Vologda Oblast|Russia,59.12,37.93,red
+Kenmore|Washington|United States,47.73,-122.25,blue
+Nantan|@|Japan,35.11,135.48,blue
+Cleves|North Rhine-Westphalia|Germany,51.8,6.13,blue
+Adana|@|Turkey,37.01,35.25,blue
+Bryansk|Bryansk Oblast|Russia,53.27,34.35,blue
+Hassan|Karnataka|India,13.0,76.09,red
+Bern Township|Pennsylvania|United States,40.36,-75.97,red
+Latakia|Latakia Governorate|Syria,35.52,35.81,red
+Niihama|@|Japan,33.96,133.29,blue
+Hoover|Alabama|United States,33.37,-86.81,red
+Enid|Oklahoma|United States,36.4,-97.84,blue
+Wad Madanī|Gezira State|Sudan,14.39,33.53,red
+Annecy|Auvergne-Rhône-Alpes|France,45.92,6.16,red
+Abidjan|Abidjan|Côte d'Ivoire,5.32,-4.02,red
+Sahab|Amman|Jordan,31.85,36.01,red
+Shaar HaNegev Regional Council|South District|Israel,31.51,34.6,blue
+Dartford|England|United Kingdom,51.43,0.2,red
+Limerick Township|Pennsylvania|United States,40.23,-75.58,red
+Blagoveshchensk|Amur Oblast|Russia,50.27,127.53,red
+Brainerd|Minnesota|United States,46.35,-94.22,red
+Garita|@|Costa Rica,10.0,-84.28,red
+Takizawa|@|Japan,39.8,141.14,red
+Oaxaca|Oaxaca|Mexico,17.08,-96.74,red
+North Union Township|Pennsylvania|United States,39.95,-79.66,blue
+Coquitlam|British Columbia|Canada,49.25,-122.81,red
+Emek Izrael Regional Council|North District|Israel,32.65,35.29,red
+Nashik|Maharashtra|India,20.02,73.8,red
+Joensuu|@|Finland,62.61,29.74,red
+Takahashi|@|Japan,34.8,133.62,red
+Itabashi|@|Japan,35.78,139.67,red
+South Tyneside|England|United Kingdom,54.99,-1.42,blue
+Muharraq|Muharraq Governorate|Bahrain,26.26,50.6,red
+Glendale|Colorado|United States,39.7,-104.94,red
+Bernal|Buenos Aires|Argentina,-34.71,-58.28,red
+La Spezia|Liguria|Italy,44.1,9.86,red
+Ghardaia|Ghardaia|Algeria,32.49,3.68,red
+Ulan-Ude|Buryatia|Russia,51.83,107.58,red
+Cumberland|Kentucky|United States,36.97,-83.0,red
+Vitoria-Gasteiz|Autonomous Community of the Basque Country|Spain,42.83,-2.68,red
+Kırklareli|@|Turkey,41.73,27.22,red
+Douala V|Littoral|Cameroon,4.06,9.73,red
+Suez|Suez|Egypt,30.0,32.5,red
+Navi Mumbai|Maharashtra|India,19.03,73.02,red
+Beer Tuvia Regional Council|South District|Israel,31.74,34.77,red
+Yoshkar-Ola|Mari El Republic|Russia,56.63,47.89,red
+Khammam|Telangana|India,17.24,80.17,red
+Apia|Tuamasaga|Samoa,-13.85,-171.75,red
+Rutland City|Vermont|United States,43.6,-73.01,red
+Porto Velho|Rondônia|Brazil,-8.76,-63.91,red
+Waterbury|Connecticut|United States,41.55,-73.05,red
+Anyang-si|@|South Korea,37.39,126.93,red
+Urbana|Illinois|United States,40.1,-88.22,red
+Mzuzu|Mzimba|Malawi,-11.42,33.99,red
+Timișoara|@|Romania,45.78,21.22,red
+Panama|Panamá|Panama,8.97,-79.53,blue
+Taunton|Massachusetts|United States,41.91,-71.09,red
+Aden City|Aden Governorate|Yemen,12.81,45.04,red
+Shimonoseki|@|Japan,33.97,130.93,red
+Reus|Catalonia|Spain,41.17,1.08,blue
+Santa Ana|California|United States,33.71,-117.91,red
+Matsudo|@|Japan,35.75,139.94,blue
+Karmiel|North District|Israel,32.91,35.28,blue
+Monclova|Coahuila|Mexico,26.95,-101.42,red
+Suginami|@|Japan,35.71,139.59,blue
+Banjarmasin|South Kalimantan|Indonesia,-3.3,114.59,red
+Sadat City|Al Minufiya|Egypt,30.37,30.5,blue
+As Samawah|Al-Muthanna Governorate|Iraq,31.34,45.29,blue
+Kaneohe|Hawaii|United States,21.41,-157.81,red
+Shumen|@|Bulgaria,43.28,26.95,red
+Al Bahah|Al-Bahah Province|Saudi Arabia,19.99,41.48,red
+Adama|Oromia Region|Ethiopia,8.56,39.29,red
+Chillicothe|Ohio|United States,39.33,-83.0,red
+Davos|Grisons|Switzerland,46.8,9.82,blue
+Mubi|Adamawa|Nigeria,10.28,13.28,red
+Hickory|North Carolina|United States,35.7,-81.29,red
+Yangsan-si|@|South Korea,35.43,129.15,red
+Waukesha|Wisconsin|United States,43.0,-88.23,red
+Bergisch Gladbach|North Rhine-Westphalia|Germany,50.96,7.18,red
+Lodi|Lombardy|Italy,45.3,9.47,blue
+Acre|North District|Israel,32.94,35.09,red
+Richmond|British Columbia|Canada,49.17,-123.12,blue
+Town of Saint Andrews|New Brunswick|Canada,45.08,-67.05,red
+Hazaribagh|Jharkhand|India,24.02,85.37,red
+Corrientes|Corrientes|Argentina,-27.46,-58.84,red
+Plymouth Township|Pennsylvania|United States,40.1,-75.29,red
+Minamiuonuma|@|Japan,37.15,138.95,red
+Morón|Buenos Aires|Argentina,-34.65,-58.62,blue
+Davao City|@|Philippines,7.09,125.48,red
+Robe|@|Ethiopia,7.14,40.0,blue
+Homyel|Homyel Region|Belarus,52.45,30.99,red
+Apeldoorn|Gelderland|Netherlands,52.18,5.95,blue
+North Vancouver|British Columbia|Canada,49.31,-123.08,red
+Charlestown Township|Pennsylvania|United States,40.09,-75.54,red
+Concord|California|United States,37.97,-122.06,red
+Red Deer|Alberta|Canada,52.26,-113.82,red
+Tredyffrin Township|Pennsylvania|United States,40.05,-75.5,red
+Kalyan-Dombivli|Maharashtra|India,19.25,73.15,red
+Malaybalay|Bukidnon|Philippines,8.16,125.12,red
+North Charleston|South Carolina|United States,32.93,-80.03,red
+Port Louis|Black River|Mauritius,-20.18,57.47,red
+Tetovo|Polog Region|North Macedonia,41.99,20.96,red
+North West Leicestershire|England|United Kingdom,52.75,-1.45,blue
+Berea|Kentucky|United States,37.57,-84.29,blue
+Mandalay|Mandalay|Myanmar,21.98,96.09,red
+Fort McMurray|Alberta|Canada,56.71,-111.35,red
+Chittorgarh|Rajasthan|India,24.87,74.62,blue
+Wenham|Massachusetts|United States,42.59,-70.82,red
+Abali RD|@|Iran,35.72,51.92,red
+St. Helier|@|Jersey,49.18,-2.11,red
+Dunbar|West Virginia|United States,38.38,-81.77,blue
+Eger|@|Hungary,47.9,20.38,red
+Baqubah|Diyala Governorate|Iraq,33.68,44.6,red
+Serres|Macedonia and Thrace|Greece,41.08,23.55,red
+Barnsley|England|United Kingdom,53.55,-1.48,red
+Middelburg|Zeeland|Netherlands,51.5,3.61,red
+دهستان کیش|Hormozgan Province|Iran,26.55,54.01,red
+Gambela 1|Haut-Katanga|Democratic Republic of the Congo,-11.61,27.48,red
+Al Mutaw'ah|Abu Dhabi Emirate|United Arab Emirates,24.21,55.76,blue
+Neuss|North Rhine-Westphalia|Germany,51.13,6.73,red
+Metz|Grand Est|France,49.1,6.22,blue
+Sheboygan|Wisconsin|United States,43.75,-87.71,red
+Elk Grove|California|United States,38.45,-121.42,blue
+Sultanpur|Uttar Pradesh|India,26.26,82.07,red
+Whitemarsh Township|Pennsylvania|United States,40.12,-75.26,red
+Moreno Valley|California|United States,33.89,-117.2,red
+East Devon|England|United Kingdom,50.67,-3.32,blue
+Urgench|Xorazm Region|Uzbekistan,41.56,60.61,red
+Arad|@|Romania,46.19,21.31,red
+Ludwigsburg|Baden-Württemberg|Germany,48.89,9.18,red
+Gulu|Gulu|Uganda,2.79,32.32,red
+Zabol|Sistan and Baluchestan Province|Iran,31.04,61.49,red
+Liberty|Missouri|United States,39.25,-94.41,red
+Vitória da Conquista|Bahia|Brazil,-14.89,-40.8,blue
+Poway|California|United States,32.94,-117.03,red
+Kakamega|Kakamega County|Kenya,0.29,34.76,red
+Ichikawa|@|Japan,35.74,139.91,red
+Iligan|@|Philippines,8.29,124.4,red
+Angarsk|Irkutsk Oblast|Russia,52.53,103.86,red
+Yakima|Washington|United States,46.59,-120.53,blue
+Al Tiwayya|Abu Dhabi Emirate|United Arab Emirates,24.24,55.68,red
+Lehi|Utah|United States,40.43,-111.83,blue
+Ichihara|@|Japan,35.5,140.17,blue
+Horsham|England|United Kingdom,51.04,-0.36,red
+Ciudad de Santa Clara|Villa Clara|Cuba,22.44,-79.9,red
+Berhampore|West Bengal|India,24.1,88.29,red
+Madina|Greater Accra Region|Ghana,5.66,-0.12,red
+Clearwater|Florida|United States,27.91,-82.69,red
+Lawton|Oklahoma|United States,34.62,-98.4,red
+Louisville|Colorado|United States,39.96,-105.16,red
+Nimes|Occitania|France,43.84,4.36,blue
+Wigan|England|United Kingdom,53.56,-2.63,red
+Sahiwal|Punjab|Pakistan,30.66,73.11,red
+Sunyani|Bono Region|Ghana,7.35,-2.34,red
+Area A (Bamfield)|British Columbia|Canada,48.84,-125.14,blue
+Burnie|Tasmania|Australia,-41.05,145.88,red
+Parañaque|@|Philippines,14.47,121.0,red
+Raichur|Karnataka|India,16.22,77.38,red
+Lewiston|Idaho|United States,46.41,-117.03,red
+Mukilteo|Washington|United States,47.9,-122.32,red
+Bhilai|Chhattisgarh|India,21.24,81.35,red
+Al-Kut|Wasit Governorate|Iraq,32.5,45.84,red
+Eastleigh|England|United Kingdom,50.96,-1.37,red
+Lebanon|Illinois|United States,38.61,-89.82,red
+Upper Saucon|Pennsylvania|United States,40.54,-75.38,red
+Mirpur|Azad Kashmir|Pakistan,33.15,73.74,red
+Darjeeling|West Bengal|India,27.05,88.26,red
+Unguwar Rimi|Kaduna State|Nigeria,10.53,7.45,red
+Abiko|@|Japan,35.88,140.05,red
+Dothan|Alabama|United States,31.21,-85.36,blue
+Meru|Meru County|Kenya,0.05,37.65,red
+Anan|@|Japan,33.93,134.62,red
+Hengshui City|Hebei|China,37.74,115.67,blue
+Upper Uwchlan Township|Pennsylvania|United States,40.07,-75.69,blue
+New Britain Township|Pennsylvania|United States,40.27,-75.22,red
+Tirana|Central Albania|Albania,41.33,19.82,red
+Newcastle-Maitland|New South Wales|Australia,-33.02,151.65,red
+Mombasa|Mombasa County|Kenya,-4.07,39.67,red
+Westfield|Massachusetts|United States,42.13,-72.8,red
+Sohar|Al Batinah North Governorate|Oman,24.3,56.78,red
+Ruse|@|Bulgaria,43.85,25.97,red
+Abbottabad|Khyber Pakhtunkhwa|Pakistan,34.2,73.24,red
+Tosu|@|Japan,33.39,130.52,red
+San Miguel|Lima|Peru,-12.08,-77.09,red
+Takarazuka|@|Japan,34.81,135.33,red
+Longview|Texas|United States,32.47,-94.73,red
+Gwacheon-si|@|South Korea,37.43,126.98,blue
+Sunrise|Florida|United States,26.1,-80.26,red
+Piura|Piura|Peru,-5.17,-80.64,blue
+Khabarovsk|Khabarovsk Krai|Russia,48.53,135.05,red
+Tucumcari City Limit|New Mexico|United States,35.17,-103.74,red
+Nellore|Andhra Pradesh|India,14.42,79.96,red
+Al Khibeesi|Abu Dhabi Emirate|United Arab Emirates,24.22,55.69,blue
+Songjiang|@|China,31.05,121.22,blue
+Lisburn|Northern Ireland|United Kingdom,54.51,-6.05,red
+Khairpur|Sindh|Pakistan,27.52,68.75,red
+Yangon|Yangon|Myanmar,16.8,96.13,blue
+Omdurman|Khartoum State|Sudan,15.64,32.47,red
+Roodepoort|Gauteng|South Africa,-26.15,27.92,red
+Livorno|Tuscany|Italy,43.57,10.31,red
+Zwolle|Overijssel|Netherlands,52.5,6.08,blue
+Hrodna|Hrodna Region|Belarus,53.68,23.84,blue
+Hoofddorp|North Holland|Netherlands,52.3,4.7,red
+Mahbubnagar|Telangana|India,16.73,77.99,red
+Üçkuyu Köyü|@|Turkey,39.05,34.93,blue
+Gemeinde Breitenwang|Tyrol|Austria,47.49,10.74,red
+Harlow|England|United Kingdom,51.77,0.09,red
+Saint Charles|Missouri|United States,38.79,-90.5,red
+Clarington|Ontario|Canada,43.88,-78.8,red
+Baybay|Leyte|Philippines,10.74,124.79,red
+Osakasayama|@|Japan,34.49,135.55,blue
+Uluberiya|West Bengal|India,22.47,88.09,blue
+Whitby|Ontario|Canada,43.85,-78.95,red
+Prescott Valley|Arizona|United States,34.6,-112.29,red
+San Clemente|California|United States,33.45,-117.61,red
+Copiapó|Atacama Region|Chile,-27.36,-70.35,blue
+Rawson|Chubut Province|Argentina,-43.31,-65.04,blue
+Valmiera|Vidzeme|Latvia,57.53,25.42,red
+Mansfield|England|United Kingdom,53.12,-1.13,red
+Msunduzi Local Municipality|KwaZulu-Natal|South Africa,-29.65,30.33,red
+Aurora|Illinois|United States,41.75,-88.35,red
+West Whiteland Township|Pennsylvania|United States,40.04,-75.6,red
+Ontario|California|United States,34.03,-117.63,blue
+Komaki|@|Japan,35.28,136.93,red
+Franca|São Paulo|Brazil,-20.57,-47.41,blue
+Jihlava|Southeast|Czechia,49.44,15.61,blue
+Pasay|@|Philippines,14.54,120.99,blue
+Amol|Mazandaran Province|Iran,36.47,52.36,blue
+Bentonville|Arkansas|United States,36.36,-94.22,blue
+Debre Birhan|Amhara Region|Ethiopia,9.66,39.52,blue
+Salinas|California|United States,36.7,-121.63,blue
+Rindge|New Hampshire|United States,42.78,-72.06,blue
+Lhasa|Tibet|China,29.65,91.15,red
+Ciudad Obregón|Sonora|Mexico,27.48,-109.93,red
+Kapolei|Hawaii|United States,21.36,-158.06,red
+Emek HaYarden Regional Council|North District|Israel,32.71,35.59,blue
+Maasin|Southern Leyte|Philippines,10.13,124.85,red
+Rajamahendravaram|Andhra Pradesh|India,17.02,81.78,red
+Daddu|Kaduna State|Nigeria,9.59,8.09,red
+Dhamar|Dhamar Governorate|Yemen,14.58,44.38,red
+Wychavon|England|United Kingdom,52.1,-2.06,red
+Chandler|Arizona|United States,33.29,-111.8,red
+Ashtabula|Ohio|United States,41.89,-80.83,red
+Richardson|Texas|United States,32.97,-96.72,red
+Katsuura|@|Japan,35.16,140.32,red
+Pontianak|West Kalimantan|Indonesia,-0.06,109.35,red
+Fitchburg|Massachusetts|United States,42.59,-71.79,red
+Salatiga|Central Java|Indonesia,-7.32,110.5,red
+Mytishchi|Moscow Oblast|Russia,55.93,37.79,red
+Shawnee|Oklahoma|United States,35.37,-96.95,red
+Obninsk|Kaluga Oblast|Russia,55.12,36.6,blue
+Bruges|West Flanders|Belgium,51.19,3.21,red
+Helena|Montana|United States,46.59,-112.01,blue
+Nazareth|North District|Israel,32.7,35.29,red
+Kyrenia|@|Cyprus,35.33,33.28,red
+Ras Al Khaimah|Ras al-Khaimah|United Arab Emirates,25.77,55.98,red
+Hakodate|@|Japan,41.79,140.81,red
+Middletown Township|Pennsylvania|United States,39.93,-75.45,red
+Marawi|Lanao del Sur|Philippines,8.0,124.26,blue
+Adjamé|Abidjan|Côte d'Ivoire,5.39,-4.02,blue
+Campos dos Goytacazes|Rio de Janeiro|Brazil,-21.76,-41.35,red
+Muntinlupa|@|Philippines,14.41,121.04,red
+Salalah|Dhofar|Oman,17.01,54.06,red
+Huazhonglu Subdistrict|Anhui|China,30.51,117.05,red
+Kendari|Southeast Sulawesi|Indonesia,-3.97,122.59,red
+Yotsukaido|@|Japan,35.64,140.2,red
+São Caetano do Sul|São Paulo|Brazil,-23.62,-46.56,red
+North Battleford|Saskatchewan|Canada,52.74,-108.26,red
+City of Novi Pazar|Central Serbia|Serbia,43.14,20.52,blue
+Longueuil|Quebec|Canada,45.55,-73.5,red
+Bad Tölz|Bavaria|Germany,47.76,11.58,red
+Veliky Novgorod|Novgorod Oblast|Russia,58.54,31.26,blue
+Kherson|Kherson Oblast|Ukraine,46.65,32.63,red
+Lamia|Thessaly and Central Greece|Greece,38.91,22.43,blue
+Kameoka|@|Japan,34.99,135.55,blue
+Bethania|Panamá|Panama,9.02,-79.53,red
+Luhansk|Luhansk Oblast|Ukraine,48.57,39.38,red
+Ocala|Florida|United States,29.17,-82.18,red
+10th of Ramadan city|Eastern|Egypt,30.31,31.76,red
+Ternopil|Ternopil Oblast|Ukraine,49.55,25.59,red
+Los Altos|California|United States,37.38,-122.11,red
+East London|Eastern Cape|South Africa,-33.0,27.89,blue
+Sanandaj|Kurdistan Province|Iran,35.3,47.0,red
+Zenica|Federation of Bosnia and Herzegovina|Bosnia and Herzegovina,44.2,17.9,red
+Bissau|Bissau Autonomous Sector|Guinea-Bissau,11.85,-15.6,red
+Chita|Zabaykalsky Krai|Russia,52.03,113.53,red
+Ballari|Karnataka|India,15.15,76.9,red
+Elista|Republic of Kalmykia|Russia,46.31,44.27,red
+Rangpur|Rangpur Division|Bangladesh,25.72,89.26,blue
+Cayenne|French Guiana|France,4.92,-52.31,red
+Basildon|England|United Kingdom,51.56,0.45,blue
+Nassau|@|The Bahamas,25.06,-77.35,red
+Cambiano|Piemont|Italy,44.97,7.77,blue
+Red Bank|New Jersey|United States,40.35,-74.06,red
+Ryugasaki|@|Japan,35.92,140.19,blue
+Upper Merion Township|Pennsylvania|United States,40.1,-75.41,blue
+East Grand Rapids|Michigan|United States,42.85,-85.53,red
+Utsjoki|@|Finland,69.9,27.01,red
+Elkhart|Indiana|United States,41.66,-85.97,blue
+Satara|Maharashtra|India,17.69,74.02,red
+Tokai|@|Japan,35.03,136.9,red
+Claremont|New Hampshire|United States,43.38,-72.34,blue
+Bo Ngoen Subdistrict|Pathum Thani Province|Thailand,14.1,100.43,red
+Georgetown|Demerara-Mahaica|Guyana,6.81,-58.12,red
+Larkana|Sindh|Pakistan,27.55,68.2,red
+دهستان لاکان|Gilan Province|Iran,37.18,49.55,blue
+Jiyang District|Hainan Province|China,18.28,109.5,red
+Bishkek|@|Kyrgyzstan,42.88,74.6,red
+Kelurahan Kampung Bandar|Riau|Indonesia,0.54,101.44,red
+Ivano-Frankivsk|Ivano-Frankivsk Oblast|Ukraine,48.93,24.7,blue
+Holguín|Holguín|Cuba,20.89,-76.26,red
+Mandya|Karnataka|India,12.52,76.88,red
+Upper Dublin Township|Pennsylvania|United States,40.17,-75.19,red
+Munster Township|Pennsylvania|United States,40.5,-78.64,red
+Aberdeen|South Dakota|United States,45.48,-98.49,red
+Ventspils|Courland|Latvia,57.38,21.55,blue
+Goalpara|Assam|India,26.17,90.63,red
+Geoje-si|@|South Korea,34.87,128.7,red
+Tsuyama|@|Japan,35.08,134.01,red
+Prats-de-Mollo-la-Preste|Occitania|France,42.46,2.46,red
+Zefat|North District|Israel,32.95,35.49,blue
+Le Mans|Pays de la Loire|France,48.02,0.16,blue
+Vologda|Vologda Oblast|Russia,59.22,39.9,blue
+Perimetro Urbano Pereira|Risaralda|Colombia,4.79,-75.69,blue
+Kryvyi Rih|Dnipropetrovsk Oblast|Ukraine,47.91,33.4,blue
+Quincy|Massachusetts|United States,42.27,-71.01,blue
+Mentor|Ohio|United States,41.71,-81.3,red
+Yanbu`|Medina Province|Saudi Arabia,24.13,38.06,red
+Thanh Hóa|Thanh Hoa province|Vietnam,19.8,105.79,blue
+Otsu|@|Japan,34.98,135.9,red
+Belmont|North Carolina|United States,35.26,-81.04,blue
+Baqa al-Gharbiyye|Haifa District|Israel,32.42,35.03,red
+Torrance|California|United States,33.81,-118.34,blue
+Niiza|@|Japan,35.8,139.55,blue
+Esslingen am Neckar|Baden-Württemberg|Germany,48.72,9.31,red
+Napa|California|United States,38.27,-122.28,red
+Lilongwe|Lilongwe|Malawi,-13.98,33.79,red
+Inazawa|@|Japan,35.26,136.79,red
+Castelo Branco|@|Portugal,39.82,-7.5,red
+Burlingame|California|United States,37.58,-122.35,blue
+South Charleston|West Virginia|United States,38.37,-81.69,red
+Dumaguete|Negros Oriental|Philippines,9.31,123.31,red
+Kabul|Kabul Province|Afghanistan,34.53,69.1,red
+Cajamarca|Cajamarca|Peru,-7.17,-78.5,red
+Midland|Texas|United States,32.03,-102.11,red
+Korolyov|Moscow Oblast|Russia,55.92,37.81,red
+Tigard|Oregon|United States,45.43,-122.75,red
+Amber Valley|England|United Kingdom,53.1,-1.39,red
+Pinar del Rio|Pinar del Rio|Cuba,22.43,-83.69,red
+Ansan|@|South Korea,37.31,126.81,red
+Salta|Salta|Argentina,-24.79,-65.4,blue
+Texarkana|Texas|United States,33.44,-94.08,red
+Venice|Veneto|Italy,45.43,12.34,red
+Palm Harbor|Florida|United States,28.01,-82.78,red
+Rockford|Illinois|United States,42.27,-89.02,red
+Pori|@|Finland,61.49,21.73,red
+Faridpur|Dhaka Division|Bangladesh,23.61,89.84,red
+Ryazan|Ryazan Oblast|Russia,54.63,39.75,red
+Vilsbiburg|Bavaria|Germany,48.45,12.36,red
+Webster|Texas|United States,29.55,-95.13,red
+High Peak|England|United Kingdom,53.37,-1.82,blue
+Chorrillos|Lima|Peru,-12.22,-76.98,red
+Biberach an der Riß|Baden-Württemberg|Germany,48.09,9.79,blue
