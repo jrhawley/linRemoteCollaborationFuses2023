@@ -21,13 +21,11 @@ if (!dir.exists(res_dir)) {
 # ==============================================================================
 dag <- dagify(
     ability_to_work_remotely ~ publication_year,
-    citations ~ publication_year,
     distance ~ ability_to_work_remotely + temporal_separation + covid_19 + career_age,
     disruption ~ distance + knowledge_diversity + career_age + weak_ties + covid_19,
     n_i ~ disruption + publication_year + covid_19 + time_since_publication,
     n_j ~ disruption + publication_year + covid_19 + time_since_publication,
     n_k ~ disruption + publication_year + covid_19 + time_since_publication,
-    citations ~ n_i + n_j + n_k + covid_19,
     D ~ n_i + n_j + n_k,
     temporal_separation ~ ability_to_work_remotely,
     knowledge_diversity ~ weak_ties,
@@ -37,7 +35,6 @@ dag <- dagify(
     labels = c(
         "ability_to_work_remotely" = "Ability to Work\nRemotely",
         "publication_year" = "Publication Year",
-        "citations" = "Total\nCitations",
         "distance" = "Co-author\nDistance",
         "disruption" = "Disruption",
         "temporal_separation" = "Temporal\nSeparation",
