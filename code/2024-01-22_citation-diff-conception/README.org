@@ -1,0 +1,5 @@
+#+TITLE: Citation differences
+
+This folder extracts some Python code from the original notebook to see what the authors are analyzing in Figure 4 of the text.
+This Python script doesn't produce any output, but using it in an interactive Python session is informative and lets you see what data the authors are using in their analyses.
+

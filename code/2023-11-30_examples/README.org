@@ -1,0 +1,12 @@
+#+TITLE: Example distributions
+
+This folder contains code to plot some explanatory plots for what is likely happening in this paper.
+The first plots a causal graph of the variables discussed in this paper and their causal relationships to each other.
+The second simulates fake data to demonstrate [[https://en.wikipedia.org/wiki/Berkson%27s_paradox][Berkson's paradox]] with artificial athletics and academic "scores" that are intentiionally independent of each other.
+
+For details about causal graphs, how to build them, and how to use them, please see the following textbooks:
+
+1. Causality: Models, Reasoning, and Inference (2nd Ed). Judea Pearl, 2009. [[http://bayes.cs.ucla.edu/BOOK-2K/][Link]].
+2. Statistical Rethink: A Bayesian course with examples in R and Stan (2nd Ed). Richard McElreath, 2020. [[https://www.crcpress.com/Statistical-Rethinking-A-Bayesian-Course-with-Examples-in-R-and-STAN/McElreath/p/book/9780367139919][Link]].
+3. Causal Inference: What If?. Miguel A. Hernan & James M. Robins, 2024. [[https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2024/01/hernanrobins_WhatIf_2jan24.pdf][Link]].
+

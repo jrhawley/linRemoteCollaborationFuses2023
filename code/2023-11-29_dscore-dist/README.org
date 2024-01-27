@@ -1,0 +1,4 @@
+#+TITLE: D score distribution
+
+This folder loads the D scores (only for papers, not patents) and plots their distribution.
+
