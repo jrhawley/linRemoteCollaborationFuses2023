@@ -13,6 +13,7 @@
     deps = (with pkgs; [
       R
       python3
+      snakemake
     ]);
     r-deps = (with pkgs.rPackages; [
       data_table
