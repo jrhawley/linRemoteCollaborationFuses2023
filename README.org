@@ -3,6 +3,7 @@
 #+DATE: [2024-01-27 Sat]
 
 This repository explores and reproduces certain parts of the paper [[https://doi.org/10.1038/s41586-023-06767-1][Lin /et al./, Nature, 2023]].
+See [[https://jrhawley.ca/2023/12/01/remote-work-disruption/][this accompanying blog post]] for the motivation, exploration, and review of this paper.
 
 * Usage
 
@@ -31,4 +32,6 @@ linRemoteCollaborationFuses2023/
 ├── README.org
 └── results/      # figures created from scripts in the =code/= folder
 #+END_SRC
+
+See the =README= files in each folder for further details.
 
