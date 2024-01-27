@@ -10,23 +10,17 @@ res_dir = path.join("..", "..", "results")
 # ==============================================================================
 # Meta Rules
 # ==============================================================================
-rule all_dscore_dist:
+rule all_author_interactions:
 	input:
-	    path.join(res_dir, "papers.dscore.density.png"),
-	    path.join(res_dir, "papers.dscore-absolute.density.png"),
-	    path.join(res_dir, "papers.dscore.ecdf.png"),
 
 
 # ==============================================================================
 # Rules
 # ==============================================================================
-rule plot_dscore:
+rule analyze_interactions:
 	input:
-	    path.join(data_dir, "Paperid_Year_Discipline_Teamsize_Distance_Dscore.txt"),
-	output:
-	    path.join(res_dir, "papers.dscore.density.png"),
-	    path.join(res_dir, "papers.dscore-absolute.density.png"),
-	    path.join(res_dir, "papers.dscore.ecdf.png"),
+	    path.join(data_dir, 'Paperid_Remoteness_Authors_Teamroles.csv'),
+ 		path.join(data_dir, 'Paperid_Year_TeamSize_AuthorCitationCumulative.txt'),
 	script:
-		"plot_dist.R"
+		"count_team_roles.py"
 

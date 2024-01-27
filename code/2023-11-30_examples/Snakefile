@@ -3,30 +3,31 @@
 # ==============================================================================
 from os import path as path
 
+
 data_dir = path.join("..", "..", "data")
 res_dir = path.join("..", "..", "results")
-
 
 # ==============================================================================
 # Meta Rules
 # ==============================================================================
-rule all_dscore_dist:
+rule all_examples:
 	input:
-	    path.join(res_dir, "papers.dscore.density.png"),
-	    path.join(res_dir, "papers.dscore-absolute.density.png"),
-	    path.join(res_dir, "papers.dscore.ecdf.png"),
+	    path.join(res_dir, "dag.png"),
+	    path.join(res_dir, "berksons-paradox.png"),
 
 
 # ==============================================================================
 # Rules
 # ==============================================================================
-rule plot_dscore:
-	input:
-	    path.join(data_dir, "Paperid_Year_Discipline_Teamsize_Distance_Dscore.txt"),
+rule plot_causal_graph:
 	output:
-	    path.join(res_dir, "papers.dscore.density.png"),
-	    path.join(res_dir, "papers.dscore-absolute.density.png"),
-	    path.join(res_dir, "papers.dscore.ecdf.png"),
+	    path.join(res_dir, "dag.png"),
 	script:
-		"plot_dist.R"
+		"plot_graphs.R"
+
+rule plot_berksons_paradox:
+	output:
+	    path.join(res_dir, "berksons-paradox.png"),
+	script:
+		"plot_example_dist.R"
 
