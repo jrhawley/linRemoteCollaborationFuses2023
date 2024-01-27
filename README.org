@@ -6,7 +6,7 @@ This repository explores and reproduces certain parts of the paper [[https://doi
 
 * Usage
 
-This repository contains R and Python code, with only a few packages for each language.
+This repository contains [[https://www.r-project.org/][R]] and [[https://www.python.org/][Python]] code, with only a few packages for each language.
 The environment can be reproduced completely using [[https://nixos.org][Nix]] (see [[https://nixos.org/download][these installation instructions]]).
 
 #+BEGIN_SRC shell
@@ -23,12 +23,12 @@ nix develop
 The repository is layed out as follows:
 
 #+BEGIN_SRC
-linRemoteCollaborationFuses2023
-├── code         # source code from original publication and new replication code
-├── data         # data downloaded from original publication
-├── flake.lock   # lockfile for nix development shell
-├── flake.nix    # Nix flake describing the software environment
+linRemoteCollaborationFuses2023/
+├── code/         # source code from original publication and new replication code
+├── data/         # data downloaded from original publication
+├── flake.lock    # lockfile for nix development shell
+├── flake.nix     # Nix flake describing the software environment
 ├── README.org
-└── results      # figures created from scripts in the =code/= folder
+└── results/      # figures created from scripts in the =code/= folder
 #+END_SRC
 
