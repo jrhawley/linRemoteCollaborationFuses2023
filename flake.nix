@@ -14,10 +14,21 @@
       R
       python3
     ]);
+    r-deps = (with pkgs.rPackages; [
+      data_table
+      ggdag
+      ggplot2
+      here
+    ]);
+    py-deps = (with pkgs.python311Packages; [
+      numpy
+      pandas
+      statsmodels
+    ]);
   in {
     devShells = {
      ${system}.default = pkgs.mkShell {
-       packages =  deps;
+       packages =  deps ++ r-deps ++ py-deps;
      };
     };
   };
