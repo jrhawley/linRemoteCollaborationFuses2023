@@ -1,0 +1,15 @@
+#+TITLE: Code
+
+This folder contains code published with the original paper as well as new code to reproduce and investigate some of the results.
+
+The original code is the =RemoteCollaboration_CodeMainFigures.ipynb= notebook that comes from [[https://lyl010.github.io/page5.html][the author's website]].
+The file in this repository is the same as the original, except with a few code comments added in for clarity.
+
+For the code in each of the =YYYY-MM-DD_*/= folders, navigate into those folders and execute the =Snakefile= to recreate the output files in the [[../results/][=results/=]] folder.
+For example:
+
+#+BEGIN_SRC shell
+cd 2023-11-29_dscore-dist/
+snakemake -j 1
+#+END_SRC
+
