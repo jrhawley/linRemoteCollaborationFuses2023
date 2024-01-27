@@ -1,0 +1,5 @@
+#+TITLE: Results
+
+This folder contains images resulting from the scripts run in the [[../code/][=code/=]] folder.
+See those individual folders for details.
+
