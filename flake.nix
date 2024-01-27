@@ -20,6 +20,7 @@
       ggdag
       ggplot2
       here
+      patchwork
     ]);
     py-deps = (with pkgs.python311Packages; [
       numpy
